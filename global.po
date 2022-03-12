@@ -109629,7 +109629,7 @@ msgid "IDS_WORKTIME"
 msgstr "啟用"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "《戰艦世界》(Hibiki繁中化1.1.0)"
+msgstr "《戰艦世界》(Hibiki繁中化2.0.0)"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
