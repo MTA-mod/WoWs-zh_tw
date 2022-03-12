@@ -1591,6 +1591,9 @@ msgstr "舉灣"
 msgid "IDS_ACHIEVEMENT_2AIRSHIPS_VICTORYCLAIMED"
 msgstr "搶奪榮耀"
 
+msgid "IDS_ACHIEVEMENT_3WAYSTOKILL_PA"
+msgstr "全部擊沉"
+
 msgid "IDS_ACHIEVEMENT_AIRDEFENSEEXPERT"
 msgstr "防空火炮專業"
 
@@ -1918,6 +1921,9 @@ msgstr "山本五十六"
 msgid "IDS_ACHIEVEMENT_COLLECTORSCLUB"
 msgstr "可敬的收藏家"
 
+msgid "IDS_ACHIEVEMENT_COLLECTOR_PA"
+msgstr "掠奪者"
+
 msgid "IDS_ACHIEVEMENT_CONTRIBUTOR"
 msgstr "戰艦世界的貢獻者"
 
@@ -1956,8 +1962,8 @@ msgstr "重大貢獻"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_2AIRSHIPS_5MINUTESWINNER"
 msgstr ""
-"在戰鬥結束以前，持續加速我方飛艇 "
-"5 分鐘並贏得該場戰鬥。"
+"在戰鬥結束的那一刻，您已持續加速己方飛艇 "
+"5 分鐘並贏得該場戰鬥。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_2AIRSHIPS_INCENTER"
 msgstr "在加速我方飛艇的同時，也減速敵方飛艇。"
@@ -1970,6 +1976,9 @@ msgstr "持續減速敵方飛艇 1 分鐘。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_2AIRSHIPS_VICTORYCLAIMED"
 msgstr "在敵方飛艇幾乎要抵達航線終點之前，擊毀所有敵方艦艇以奪取勝利。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_3WAYSTOKILL_PA"
+msgstr "在單場戰鬥中以 3 種不同的方式擊毀 3 艘敵方艦艇。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_AIRDEFENSEEXPERT"
 msgstr ""
@@ -1992,7 +2001,7 @@ msgstr "贏得 %(winCount)s 場隨機戰鬥。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ARSONIST"
 msgstr ""
-"使一艘敵方艦艇起火並摧毀她。火災造成的傷害必須超過被摧毀艦艇一般血量的 "
+"使一艘敵方艦艇起火並摧毀她。火災造成的傷害必須超過被摧毀艦艇基本血量的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ATBA_CALIBER"
@@ -2394,6 +2403,9 @@ msgstr "完成整個「山本五十六」收藏"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTORSCLUB"
 msgstr "感謝您對海軍艦隊的無比熱忱。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_COLLECTOR_PA"
+msgstr "在單場戰鬥中奪得 5 個由飛機投擲的消耗品。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CONTRIBUTOR"
 msgstr "貢獻者團隊成員。"
 
@@ -2408,19 +2420,19 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_CONVOY_FLAWLESSVICTORY"
 msgstr ""
 "在不損失任何一艘友軍艦艇的情況下擊毀所有運輸艦，贏得一場戰鬥。\n"
 "\n"
-"對敵方艦艇造成的傷害必須超過您艦艇一般血量的 "
+"對敵方艦艇造成的傷害必須超過您艦艇基本血量的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CONVOY_TRANSPORTSAREALIVE"
 msgstr ""
-"在不損失任何一艘運輸艦的情況下贏得一場戰鬥。對敵方艦艇造成的傷害必須超過您艦艇一般血量的 "
+"在不損失任何一艘運輸艦的情況下贏得一場戰鬥。對敵方艦艇造成的傷害必須超過您艦艇基本血量的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_CONVOY_TWOTOONE"
 msgstr ""
 "在敵艦數量為我方艦艇兩倍或以上的情況下，贏得一場戰鬥並存活下來。\n"
 "\n"
-"對敵方艦艇造成的傷害必須超過您艦艇一般血量的 "
+"對敵方艦艇造成的傷害必須超過您艦艇基本血量的 "
 "%(damageRatio_percent)s。\n"
 "\n"
 "可在任何一方隊伍中完成。"
@@ -2449,19 +2461,28 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_DMMGAMES"
 msgstr ""
 "為紀念《戰艦世界》在 DMM Games 平台發布的獨家成就。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLEKILL_PA"
+msgstr "在 10 秒內擊毀 2 艘敵方艦艇。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DOUBLE_KILL"
-msgstr ""
-"擊毀 2 艘敵方艦艇。第二目標必須在第一目標被摧毀後的 "
-"%(timeInterval)s 秒鐘內摧毀。"
+msgstr "在 %(timeInterval)s 秒內擊毀 2 艘敵方艦艇。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT"
 msgstr ""
 "從 "
-"%(damagersCount)s 名或以上敵人那受到超過己身艦艇一般血量的 "
+"%(damagersCount)s 名或以上敵人那受到超過己身艦艇基本血量的 "
 "%(damageRatio_percent)s 傷害並存活下來。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_DREADNOUGHT_PA"
+msgstr ""
+"受到的傷害超過己身艦艇基本血量的 "
+"%(damageRatio_percent)s，並存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_ENGINEER"
 msgstr "研發 %(shipsCount)s 艘艦艇。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_ENGINEER_PA"
+msgstr "獲得全部陣營的所有艦艇。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EPT"
 msgstr "積極參與「EAT PLAY TALK」線上活動。"
@@ -2493,7 +2514,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_EPICENTER2"
 msgstr "佔領關鍵地區至少 5 次。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_TORPEDO1"
-msgstr "受到超過您艦艇一般血量 %(damageRatio_percent)s 的傷害。"
+msgstr "受到超過您艦艇基本血量 %(damageRatio_percent)s 的傷害。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_EV1APR19_TORPEDO2"
 msgstr "在 10 秒內擊毀 2 艘敵方艦艇。"
@@ -2591,7 +2612,7 @@ msgstr " "
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FIREPROOF"
 msgstr ""
-"從火災中受到超過己身艦艇一般血量的 "
+"從火災中受到超過己身艦艇基本血量的 "
 "%(damageRatio_percent)s 傷害並存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_FIRST_BLOOD"
@@ -2642,13 +2663,16 @@ msgstr "擊沉 3 艘 漢諾威 級超級主力艦。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HEADBUTT"
 msgstr "透過衝撞來摧毀一艘敵方艦艇並存活下來。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_HIFROMHELL_PA"
+msgstr "從野火中擊毀一艘敵方艦艇。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_HONOR"
 msgstr "在「Victory」競賽中效忠於「Honor」隊。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_INSTANT_KILL"
 msgstr ""
 "使用任何武器，在 "
-"5 秒內對一艘敵艦造成至少為其正常血量 "
+"5 秒內對一艘敵艦造成至少為其基本血量 "
 "%(_damageRatio_percent)s 的傷害並將之摧毀。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_JOLLYROGER"
@@ -2718,8 +2742,11 @@ msgstr ""
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_LIQUIDATOR"
 msgstr ""
-"造成一艘敵方艦艇進水並將之擊毀。進水造成的傷害必須超過該艦艇一般血量的 "
+"造成一艘敵方艦艇進水並將之擊毀。進水造成的傷害必須超過該艦艇基本血量的 "
 "%(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_LONGTIME_PA"
+msgstr "在戰鬥中存活超過 10 分鐘。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER"
 msgstr ""
@@ -2729,7 +2756,7 @@ msgstr ""
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MAIN_CALIBER_SQUAD"
 msgstr ""
-"您的分艦隊所造成的傷害，必需至少為所有敵艦一般血量之總和的 "
+"您的分艦隊所造成的傷害，必需至少為所有敵艦基本血量總和的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_MERCENARY"
@@ -2845,7 +2872,7 @@ msgstr ""
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_HERO_DAM_ENEM"
 msgstr ""
-"對至少半數的敵方艦艇造成傷害。對每艘艦艇造成的傷害必須至少為其一般血量的 "
+"對至少半數的敵方艦艇造成傷害。對每艘艦艇造成的傷害必須至少為其基本血量的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_PVE_HERO_WIN_ONE"
@@ -2927,6 +2954,9 @@ msgstr ""
 "完成行動及所有次要工作，存活到戰鬥結束，並造成自身艦艇 "
 "%(damageRatio_percent)s 或以上血量的傷害。"
 
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_RAM_PA"
+msgstr "在單場戰鬥中，透過衝撞來摧毀 2 艘敵方艦艇。"
+
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RASPUTIN"
 msgstr ""
 "授予在「暮光之戰」中以主力艦 魔僧 贏得勝利的玩家。"
@@ -2938,7 +2968,7 @@ msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_NEW_YEAR"
 msgstr "加入「新年之夜」活動！"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_RVR_PLAYER"
-msgstr "積極參與傳奇競賽並展現真正的團隊精神。"
+msgstr "積極參與「勇氣交鋒」活動！"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SATSUMA_KILL"
 msgstr "擊沉 3 艘 薩摩 級超級主力艦。"
@@ -2988,14 +3018,17 @@ msgstr "開發人員感謝您參與超測。"
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT"
 msgstr ""
 "傷害 "
-"%(victimsCount)s 艘或以上的敵方艦艇。對每艘艦艇所造成的傷害必須超過其一般血量的 "
+"%(victimsCount)s 艘或以上的敵方艦艇。對每艘艦艇所造成的傷害必須超過其基本血量的 "
 "%(damageRatio_percent)s。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_SUPPORT_SQUAD"
 msgstr ""
 "您的分艦隊必需對至少 "
-"%(victimsCount)s 艘敵方艦艇造成傷害。對每艘艦艇造成的傷害必須至少為其一般血量的 "
+"%(victimsCount)s 艘敵方艦艇造成傷害。對每艘艦艇造成的傷害必須至少為其基本血量的 "
 "%(damageRatio_percent)s。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_SWEETPORT_PA"
+msgstr "在「Flooded City」地圖的港口中使用霧笛。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_TOP_LEADERBOARD"
 msgstr "名人堂排名前 100 的玩家。"
@@ -3056,7 +3089,7 @@ msgstr "測試。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_UNSINKABLE"
 msgstr ""
-"因進水受到超過己身艦艇一般血量的 "
+"因進水受到超過己身艦艇基本血量的 "
 "%(damageRatio_percent)s 傷害、並存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_VETERAN"
@@ -3082,6 +3115,9 @@ msgstr "Wargaming 聖彼得堡員工。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WG_STAFF"
 msgstr "Wargaming 員工。"
+
+msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNERTEAM_PA"
+msgstr "贏得一場戰鬥，且所有隊伍成員都存活下來。"
 
 msgid "IDS_ACHIEVEMENT_DESCRIPTION_WINNER_CLAN_SEASON_1"
 msgstr "贏得第 1 季的公會戰鬥。"
@@ -3148,14 +3184,23 @@ msgstr "一發入魂"
 msgid "IDS_ACHIEVEMENT_DMMGAMES"
 msgstr "「DMM Games」成就"
 
+msgid "IDS_ACHIEVEMENT_DOUBLEKILL_PA"
+msgstr "雙重捕獲"
+
 msgid "IDS_ACHIEVEMENT_DOUBLE_KILL"
 msgstr "雙殺"
 
 msgid "IDS_ACHIEVEMENT_DREADNOUGHT"
 msgstr "勇者無懼"
 
+msgid "IDS_ACHIEVEMENT_DREADNOUGHT_PA"
+msgstr "牢不可破"
+
 msgid "IDS_ACHIEVEMENT_ENGINEER"
 msgstr "海軍造船技師"
+
+msgid "IDS_ACHIEVEMENT_ENGINEER_PA"
+msgstr "戰爭機器"
 
 msgid "IDS_ACHIEVEMENT_EPT"
 msgstr "EAT PLAY TALK 2021"
@@ -3340,6 +3385,9 @@ msgstr "Z 計畫"
 msgid "IDS_ACHIEVEMENT_HEADBUTT"
 msgstr "鐵頭功"
 
+msgid "IDS_ACHIEVEMENT_HIFROMHELL_PA"
+msgstr "熱烈問候"
+
 msgid "IDS_ACHIEVEMENT_HONOR"
 msgstr "Honor"
 
@@ -3396,6 +3444,9 @@ msgstr "英雄兄弟情"
 
 msgid "IDS_ACHIEVEMENT_LIQUIDATOR"
 msgstr "灌水狂"
+
+msgid "IDS_ACHIEVEMENT_LONGTIME_PA"
+msgstr "飽受摧殘"
 
 msgid "IDS_ACHIEVEMENT_MAIN_CALIBER"
 msgstr "優質作戰"
@@ -3571,6 +3622,9 @@ msgstr "拯救炸雞指揮官！"
 msgid "IDS_ACHIEVEMENT_PVE_HON_WIN_ALL_DONE"
 msgstr "戰鬥之星"
 
+msgid "IDS_ACHIEVEMENT_RAM_PA"
+msgstr "麻煩製造者"
+
 msgid "IDS_ACHIEVEMENT_RASPUTIN"
 msgstr "暮光艦隊旗艦"
 
@@ -3609,6 +3663,9 @@ msgstr "於「以殿下之名！」活動中授予。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_ROYALNAVY"
 msgstr "於「Royal Navy」活動中授予。"
+
+msgid "IDS_ACHIEVEMENT_RESTRICTIONS_EVENT_TEAM_BATTLE_ROYALE"
+msgstr "可在「殘酷戰鬥」模式中完成。"
 
 msgid "IDS_ACHIEVEMENT_RESTRICTIONS_KEY"
 msgstr "可在「奪鑰之戰」中完成。"
@@ -3757,6 +3814,9 @@ msgstr "最佳助攻"
 msgid "IDS_ACHIEVEMENT_SUPPORT_SQUAD"
 msgstr "並肩奮戰"
 
+msgid "IDS_ACHIEVEMENT_SWEETPORT_PA"
+msgstr "Honey, I'm Home!"
+
 msgid "IDS_ACHIEVEMENT_TOP_LEADERBOARD"
 msgstr "領先的100名"
 
@@ -3861,6 +3921,9 @@ msgstr "開發人員"
 
 msgid "IDS_ACHIEVEMENT_WG_STAFF"
 msgstr "Wargaming"
+
+msgid "IDS_ACHIEVEMENT_WINNERTEAM_PA"
+msgstr "三劍客"
 
 msgid "IDS_ACHIEVEMENT_WINNER_CLAN_SEASON_1"
 msgstr "Hotspot"
@@ -4443,7 +4506,7 @@ msgid "IDS_AIRPLANE_THROTTLE_DOWN"
 msgstr "減速"
 
 msgid "IDS_AIRPLANE_THROTTLE_UP"
-msgstr "加速（引擎增壓）"
+msgstr "加速（引擎加速）"
 
 msgid "IDS_AIRPLANE_TURN_LEFT"
 msgstr "向左轉"
@@ -4936,58 +4999,62 @@ msgstr "太空戰鬥"
 
 msgid "IDS_ARC_EVENT_BATTLETYPECHOOSER_SUBHEADER"
 msgstr ""
-"「新年之夜」活動於聯合作戰、隨機戰鬥和排名戰中進行，使用 "
-"V 階及以上艦艇。"
+"「勇氣交鋒」活動以 "
+"V 階或以上的艦艇，於聯合作戰、隨機戰鬥、排名戰和「殘酷戰鬥」限時戰鬥類型中進行。"
 
 msgid "IDS_ARC_EVENT_CHANGE_SIDE_IN_NEXT_SPRINT"
 msgstr "您將可在下個階段切換隊伍"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_DESCRIPTION"
-msgstr "每顆星星都對各自的雪巨人分配了特定的新年籌備任務。選擇您想助其一臂之力的巨人吧！"
+msgstr "各艘驅逐艦按照名稱分成不同隊伍。加入競賽，在戰鬥中展示您的勇氣！"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_0"
-msgstr "加入「Sertum」隊伍"
+msgstr "加入「士兵與統帥」隊伍"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_1"
-msgstr "加入「Modus」隊伍"
+msgstr "加入「航海家與詩人」隊伍"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_2"
-msgstr "加入「Munera」隊伍"
+msgstr "加入「愛國者與戰鬥」隊伍"
+
+msgid "IDS_ARC_EVENT_CHOOSE_SIDE_MOUSE_INSTRUCTION_3"
+msgstr "加入「箭與閃電」隊伍"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_RULES_LINK_HINT"
-msgstr "更多關於「新年之夜」活動的資訊"
+msgstr "更多關於活動的詳情"
 
 msgid "IDS_ARC_EVENT_CHOOSE_SIDE_RULES_LINK_TEXT"
-msgstr "更多關於活動的資訊"
+msgstr "活動介紹"
 
 msgid "IDS_ARC_EVENT_COMMON_EVENT_TITLE"
-msgstr "新年之夜"
+msgstr "勇氣交鋒"
 
 msgid "IDS_ARC_EVENT_COMMON_LEADERBOARD_BOTTOM"
 msgstr "您未能進入前 50% 玩家的行列"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_0"
-msgstr "Sertum"
+msgstr "士兵與統帥"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_1"
-msgstr "Modus"
+msgstr "航海家與詩人"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_2"
-msgstr "Munera"
+msgstr "愛國者與戰鬥"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_3"
+msgstr "箭與閃電"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_0"
-msgstr ""
-"由 "
-"Sertum 星星賦予生命的雪巨人，被召喚來用閃爍的燈光和飾品增添節日氣氛。"
+msgstr "此隊伍的艦艇以軍事專業和羅馬將軍命名。"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_1"
-msgstr ""
-"由 "
-"Modus 星星賦予生命的雪巨人，被召喚來散播節日氣氛與歡樂。"
+msgstr "此隊伍的艦艇以偉大航海家和文化名人命名。"
 
 msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_2"
-msgstr ""
-"由 Munera 星星賦予生命的雪巨人，被召喚來分發新年禮物。"
+msgstr "此隊伍艦艇的命名是為了紀念義大利統一運動時期的戰鬥和傑出人物。"
+
+msgid "IDS_ARC_EVENT_COMMON_SIDE_DESCRIPTION_3"
+msgstr "此隊伍所有艦艇的名稱從義大利語翻譯過來的意思是「箭」或「閃電」。"
 
 msgid "IDS_ARC_EVENT_COMMON_STATUS_CALCULATING_EVENT_RESULTS"
 msgstr "成績計算中"
@@ -5007,7 +5074,7 @@ msgstr ""
 "（在總結當天的結果後發布）"
 
 msgid "IDS_ARC_EVENT_FINAL_FOOTER"
-msgstr "雖然新年的籌備工作讓您忙得不可開交，但您仍成功讓這個節日充滿歡樂，並添加了一絲真正的魔法！"
+msgstr "您在這場競賽中證明了自己是一位英勇的艦長！"
 
 msgid "IDS_ARC_EVENT_FINAL_REWARD"
 msgstr "參加獎勵"
@@ -5031,9 +5098,7 @@ msgid "IDS_ARC_EVENT_INTRO_MODAL_CHOICE_CANCEL"
 msgstr "略過"
 
 msgid "IDS_ARC_EVENT_INTRO_SUBHEADER"
-msgstr ""
-"魔法星星已使 "
-"3 個雪巨人復活，並給各巨人分配了籌備新年慶典的任務。"
+msgstr "義大利海軍全新驅逐艦的船員們想要透過一場友誼賽，來證明自己的過人之處。"
 
 msgid "IDS_ARC_EVENT_INVITATION_TO_SIDE_0"
 msgstr "Eagles隊想要你！"
@@ -5147,11 +5212,20 @@ msgstr "個人進度"
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_POINTS_TEAM"
 msgstr "隊伍進度"
 
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_HINT"
+msgstr "前往軍械庫的活動類別"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARDS_LINK_TEXT"
+msgstr "積極參與的獎勵"
+
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARD_TOOLTIP_POINTS_TILL_NEXT_REWARD_COLON"
 msgstr "所需積分"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_REWARD_TOOLTIP_STATUS_LOCKED_DESCRIPTION"
 msgstr "要解鎖獎勵，您的個人與隊伍進度必需達到進度條上的這個標記。"
+
+msgid "IDS_ARC_EVENT_MAIN_SCREEN_RULES_LINK_HINT"
+msgstr "閱讀活動規則"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_RULES_LINK_TEXT"
 msgstr "參與規則"
@@ -5205,7 +5279,7 @@ msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_GAIN_CREDITS"
 msgstr "盡量獲取銀幣"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_GAIN_EXP"
-msgstr "盡量獲取經驗"
+msgstr "盡量獲取基本經驗"
 
 msgid "IDS_ARC_EVENT_MAIN_SCREEN_TASK_HIT"
 msgstr "盡量命中敵方艦艇"
@@ -5268,7 +5342,7 @@ msgstr[1] "剩餘%(points)s點"
 msgstr[2] "剩餘%(points)s點"
 
 msgid "IDS_ARC_EVENT_PORT_BANNER_TOOLTIP_HINT"
-msgstr "前往「新年之夜」活動畫面"
+msgstr "前往「勇氣交鋒」活動畫面"
 
 msgid "IDS_ARC_EVENT_PORT_NOTIFICATION_CHOOSE_SIDE"
 msgstr "您已加入「%(_sideName)s」隊伍"
@@ -5595,6 +5669,9 @@ msgstr "Theodor \"Trouble\" Murphy"
 
 msgid "IDS_AUC2"
 msgstr "彼得 格拉多夫"
+
+msgid "IDS_AUC3_HAVELOCK"
+msgstr "Havelock"
 
 msgid "IDS_AURA_TYPE_FAR"
 msgstr "：長程"
@@ -5963,7 +6040,7 @@ msgstr "轟炸機能以一連串威力強大的炸彈來攻擊目標。"
 
 msgid "IDS_BATTLEHINT_DESCRIPTION_FIGHTER"
 msgstr ""
-"使用HE火箭攻擊目標。它們對機動性高的敵方目標最有效。"
+"使用 HE 火箭攻擊目標。能有效對付機動性高的敵方目標。"
 
 msgid "IDS_BATTLEHINT_DESCRIPTION_HE"
 msgstr ""
@@ -5972,10 +6049,10 @@ msgstr ""
 "這些砲彈有潛力造成顯著傷害，且有高機率造成火災或讓配件失去作用。"
 
 msgid "IDS_BATTLEHINT_DESCRIPTION_TORPEDO"
-msgstr "魚雷能有效對付大型的重裝甲目標。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_BATTLEHINT_TYPE_AP"
-msgstr "穿甲 (AP) 彈"
+msgstr "穿甲（AP）彈"
 
 msgid "IDS_BATTLEHINT_TYPE_BOMBER"
 msgstr "魚雷轟炸機"
@@ -5996,7 +6073,7 @@ msgid "IDS_BATTLEHINT_TYPE_CONSUMABLE_SMOKEGENERATOR"
 msgstr "發煙機"
 
 msgid "IDS_BATTLEHINT_TYPE_CS"
-msgstr "半穿甲 (SAP) 彈"
+msgstr "半穿甲（SAP）彈"
 
 msgid "IDS_BATTLEHINT_TYPE_DIVE"
 msgstr "轟炸機"
@@ -6005,7 +6082,7 @@ msgid "IDS_BATTLEHINT_TYPE_FIGHTER"
 msgstr "（高爆）對艦攻擊機"
 
 msgid "IDS_BATTLEHINT_TYPE_HE"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_BATTLEHINT_TYPE_TORPEDO"
 msgstr "魚雷"
@@ -6014,7 +6091,7 @@ msgid "IDS_BATTLEHINT_USAGE_AP"
 msgstr "對付同類型敵方艦艇最為有效。"
 
 msgid "IDS_BATTLEHINT_USAGE_BOMBER"
-msgstr "從艦艇的兩側進攻時，它們有著最大的效果，而對付高機動性目標則否。"
+msgstr "從艦艇舷側進攻時最為有效，而對付高機動性目標則否。"
 
 msgid "IDS_BATTLEHINT_USAGE_CONSUMABLE_AIRDEFENSEDISP"
 msgstr "適用於巡洋艦。"
@@ -6035,7 +6112,7 @@ msgid "IDS_BATTLEHINT_USAGE_CS"
 msgstr "對付同類型敵方艦艇最為有效。"
 
 msgid "IDS_BATTLEHINT_USAGE_DIVE"
-msgstr "當它們從艦艏或艦艉接近目標艦艇會有著最大的效果。"
+msgstr "當它們從艦艏或艦艉接近目標艦艇時最為有效。"
 
 msgid "IDS_BATTLEHINT_USAGE_FIGHTER"
 msgstr "它們對機動性高的敵方目標最有效。"
@@ -6220,6 +6297,9 @@ msgstr "您成功了！"
 msgid "IDS_BATTLE_RESULT_HW2020_HEADER_PORTAL"
 msgstr "您成功了！"
 
+msgid "IDS_BATTLE_ROYALE"
+msgstr "殘酷戰鬥"
+
 msgid "IDS_BATTLE_SESSION_LEAVE_REASON_ARENA_FAILED"
 msgstr "請稍後再試著進入戰鬥或選擇其他戰鬥類型。"
 
@@ -6317,7 +6397,7 @@ msgid "IDS_BATTLE_STATS_AMMO_CS_SHORT"
 msgstr "SAP 彈"
 
 msgid "IDS_BATTLE_STATS_AMMO_HE"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_BATTLE_STATS_AMMO_HE_SHORT"
 msgstr "HE 彈"
@@ -6488,7 +6568,7 @@ msgid "IDS_BATTLE_STATS_DAMAGED_BY_2"
 msgstr "被副炮組擊毀"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_20"
-msgstr "被汙穢之地擊毀"
+msgstr "被野火摧毀"
 
 msgid "IDS_BATTLE_STATS_DAMAGED_BY_21"
 msgstr "通過傳送門離開"
@@ -6822,6 +6902,9 @@ msgstr "己隊在佔領基地及關鍵地區時獲得的總點數"
 
 msgid "IDS_BATTLE_STATS_TEAM_DEFENCE_POINTS_HINT"
 msgstr "己隊在防禦基地及關鍵地區時獲得的總點數"
+
+msgid "IDS_BATTLE_STATS_TEAM_LADDER_PLACE"
+msgstr "您的隊伍取得了排名 %(place)s。"
 
 msgid "IDS_BATTLE_STATS_TEAM_REPORT"
 msgstr "隊伍成績"
@@ -7561,6 +7644,9 @@ msgstr "艦炮受損。"
 msgid "IDS_BROWSER_LOADING_TITLE"
 msgstr "..."
 
+msgid "IDS_BRUNO_BATTAGLIA"
+msgstr "Bruno Battaglia"
+
 msgid "IDS_BUILDING_AIRBASE"
 msgstr "機場"
 
@@ -7893,6 +7979,9 @@ msgstr "沒有符合標準的艦艇"
 
 msgid "IDS_CAROUSEL_NO_COMPATIBLE_SHIPS_TOOLTIP"
 msgstr "沒有艦艇符合過濾標準。"
+
+msgid "IDS_CAROUSEL_PCVE004_FILTER"
+msgstr "過濾適合殘酷戰鬥的艦艇"
 
 msgid "IDS_CAROUSEL_PCVE007_FILTER"
 msgstr "過濾適合非對稱戰鬥的艦艇"
@@ -8437,6 +8526,9 @@ msgstr "開啟分艦隊選單"
 
 msgid "IDS_CHOOSE_DYNAMIC_CROSSHAIR"
 msgstr "選擇一種動態準星"
+
+msgid "IDS_CHOOSE_EVENTBATTLE_PCVE004"
+msgstr "選擇殘酷戰鬥"
 
 msgid "IDS_CHOOSE_EVENTBATTLE_PCVE007"
 msgstr "選擇非對稱戰鬥"
@@ -9136,6 +9228,42 @@ msgstr "$%*#@!"
 msgid "IDS_CMD_QUICK_COMMANDS_WINDOW"
 msgstr "快速指令面板"
 
+msgid "IDS_CMD_QUICK_DROP_DAMAGE_ACTIVE!"
+msgstr "[TECH] \"Explosives\" buff!"
+
+msgid "IDS_CMD_QUICK_DROP_DAMAGE_ACTIVE_MESSAGE"
+msgstr "[TECH] \"Explosives\" buff in"
+
+msgid "IDS_CMD_QUICK_DROP_HEALTH_ACTIVE!"
+msgstr "[TECH] \"HP\" buff!"
+
+msgid "IDS_CMD_QUICK_DROP_HEALTH_ACTIVE_MESSAGE"
+msgstr "[TECH] \"HP\" buff in"
+
+msgid "IDS_CMD_QUICK_DROP_RANDOM_CONSUMABLE_ACTIVE"
+msgstr "消耗品"
+
+msgid "IDS_CMD_QUICK_DROP_RANDOM_CONSUMABLE_ACTIVE_MESSAGE"
+msgstr "消耗品"
+
+msgid "IDS_CMD_QUICK_DROP_RELOAD_ACTIVE!"
+msgstr "[TECH] \"Reload\" buff!"
+
+msgid "IDS_CMD_QUICK_DROP_RELOAD_ACTIVE_MESSAGE"
+msgstr "[TECH] \"Reload\" buff in"
+
+msgid "IDS_CMD_QUICK_DROP_REPAIR_ACTIVE!"
+msgstr "[TECH] \"Restoration\" buff!"
+
+msgid "IDS_CMD_QUICK_DROP_REPAIR_ACTIVE_MESSAGE"
+msgstr "[TECH] \"Restoration\" buff in"
+
+msgid "IDS_CMD_QUICK_DROP_REPAIR_PARTY_ACTIVE"
+msgstr "維修小組"
+
+msgid "IDS_CMD_QUICK_DROP_REPAIR_PARTY_ACTIVE_MESSAGE"
+msgstr "「維修小組」消耗品"
+
 msgid "IDS_CMD_QUICK_GOOD_GAME_MESSAGE"
 msgstr "做得很好！"
 
@@ -9575,7 +9703,7 @@ msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_NEUTRAL_BUILDING"
 msgstr "佔領目標 %s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_MESSAGE_NEUTRAL_INTERACTIVE_ZONE_6"
-msgstr "快奪取增益效果！"
+msgstr "奪取 %(mapPoint)s 的%(dropMessageName)s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW"
 msgstr "注意！"
@@ -9710,7 +9838,7 @@ msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_NEUTRAL_BUILDING"
 msgstr "%s!"
 
 msgid "IDS_CMD_QUICK_TACTIC_SMALLWINDOW_NEUTRAL_INTERACTIVE_ZONE_6"
-msgstr "快奪取增益效果！"
+msgstr "%(dropName)s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW"
 msgstr "注意！"
@@ -9845,7 +9973,7 @@ msgid "IDS_CMD_QUICK_TACTIC_WINDOW_NEUTRAL_BUILDING"
 msgstr "%s!"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_NEUTRAL_INTERACTIVE_ZONE_6"
-msgstr "快奪取增益效果！"
+msgstr "%(dropName)s！"
 
 msgid "IDS_CMD_QUICK_TACTIC_WINDOW_SECTOR"
 msgstr "區域 %s"
@@ -10352,13 +10480,13 @@ msgid "IDS_CONTEXT_ENEMY_SUBMARINE_ENERGY_HINT"
 msgstr "被發現時，潛水艦的下潛能力消耗率會提高。若下潛能力完全耗盡，潛水艦將會上浮。"
 
 msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_PLAYER_SUBMARINE_HINT"
-msgstr "潛水艦被聲納音波命中。敵方潛水艦的魚雷將被引導至被高亮突顯的部位。"
+msgstr "潛水艦被聲納音波命中。敵方潛水艦的魚雷可被引導至被高亮突顯的部位。"
 
 msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_RESET_HINT"
 msgstr "使用「傷害控制小組」消耗品以防止敵方潛水艦的魚雷引導。"
 
 msgid "IDS_CONTEXT_ENEMY_SUBMARINE_WAVED_US_HINT"
-msgstr "艦艇被聲納音波命中，如今更容易受到敵方潛水艦魚雷的攻擊。"
+msgstr "艦艇被聲納音波命中。敵方潛水艦的魚雷可被引導至被高亮突顯的部位。"
 
 msgid "IDS_CONTEXT_FIRE_MODE_BURST_DISABLED"
 msgstr "按下以切換至主炮的標準射擊模式"
@@ -10374,6 +10502,12 @@ msgstr "進行攻擊時，您會看到目標區域被機槍掃射"
 
 msgid "IDS_CONTEXT_NEW_ROCKETS_UNDER_ATTACK_HINT"
 msgstr "對艦攻擊機來襲！機動避開目標區域"
+
+msgid "IDS_CONTEXT_OIL_LEAK_PENDING_HINT"
+msgstr "燃料系統受損。潛水艦在水下時，會在水面上留下明顯痕跡。"
+
+msgid "IDS_CONTEXT_OIL_LEAK_STARTED_HINT"
+msgstr "發生溢油時會暴露您的位置。您需要浮出水面進行維修。"
 
 msgid "IDS_CONTEXT_PINGER_GUN_HOW_TO"
 msgstr "以聲納音波命中敵艦，將其設定為您魚雷的優先目標"
@@ -10418,7 +10552,7 @@ msgid "IDS_CONTEXT_SUBMARINE_SPOTTED_HINT"
 msgstr "潛水艦已被偵測。下潛能力的消耗率已提高。"
 
 msgid "IDS_CONTEXT_SUBMARINE_WAVE_HITS_HINT"
-msgstr "再次命中被高亮突顯的部位，將會提高引導魚雷的機動性或造成更高的傷害"
+msgstr "再次命中被高亮突顯的部位，將會提高聲導魚雷的機動性。"
 
 msgid "IDS_CONTEXT_SUBMARINE_WORKING_DEPTH_HINT"
 msgstr "在水下時音波速度會提高。"
@@ -14924,15 +15058,15 @@ msgid "IDS_CURRENCY_EVENTUM_5_DESCRIPTION"
 msgstr "暫時性資源，可在軍械庫「超級艦艇」頁面中用以兌換隨機組合包，從中獲取供租用的超級艦艇。超級艦艇代幣可透過完成戰鬥任務來獲取。"
 
 msgid "IDS_CURRENCY_EVENTUM_6"
-msgstr "星星代幣"
+msgstr "義大利代幣"
 
 msgid "IDS_CURRENCY_EVENTUM_6_DESCRIPTION"
 msgstr ""
-"「新年之夜」活動的暫時性資源。\n"
+"「義大利驅逐艦」活動的暫時性資源。\n"
 "在 "
-"0.11.0 版本更新結束之前，您可在軍械庫的「新年之夜」頁面中，以星星代幣兌換新年指揮官和其他主題物品。您可在 "
-"0.10.11 版本更新結束之前透過完成活動戰鬥任務獲得星星代幣，也可從軍械庫中開放至 "
-"0.11.0 版本更新結束為止的組合包中獲取。"
+"0.11.3 版本更新結束之前，您可在軍械庫中以義大利代幣兌換各種遊戲內物品，包括搶先體驗艦艇和永久迷彩。您可在 "
+"0.11.2 版本更新期間透過完成「勇氣交鋒」活動的戰鬥任務獲得義大利代幣，也可從軍械庫中開放至 "
+"0.11.3 版本更新結束為止的組合包中獲取。"
 
 msgid "IDS_CURRENCY_EVENTUM_7"
 msgstr "蘇聯代幣"
@@ -14974,11 +15108,8 @@ msgstr "達布隆"
 msgid "IDS_CURRENCY_GOLD_DESCRIPTION"
 msgstr "可在加值商店中購買，或透過參與特殊活動或由其他玩家贈予來獲取。"
 
-msgid "IDS_CURRENCY_LOOTED_CREDITS"
-msgstr "您在遊戲中獲得的銀幣："
-
-msgid "IDS_CURRENCY_LOOTED_GOLD"
-msgstr "您在遊戲中獲得的達布隆："
+msgid "IDS_CURRENCY_LOOTED"
+msgstr "在遊戲中已獲得："
 
 msgid "IDS_CURRENCY_MOLYBDENUM"
 msgstr "公會代幣"
@@ -14992,11 +15123,8 @@ msgstr "研發點數"
 msgid "IDS_CURRENCY_PARAGON_XP_DESCRIPTION"
 msgstr "可在重置已研發的艦艇分支後獲取。"
 
-msgid "IDS_CURRENCY_PURCHASED_CREDITS"
-msgstr "您用現金購買的銀幣："
-
-msgid "IDS_CURRENCY_PURCHASED_GOLD"
-msgstr "您用現金購買的達布隆："
+msgid "IDS_CURRENCY_PURCHASED"
+msgstr "已用現金購買："
 
 msgid "IDS_CURRENCY_RECRUITMENT_POINTS"
 msgstr "社群代幣"
@@ -15101,7 +15229,7 @@ msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_DECS_EXPLOREMODERNIZATIONS"
 msgstr "前往升級品分頁以強化艦艇的性能表現。"
 
 msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_DECS_EXPLORERVR"
-msgstr "加入節慶競賽！選擇您想要加入的隊伍，完成任務並獲得獎勵。"
+msgstr "加入全新競賽！選擇您想要加入的隊伍，完成任務並獲得獎勵！"
 
 msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_DECS_EXPLORESHIPACES"
 msgstr "掌舵不同類型和國家的戰艦，在戰鬥中測試自己的實力。挑戰的複雜程度將隨每次完成而提高。"
@@ -15226,7 +15354,7 @@ msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_HEADER_EXPLOREMODERNIZATIONS"
 msgstr "可進行艦艇強化"
 
 msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_HEADER_EXPLORERVR"
-msgstr "新活動"
+msgstr "勇氣交鋒"
 
 msgid "IDS_CUSTOM_NOTIFICATION_TOOLTIP_HEADER_EXPLORESHIPACES"
 msgstr "個人挑戰"
@@ -15862,7 +15990,10 @@ msgid "IDS_DESC_PCM008_FIRECONTROL_MOD_I"
 msgstr "提高主炮組的射擊準度"
 
 msgid "IDS_DESC_PCM009_FLIGHTCONTROL_MOD_I"
-msgstr "加快飛機的整備速度並增加甲板上可承載的最高飛機數量"
+msgstr ""
+"加快飛機的整備速度並增加甲板上可承載的最高飛機數量。\n"
+"\n"
+"不適用於戰術航空中隊。"
 
 msgid "IDS_DESC_PCM010_AIRPLANES_MOD_II"
 msgstr "增加對艦攻擊機的血量和彈藥"
@@ -16507,10 +16638,7 @@ msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO"
 msgstr "魚雷轟炸機會用魚雷來攻擊目標。它們對付重裝甲的大型目標最為有效。機動性高的艦艇有很高的機率能躲避魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO_ALT"
-msgstr ""
-"使用魚雷攻擊目標。能有效對付大型裝甲目標。機動性高的艦艇有很高機率能閃躲掉攻擊。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+msgstr "使用魚雷攻擊目標。對付大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO_DEEPWATER"
 msgstr ""
@@ -16520,9 +16648,7 @@ msgstr ""
 msgid "IDS_DOCK_AMMO_DESCRIPTION_BOMBER_TORPEDO_DEEPWATER_ALT"
 msgstr ""
 "使用深水魚雷攻擊目標。\n"
-"只能命中吃水深的艦艇。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+"只能命中吃水較深的艦艇。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_CHARGELASER"
 msgstr ""
@@ -16544,48 +16670,39 @@ msgstr ""
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_AP"
 msgstr ""
-"會用一系列威力強大的穿甲炸彈來攻擊目標。\n"
-"它們對付重裝甲的大型目標最為有效。"
+"使用一連串威力強大的 AP 炸彈攻擊目標。\n"
+"對付大型裝甲目標最為有效。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_AP_ALT"
 msgstr ""
 "使用一連串威力強大的 AP 炸彈攻擊目標。\n"
-"能有效對付大型裝甲目標。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+"對付大型裝甲目標最為有效。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_HE"
 msgstr ""
 "俯衝轟炸機會用一連串威力強大的\n"
-"高爆炸彈來攻擊目標。\n"
-"它們有很高的機率能造成艦艇起火。"
+"炸彈來攻擊目標。\n"
+"它們有很高的機率能造成目標起火。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_DIVE_HE_ALT"
 msgstr ""
-"使用一連串威力強大的 HE 炸彈攻擊目標。\n"
-"有很高的機率可造成目標起火。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+"俯衝轟炸機會用一連串威力強大的\n"
+"炸彈來攻擊目標。\n"
+"它們有很高的機率能造成目標起火。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_AP"
 msgstr "使用 AP 火箭攻擊目標。能有效對付巡洋艦。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_AP_ALT"
-msgstr ""
-"使用 AP 火箭攻擊目標。能有效對付巡洋艦。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+msgstr "使用 AP 火箭攻擊目標。能有效對付巡洋艦。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_HE"
 msgstr ""
-"使用HE火箭攻擊目標。它們對機動性高的敵方目標最有效。"
+"使用 HE 火箭攻擊目標。能有效對付機動性高的敵方目標。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_FIGHTER_HE_ALT"
 msgstr ""
-"使用 "
-"HE 火箭攻擊目標。能有效對付機動性高的敵方目標。\n"
-"\n"
-"飛機速度高，但代價是攻擊分隊準備時間相當長。"
+"使用 HE 火箭攻擊目標。能有效對付機動性高的敵方目標。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_HE"
 msgstr ""
@@ -16616,13 +16733,13 @@ msgstr ""
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_PINGER"
 msgstr ""
-"以聲納音波命中敵艦，將高亮突顯其艦身部位以利魚雷引導，並提升已發射魚雷的戰鬥特性。\n"
+"以聲納音波命中目標，將高亮突顯其部位以利魚雷引導。\n"
 "\n"
-"再次命中被高亮突顯的部位，將延長音波效果的持續時間。這也讓目標艦艇更容易受到引導魚雷的攻擊。\n"
+"再次命中被高亮突顯的部位，將延長音波效果的持續時間，並提高聲導魚雷的機動性。\n"
 "\n"
 "已發射的魚雷將導向其優先目標，即最後一個被高亮突顯的艦身部位。\n"
 "\n"
-"按下 [CMD_DEACTIVATE_PING] 以取消優先目標。"
+"[CMD_DEACTIVATE_PING] 取消優先目標。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SECTOR_WAVE"
 msgstr ""
@@ -16634,14 +16751,14 @@ msgstr ""
 msgid "IDS_DOCK_AMMO_DESCRIPTION_SKIP_HE"
 msgstr ""
 "俯衝轟炸機會用一連串威力強大的\n"
-"高爆炸彈來攻擊目標。\n"
-"它們有很高的機率能造成艦艇起火。"
+"炸彈來攻擊目標。\n"
+"它們有很高的機率能造成目標起火。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO"
-msgstr "魚雷能有效對付大型的重裝甲目標。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE"
-msgstr "能有效對抗大型裝甲目標。機動性高的艦艇有很高機率能閃躲掉攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUBBURN"
 msgstr ""
@@ -16652,14 +16769,7 @@ msgstr ""
 "有高機率造成火災。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUBCRIT"
-msgstr ""
-"只能垂直導向目標。一旦開始導向，魚雷就不能變更目標。\n"
-"\n"
-"以聲納音波命中艦艇部位，將會降低已發射魚雷的被偵測性。\n"
-"\n"
-"再次命中被高亮突顯的部位，將會提高對目標造成的傷害。\n"
-"\n"
-"對水面目標有效。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUBFLOOD"
 msgstr ""
@@ -16670,7 +16780,7 @@ msgstr ""
 "有高機率造成進水。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_ALTERNATIVE_SUPERSHIP"
-msgstr "能有效對抗大型裝甲目標。機動性高的艦艇有很高機率能閃躲掉攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_DEEPWATER"
 msgstr ""
@@ -16678,7 +16788,7 @@ msgstr ""
 "擁有較短的被偵測距離。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_EVENT_HW20"
-msgstr "能有效對抗大型裝甲目標。機動性高的艦艇有很高機率能閃躲掉攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_PLAZMA_EVENT_HW20"
 msgstr ""
@@ -16699,7 +16809,7 @@ msgstr ""
 "能有效對付機動性高的輕裝甲目標。"
 
 msgid "IDS_DOCK_AMMO_DESCRIPTION_TORPEDO_SUPERSHIP"
-msgstr "能有效對抗大型裝甲目標。機動性高的艦艇有很高機率能閃躲掉攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_DEPTHCHARGE"
 msgstr "深水炸彈空襲"
@@ -16708,10 +16818,10 @@ msgid "IDS_DOCK_AMMO_TITLE_AIRSUPPORT_HE"
 msgstr "HE 炸彈空襲"
 
 msgid "IDS_DOCK_AMMO_TITLE_AP"
-msgstr "穿甲 (AP) 彈"
+msgstr "穿甲（AP）彈"
 
 msgid "IDS_DOCK_AMMO_TITLE_AP_EVENT_HW20"
-msgstr "穿甲 (AP) 彈"
+msgstr "穿甲（AP）彈"
 
 msgid "IDS_DOCK_AMMO_TITLE_AXISLASER"
 msgstr "軸向雷射光束"
@@ -16732,7 +16842,7 @@ msgid "IDS_DOCK_AMMO_TITLE_CHARGELASER"
 msgstr "光束"
 
 msgid "IDS_DOCK_AMMO_TITLE_CS"
-msgstr "半穿甲 (SAP) 彈"
+msgstr "半穿甲（SAP）彈"
 
 msgid "IDS_DOCK_AMMO_TITLE_DEPTHCHARGE"
 msgstr "深水炸彈"
@@ -16762,7 +16872,7 @@ msgid "IDS_DOCK_AMMO_TITLE_FIGHTER_HE_ALT"
 msgstr "（高爆）對艦攻擊機"
 
 msgid "IDS_DOCK_AMMO_TITLE_HE"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_DOCK_AMMO_TITLE_HE_ACID_EVENT_HW20"
 msgstr "強酸排放"
@@ -16771,7 +16881,7 @@ msgid "IDS_DOCK_AMMO_TITLE_HE_BOMB_EVENT_HW20"
 msgstr "發射式水雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_HE_EVENT_HW20"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_DOCK_AMMO_TITLE_IMPULSELASER"
 msgstr "光束"
@@ -16795,7 +16905,7 @@ msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBBURN"
 msgstr "帶有猛性火藥的魚雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBCRIT"
-msgstr "近發引信魚雷"
+msgstr "魚雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUBFLOOD"
 msgstr "帶有強化彈頭的魚雷"
@@ -16804,7 +16914,7 @@ msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_ALTERNATIVE_SUPERSHIP"
 msgstr "替代魚雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_DEEPWATER"
-msgstr "深水 (DT) 魚雷"
+msgstr "深水（DT）魚雷"
 
 msgid "IDS_DOCK_AMMO_TITLE_TORPEDO_EVENT_HW20"
 msgstr "魚雷"
@@ -16998,10 +17108,10 @@ msgstr ""
 "作用時間較長，但捕獲範圍較小。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY017_TORPEDORELOADER"
-msgstr "降低魚雷發射管的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY018_TORPEDORELOADERPREMIUM"
-msgstr "降低魚雷發射管的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY019_RLSSEARCH"
 msgstr "大幅提高對敵方艦艇的絕對捕獲範圍，包括身處於煙幕內的對象。"
@@ -17046,7 +17156,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY030_SONARSEARCHSUPER"
 msgstr "提高對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY031_TORPEDORELOADERSUPER"
-msgstr "降低魚雷發射管的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY032_RLSSEARCHSUPER"
 msgstr "大幅提高對敵方艦艇的絕對捕獲範圍，包括身處於煙幕內的對象。"
@@ -17087,12 +17197,12 @@ msgstr " "
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY045_HYDROPHONE"
 msgstr ""
-"在水下時顯示超出可偵測範圍之艦艇的位置。\n"
+"在水下時，高亮突顯可偵測範圍以外的地形和艦艇位置。\n"
 "\n"
-"在操作深度和最大深度偵察潛水艦。"
+"在最大深度偵察潛水艦。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY046_FASTDEEPRUDDERS"
-msgstr "提高下潛速度和降低潛鰭板換檔時間。"
+msgstr "提高下潛和上浮速度，並降低潛鰭板換檔時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PCY047_SUBMARINEENERGYFREEZE"
 msgstr "此消耗品啟動時，下潛能力不會消耗。"
@@ -17139,7 +17249,7 @@ msgstr ""
 "40萬血量傷害時，恢復血量的百分比就會加倍。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY009_TORPEDORELOADER"
-msgstr "降低魚雷發射管的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY010_RLSSEARCH"
 msgstr "大幅提高對敵方艦艇的絕對捕獲範圍。"
@@ -17157,6 +17267,35 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY014_REGENCREW"
 msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY015_SPEEDBOOSTERH18"
+msgstr "提高艦艇的最高航速。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY021_CRASHCREW"
+msgstr ""
+"撲滅火災、移除進水、並修理受損的配件。\n"
+"防止敵方潛水艦發射的魚雷被引導而來。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY022_REGENCREW"
+msgstr "可透過修理任何輕度的傷害來恢復部分的艦艇血量。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY023_ARTILLERYBOOSTER"
+msgstr "降低主炮的裝填時間"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY024_SMOKEGENERATOR"
+msgstr ""
+"施放煙幕來降低被敵人偵測的風險。\n"
+"\n"
+"裝載數較高且裝填速度較快，但作用時間和煙幕擴散時間較短。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY025_SONARSEARCH"
+msgstr ""
+"提高對敵方艦艇與魚雷的絕對捕獲範圍，包括身處於煙幕內的對象。\n"
+"\n"
+"作用時間較長，但捕獲範圍較小。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY026_TORPEDORELOADER"
+msgstr "降低魚雷發射管裝填時間。"
+
+msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY027_SPEEDBOOSTER"
 msgstr "提高艦艇的最高航速。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY101_MINDCONTROLPREMIUM"
@@ -17198,7 +17337,7 @@ msgstr ""
 "40萬血量傷害時，恢復血量的百分比就會加倍。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY109_TORPEDORELOADERPREMIUM"
-msgstr "降低魚雷發射管的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY110_RLSSEARCHPREMIUM"
 msgstr "大幅提高對敵方艦艇的絕對捕獲範圍。"
@@ -17311,7 +17450,7 @@ msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY319_SPEEDBOOSTER_PVP"
 msgstr "防止汙穢之地並增加艦艇的最高速度。您艦艇不會受到超過己身血量的傷害。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY320_TORPEDORELOADER_PVP"
-msgstr "降低魚雷發射器的重新裝填時間。"
+msgstr "降低魚雷發射管裝填時間。"
 
 msgid "IDS_DOCK_CONSUME_DESCRIPTION_PXY321_INVULNERABLE_PVP"
 msgstr "保護艦艇免遭任何類型的傷害。"
@@ -17693,6 +17832,27 @@ msgstr "維修小組 I"
 msgid "IDS_DOCK_CONSUME_TITLE_PXY015_SPEEDBOOSTERH18"
 msgstr "引擎增壓"
 
+msgid "IDS_DOCK_CONSUME_TITLE_PXY021_CRASHCREW"
+msgstr "傷害控制小組"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY022_REGENCREW"
+msgstr "維修小組"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY023_ARTILLERYBOOSTER"
+msgstr "主炮裝填助推器"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY024_SMOKEGENERATOR"
+msgstr "短發式發煙機"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY025_SONARSEARCH"
+msgstr "短程水底搜索"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY026_TORPEDORELOADER"
+msgstr "魚雷裝填助推器"
+
+msgid "IDS_DOCK_CONSUME_TITLE_PXY027_SPEEDBOOSTER"
+msgstr "引擎增壓"
+
 msgid "IDS_DOCK_CONSUME_TITLE_PXY101_MINDCONTROLPREMIUM"
 msgstr "反制系統 II"
 
@@ -17921,6 +18081,42 @@ msgstr "強化輔助武器"
 msgid "IDS_DOCK_CONSUME_TITLE_PXY503_GMSHOTDELAY"
 msgstr "主要武器射速"
 
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_CREDITS_DESCRIPTION"
+msgstr "您能以此貨幣購買科技樹中已研發的配件，以及其他遊戲內物品。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_CREDITS_GET_DESCRIPTION"
+msgstr "在戰鬥中獲取。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_CREDITS_MOUSE_TEXT"
+msgstr "兌換達布隆為銀幣。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_EXPLANATION_TITLE"
+msgstr "如何花費"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_FREE_XP_DESCRIPTION"
+msgstr "您能以此資源研發任何科技樹中的可用艦艇和配件。自由經驗也可用於加速指揮官訓練。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_FREE_XP_GET_DESCRIPTION"
+msgstr "獲得數量相等於每場戰鬥中獲得之經驗的 5%。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_FREE_XP_MOUSE_TEXT"
+msgstr "將經驗轉換為自由經驗"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_GOLD_DESCRIPTION"
+msgstr "您能以此貨幣購買加值艦艇和其他珍貴物品。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_GOLD_GET_DESCRIPTION"
+msgstr "可在加值商店中購買，以及透過參與各種活動來獲取。"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_GOLD_MOUSE_TEXT"
+msgstr "到加值商店購買達布隆"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_HOW_TO_GET_TITLE"
+msgstr "如何獲取？"
+
+msgid "IDS_DOCK_CURRENCIES_TOOLTIP_IN_STOCK_COLON"
+msgstr "可用："
+
 msgid "IDS_DOCK_FIRE_MODE_DESCRIPTION_BURST_FIRE"
 msgstr "提高主炮射速，能讓您以較短的裝填時間進行連發射擊。"
 
@@ -17970,7 +18166,7 @@ msgstr ""
 "潛在傷害巨大，且有高機率造成目標起火或讓配件失去作用。"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_TORPEDO"
-msgstr "魚雷能有效對付大型的重裝甲目標。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
+msgstr "對抗大型裝甲目標最為有效。機動性高的艦艇有很高機率能閃躲掉魚雷攻擊。"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_DESCRIPTION_TORPEDO_DEEPWATER"
 msgstr ""
@@ -17978,25 +18174,25 @@ msgstr ""
 "具有短的被偵測距離。"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_BOMB_AP"
-msgstr "穿甲 (AP) 炸彈"
+msgstr "穿甲（AP）炸彈"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_BOMB_HE"
-msgstr "高爆 (HE) 炸彈"
+msgstr "高爆（HE）炸彈"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_PROJECTILE"
-msgstr "高爆 (HE) 火箭"
+msgstr "高爆（HE）火箭"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_PROJECTILE_AP"
-msgstr "穿甲 (AP) 火箭"
+msgstr "穿甲（AP）火箭"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_SKIP_BOMB_HE"
-msgstr "高爆 (HE) 炸彈"
+msgstr "高爆（HE）炸彈"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_TORPEDO"
 msgstr "魚雷"
 
 msgid "IDS_DOCK_SQUADRON_AMMO_TITLE_TORPEDO_DEEPWATER"
-msgstr "深水 (DT) 魚雷"
+msgstr "深水（DT）魚雷"
 
 msgid "IDS_DOCK_UNIQUE_DESCRIPTION_MORE_CONSUMES_0"
 msgstr "{numConsumables} 艦艇上安裝的所有消耗品"
@@ -19912,6 +20108,50 @@ msgstr "貓咪艦長"
 msgid "IDS_DOGTAG_PCNB345_NAME"
 msgstr "鬼怪"
 
+msgid "IDS_DOGTAG_PCNB346_DESCRIPTION"
+msgstr ""
+"Soldati（士兵）是義大利驅逐艦中最多產的類型，其所有艦艇都以軍事專業命名。"
+"Capitani "
+"Romani 級艦艇（義大利語的「羅馬軍事統帥」）則以古羅馬的軍事統帥命名。"
+
+msgid "IDS_DOGTAG_PCNB346_NAME"
+msgstr "士兵與統帥"
+
+msgid "IDS_DOGTAG_PCNB347_DESCRIPTION"
+msgstr ""
+"Navigatori 級驅逐艦（義大利語的「航海家」）以偉大的義大利航海家命名。"
+"Poeti 級艦艇（義大利語的「詩人」）則以 "
+"19 世紀的義大利詩人、作家、劇作家和公眾人物來命名。"
+
+msgid "IDS_DOGTAG_PCNB347_NAME"
+msgstr "航海家與詩人"
+
+msgid "IDS_DOGTAG_PCNB348_DESCRIPTION"
+msgstr ""
+"義大利海軍傳統上以義大利統一運動時期的著名人物（義大利語「"
+"Patrioti」— 愛國者）和戰鬥（義大利語「"
+"Battaglia」— 戰鬥）來命名艦艇。"
+
+msgid "IDS_DOGTAG_PCNB348_NAME"
+msgstr "愛國者與戰鬥"
+
+msgid "IDS_DOGTAG_PCNB349_DESCRIPTION"
+msgstr ""
+"在義大利海軍驅逐艦中，有一驅逐艦級別以 "
+"Dardo（義大利語的「箭」）命名，另有一個級別以 "
+"Folgore（義大利語的「閃電」）命名。這兩級驅逐艦的每一艘，其名稱都意味著「箭」或「閃電」。"
+
+msgid "IDS_DOGTAG_PCNB349_NAME"
+msgstr "箭與閃電"
+
+msgid "IDS_DOGTAG_PCNB350_DESCRIPTION"
+msgstr ""
+"聖派翠克節是愛爾蘭主保聖人的忌日，於每年 3 月 "
+"17 日紀念。聖派翠克節起初是個宗教節日，如今成為了慶祝愛爾蘭文化遺產的社會活動。"
+
+msgid "IDS_DOGTAG_PCNB350_NAME"
+msgstr "聖派翠克節"
+
 msgid "IDS_DOGTAG_PCNB999_DESCRIPTION"
 msgstr "此臂章的設計正在進行中。"
 
@@ -20262,6 +20502,9 @@ msgstr "前往選擇獨特軍章"
 
 msgid "IDS_DOG_TAG_DOLL_CHANGE"
 msgstr "修改"
+
+msgid "IDS_DOMENICO_FOLGORE"
+msgstr "Domenico Folgore"
 
 msgid "IDS_DOMINATION_3POINT_ASYMM"
 msgstr "非對稱戰鬥"
@@ -20841,7 +21084,7 @@ msgstr "加入關於您自己的資訊。其他玩家將會看到您的訊息。
 
 msgid "IDS_ENTER_TRAINING_ROOM_DESCRIPTION"
 msgstr ""
-"加入戰鬥描述。\n"
+"新增戰鬥描述。\n"
 "其他玩家會看到您的訊息。"
 
 msgid "IDS_ENTER_WITHOUT_REGISTRATION_BUTTON"
@@ -20912,6 +21155,9 @@ msgstr "授權錯誤"
 
 msgid "IDS_ERROR_CANT_CREATE_NEW_ACCOUNT"
 msgstr "建立新帳號時發生錯誤"
+
+msgid "IDS_ERROR_CONNECTION_LOST"
+msgstr "請檢查您的網際網路連線。"
 
 msgid "IDS_ERROR_CORRUPTED_PDATA"
 msgstr "您的帳號無法使用。請聯絡玩家服務。"
@@ -21220,7 +21466,7 @@ msgid "IDS_EVENTBATTLE_PW_CHARGING_POINTS_LOST"
 msgstr "敵方隊伍：–20"
 
 msgid "IDS_EVENTS"
-msgstr "暮光狩獵"
+msgstr "殘酷戰鬥"
 
 msgid "IDS_EVENTS_WINDOW_INSTRUCTION"
 msgstr "活動可能包含各式的特惠。這些特惠的持續時間可能會比主要活動的持續時間來得短。"
@@ -21244,7 +21490,7 @@ msgid "IDS_EVENTUM_5_COLON"
 msgstr "超級艦艇代幣："
 
 msgid "IDS_EVENTUM_6_COLON"
-msgstr "星星代幣："
+msgstr "義大利代幣"
 
 msgid "IDS_EVENTUM_7_COLON"
 msgstr "蘇聯代幣："
@@ -22220,8 +22466,17 @@ msgstr "可使用 SAP 彈和 AP 彈"
 
 msgid "IDS_FEAT_MAIN_AMMOCSAP_DESC"
 msgstr ""
-"半穿甲 "
-"(SAP) 彈具有較高的裝甲穿透能力並可造成最高傷害。它會在與裝甲表面接觸時爆炸，並對艦艇外部結構造成傷害，但是不能引發火災，且有機會跳彈。"
+"半穿甲（"
+"SAP）彈具有較高的裝甲穿透能力並可造成最高傷害。它會在與裝甲表面接觸時爆炸，並對艦艇外部結構造成傷害，但是不能引發火災，且有機會跳彈。"
+
+msgid "IDS_FEAT_MAIN_AMMOCSHE"
+msgstr "可使用 HE 彈和 SAP 彈"
+
+msgid "IDS_FEAT_MOV_SPECFORSAGE"
+msgstr "可使用「緊急引擎功率」消耗品"
+
+msgid "IDS_FEAT_MOV_SPECFORSAGE_DESC"
+msgstr "有大量的消耗品，且能顯著提高艦艇的最高航速。消耗品的作用時間較短。"
 
 msgid "IDS_FEAT_SKIP_BOMBING"
 msgstr "彈跳轟炸"
@@ -23022,6 +23277,12 @@ msgstr "提高艦艇武器和航空中隊的傷害"
 msgid "IDS_GAMEMODE_GAMEMODE_ARMS_RACE_RULES_DESCRIPTION_TEXT_3"
 msgstr "提高艦艇和航空中隊的最高和當前血量"
 
+msgid "IDS_GAMEMODE_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_DESCRIPTION_TEXT_0"
+msgstr "維修小組"
+
+msgid "IDS_GAMEMODE_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_DESCRIPTION_TEXT_1"
+msgstr "隨機消耗品"
+
 msgid "IDS_GAMEMODE_KEY_BATTLE"
 msgstr "暮光狩獵"
 
@@ -23070,22 +23331,19 @@ msgstr "一般戰鬥"
 msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_DESCRIPTION"
 msgstr "擊毀所有敵方艦艇。"
 
+msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_ICON_RULES_HEADER"
+msgstr "消耗品類型"
+
 msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_BULLET_1"
-msgstr "4支隊伍，每隊3艘艦艇，開始一場戰鬥。"
+msgstr ""
+"4 支各由 "
+"3 艘艦艇組成的隊伍進行戰鬥。至少有一艘艦艇存活的隊伍獲勝。"
 
 msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_BULLET_2"
-msgstr "擁有至少一艘艦艇存活下來的隊伍獲勝。"
+msgstr "戰鬥區域被一圈不斷縮小的野火包圍。任何待在野火中的艦艇會持續受到傷害。"
 
 msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_BULLET_3"
-msgstr "野火包圍了艦艇，並對她們全部造成傷害。"
-
-msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_BULLET_4"
-msgstr "飛機在水面上投放額外消耗品。投放點標有特殊標記。"
-
-msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_BULLET_5"
-msgstr ""
-"所有奪得的消耗品將由整支隊伍平分，每艘艦艇獲得"
-"1個消耗品。"
+msgstr "戰場上會有飛機投擲消耗品。您奪得的消耗品會提供給所有隊員。艦艇每擊沉一艘敵方艦艇，也可獲得消耗品。"
 
 msgid "IDS_GAMEMODE_TEAM_BATTLE_ROYALE_RULES_HEADER"
 msgstr "模式的特色"
@@ -24973,6 +25231,18 @@ msgstr "過熱已消退"
 msgid "IDS_INFO_MODULE_HEATED_STARTED"
 msgstr "過熱！"
 
+msgid "IDS_INFO_MODULE_OIL_LEAK_CEASED"
+msgstr "溢油已消除"
+
+msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_CEASED"
+msgstr "燃料系統損壞已修復"
+
+msgid "IDS_INFO_MODULE_OIL_LEAK_PENDING_STARTED"
+msgstr "燃料系統受損！"
+
+msgid "IDS_INFO_MODULE_OIL_LEAK_STARTED"
+msgstr "溢油！"
+
 msgid "IDS_INFO_MODULE_WAVED_CEASED"
 msgstr "魚雷引導已消除"
 
@@ -25344,7 +25614,7 @@ msgid "IDS_INVITE_TO_DIVISION_ACTION_DENY_REASON_ALREADY_INVITED"
 msgstr "玩家已被邀請至分艦隊"
 
 msgid "IDS_INVITE_TO_DIVISION_ACTION_DENY_REASON_OFFLINE"
-msgstr "如果該玩家為離線，是不可能邀請玩家加入分艦隊。"
+msgstr "無法邀請離線的玩家加入分艦隊。"
 
 msgid "IDS_INVITE_TO_THE_CHANNEL"
 msgstr "已邀請您加入頻道"
@@ -25389,7 +25659,7 @@ msgid "IDS_IN_THE_HOLD"
 msgstr "貨艙裝載"
 
 msgid "IDS_IN_WAREHOUSE"
-msgstr "可供開啟："
+msgstr "可用："
 
 msgid "IDS_IONA"
 msgstr "伊歐娜"
@@ -26006,6 +26276,9 @@ msgstr "九年法則，1948"
 
 msgid "IDS_LEGENDARY_PROGRAM_USA"
 msgstr "長期造船計畫，1950"
+
+msgid "IDS_LEPRECHAUN"
+msgstr "Seán McMurphy"
 
 msgid "IDS_LEVEL"
 msgstr "階級"
@@ -26797,11 +27070,11 @@ msgstr ""
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_11"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_12"
-msgstr "高爆 (HE) 彈在擊中目標時可能會引發火災。"
+msgstr "高爆（HE）彈在擊中目標時可能會引發火災。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL2_13"
 msgstr "高爆 (HE) 彈對付輕型裝甲的艦艇有著顯著效果。"
@@ -26921,11 +27194,11 @@ msgstr ""
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_11"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_12"
-msgstr "高爆 (HE) 彈在擊中目標時可能會引發火災。"
+msgstr "高爆（HE）彈在擊中目標時可能會引發火災。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL3_13"
 msgstr "高爆 (HE) 彈對付輕型裝甲的艦艇有著顯著效果。"
@@ -27110,11 +27383,11 @@ msgstr ""
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_11"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_12"
-msgstr "高爆 (HE) 彈在擊中目標時可能會引發火災。"
+msgstr "高爆（HE）彈在擊中目標時可能會引發火災。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL4_13"
 msgstr "高爆 (HE) 彈對付輕型裝甲的艦艇有著顯著效果。"
@@ -27393,8 +27666,8 @@ msgstr "艦艇在水中的體積可是大過水線以上的體積。當您的艦
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_36"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL5_37"
 msgstr "小地圖上圍繞著您的艦艇的圓圈是用來表示所選武器的射程。"
@@ -27539,8 +27812,8 @@ msgstr "煙幕可隱藏自己和我方戰艦的確切位置。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL6_9"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_0"
 msgstr "幫助其他人並配合團隊合作就是生存下來與贏得戰鬥的最好方法。"
@@ -27648,8 +27921,8 @@ msgstr "要避免與隊友戰艦發生碰撞。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_7"
 msgstr ""
-"穿甲 "
-"(AP) 彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
+"穿甲（"
+"AP）彈對付輕型裝甲的艦艇沒什麼效果。砲彈會穿透艦艇且不會有任何實際的傷害。"
 
 msgid "IDS_LOADING_TOOLTIP_LEVEL7_8"
 msgstr "煙幕可隱藏自己和我方戰艦的確切位置。"
@@ -28381,6 +28654,9 @@ msgstr "地毯式轟炸"
 msgid "IDS_MAIN_CSAPONLY"
 msgstr "可使用 SAP 彈和 AP 彈"
 
+msgid "IDS_MAIN_CSHEONLY"
+msgstr "可使用 HE 彈和 SAP 彈"
+
 msgid "IDS_MAIN_DWTORPRANGEDAMAGE"
 msgstr "長程深水魚雷可造成嚴重傷害"
 
@@ -28480,6 +28756,9 @@ msgstr "主炮在任何距離都有效"
 msgid "IDS_MAIN_MCDAMAGE"
 msgstr "主炮能造成嚴重傷害"
 
+msgid "IDS_MAIN_MCLOWDIST"
+msgstr "主炮射程較短。"
+
 msgid "IDS_MAIN_MCRANGEDAMAGE"
 msgstr "主炮能造成大量傷害且射程較遠"
 
@@ -28559,7 +28838,7 @@ msgid "IDS_MAIN_WEAKARMOR"
 msgstr "裝甲防護較低"
 
 msgid "IDS_MAKE_TRAINING_ROOM_CLOSED"
-msgstr "把這個訓練房變成私人"
+msgstr "將訓練房設為私人"
 
 msgid "IDS_MANAGE_DIVISION"
 msgstr "管理您的分艦隊"
@@ -29156,43 +29435,47 @@ msgid "IDS_MODAL_WINDOW_ALMANAC_HEADER"
 msgstr "每日獎勵"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_HEADER"
-msgstr "節慶狂歡：雪巨人行動中"
+msgstr "義大利海軍歷史中的驅逐艦"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_1"
 msgstr ""
-"冬季是個充滿節日氣氛、精美飾品，當然少不了禮物的佳節。這個時節最適合重溫一些發自內心的溫暖回憶，也讓大人小孩們一同感受美妙歡愉的魔法氛圍。然而，真正的魔法總是以嶄新方式出現！今年，炒熱新年慶典氣氛的任務交給了 "
-"Sinterklaas — 這位傳奇人物來自荷蘭，看起來有點像 Father "
-"Christmas 或 Santa Claus。"
+"1940 年 "
+"6 月義大利加入第二次世界大戰時，其海軍部隊擁有相當多的驅逐艦，在所有歐洲國家中僅次於英國。同時，義大利在兩次世界大戰之間建造的驅逐艦也有非常多樣化的主題名稱。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_2"
 msgstr ""
-"當 "
-"Sint 如期而至時，他並不是孤單一人。為了讓大家度過一個難忘的節日，"
-"Sint 把他的傳奇夥伴們都帶來了：來自法國的 Père Noë"
-"l；來自美國的 Santa Claus；以及來自義大利的 Babbo "
-"Natale。他們集結後做的第一件事就是履行職責，營造節日歡樂氣氛、布置飾品和儲備禮物。要做到這一點，聖誕老人們當然需要幫助，所以他們利用今年的第一場雪打造了 "
-"3 個巨人。真正的魔法就蘊含其中！"
+"從 "
+"1920 年代初開始，驅逐艦就以義大利統一運動時期的著名歷史人物（義大利語「"
+"Patrioti」— 愛國者）和戰鬥（義大利語「"
+"Battaglia」— 戰鬥）來命名，例如 Curtatone 級艦艇（以 "
+"1848 年的庫爾塔托內戰鬥命名）和 "
+"Sauro 級艦艇（以義大利領土收復主義者 Nazario "
+"Sauro 命名）。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_3"
 msgstr ""
-"Père Noë"
-"l 向天空伸出手，從心情星座摘下最亮的那顆星星 — "
-"Modus，並將其放在自己的雪巨人的胸前。巨人醒了，睜開雙眼並立即展開工作，以歌曲、童話和遊戲來散播節日的歡樂和喜悅。"
+"建於 1920 年代末的 "
+"Navigatori 級驅逐艦（義大利語的「航海家」）以偉大的義大利航海家如 "
+"Luca Tarigo 來命名。另外，有 4 艘 "
+"Poeti 級艦艇（義大利語的「詩人」）以 "
+"19 世紀的義大利詩人、作家、劇作家和公眾人物來命名。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_4"
 msgstr ""
-"Santa "
-"Claus 向天空伸出手，從飾品星座摘下最亮的那顆星星 — "
-"Sertum，並將其放在自己的雪巨人的胸前。巨人醒了，睜開雙眼並立即展開工作，以閃爍的燈光花環和玩具飾品來裝飾房屋、樹木和艦艇。"
+"1930 年代初，有一驅逐艦級別以 "
+"Dardo（義大利語的「箭」）命名，另有一個級別以 "
+"Folgore（義大利語的「閃電」）命名。義大利語中的同義詞如此豐富，以至於這 "
+"4 艘艦艇都各有意味著「箭」或「閃電」的獨特名稱。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_5"
 msgstr ""
-"Babbo "
-"Natale 向天空伸出手，從禮物星座摘下最亮的那顆星星 — "
-"Munera，並將其放在自己的雪巨人的胸前。巨人醒了，睜開雙眼並立即展開工作，分發禮物讓大人小孩們都喜笑顏開。"
-
-msgid "IDS_MODAL_WINDOW_ARC_EVENT_LORE_PARAGRAPH_TEXT_6"
-msgstr "每個雪巨人都熱切地想在自己的任務中超越另外兩位，以至於新年的籌備工作迅速演變成一場每個人都可參加的友誼賽。同時，這樣的喜慶之夜絕不可能失敗。每個沉浸在新年魔法並與他人共享節日氛圍的人，無疑都會成為贏家！"
+"義大利最多產的驅逐艦級別是 "
+"Soldati 級（義大利語的「士兵」），建於 1930 年代末和 "
+"1940 年代初。該級的所有 "
+"17 艘艦艇均以軍事專業命名，例如 "
+"Aviere（義大利語的「飛行員」）、"
+"Mitragliere（義大利的「機槍手」）。遠洋偵察艦 — 介於巡洋艦和驅逐艦之間的艦艇類型，則以古羅馬的軍事統帥 — "
+"Capitani Romani（義大利語的「羅馬軍事統帥」）來命名。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_HEADER"
 msgstr "參與規則"
@@ -29202,14 +29485,13 @@ msgstr "特色"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_1"
 msgstr ""
-"在「新年之夜」活動中，3 支隊伍將分 "
-"4 個階段競逐。每個階段為期 "
-"1 週。加入其中以獲取星星代幣、「海軍聖誕節和新年」貨櫃，以及視您在各階段加入之隊伍而定的獨特獎勵。參與活動還可獲得一個紀念成就，此成就只頒發一次。"
+"在「勇氣交鋒」競賽中，4 支隊伍進行 "
+"4 個階段的戰鬥。每個階段為期一週。參與競賽以獲取義大利代幣和消耗性迷彩，以及視您在各階段所加入之隊伍而定的獨特獎勵 — 不同的臂章和指揮官。此外，參與活動還可獲得紀念成就。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_1_TEXT_2"
 msgstr ""
-"此活動可於聯合作戰、隨機戰鬥和排名戰中進行，使用 "
-"V 階及以上艦艇。"
+"「勇氣交鋒」活動以 "
+"V 階或以上的艦艇，於聯合作戰、隨機戰鬥、排名戰和「殘酷戰鬥」限時戰鬥類型中進行。"
 
 msgid "IDS_MODAL_WINDOW_ARC_EVENT_RULES_PARAGRAPH_2_HEADER"
 msgstr "隊伍進度"
@@ -29335,6 +29617,50 @@ msgstr "「戰鬥表現獎勵」將與一種特殊貨幣 — 研發點數一同�
 
 msgid "IDS_MODAL_WINDOW_PARAGON_RULES_PARAGRAPH_3_TEXT_2"
 msgstr "軍械庫中的研發局分頁提供一系列可用研發點數兌換的珍貴物品。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_HEADER"
+msgstr "殘酷戰鬥"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_1_HEADER"
+msgstr "戰鬥特色"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_1_TEXT_1"
+msgstr ""
+"4 支各由 "
+"3 艘艦艇組成的隊伍進行戰鬥。全數艦艇被擊毀的隊伍將被淘汰出局。隨著各隊伍被逐個淘汰，排名分配將顯示於主要成績表。最後的存活隊伍即為優勝。各隊的排名將決定隊員們獲得的經驗和銀幣數量。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_1_TEXT_2"
+msgstr "戰鬥區域被一圈不斷縮小的野火包圍，最終迫使所有參與者進行近距離戰鬥。待在野火中的艦艇會持續受到傷害。所有艦艇的艦艏都安裝了鋸子，可提高衝撞的效果。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_1_TEXT_3"
+msgstr "戰鬥開始時，所有艦艇都沒有消耗品。戰鬥過程中，將有飛機投擲消耗品。若某艦艇成功奪得投擲的消耗品，那麼所有友軍艦艇都將從可用消耗品清單中獲得一個消耗品裝載。艦艇每擊沉一艘敵方艦艇，將可隨機獲得一個消耗品裝載。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_HEADER"
+msgstr "陣營和艦艇"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_TEXT_1"
+msgstr ""
+"殘酷戰鬥中有 3 個陣營：Octopus、Moray Eel、"
+"Barracuda。各陣營艦艇都各具特色："
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_TEXT_2"
+msgstr "Octopus 陣營的艦艇難以偵測且擁有強大的魚雷武器，但沒有主炮。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_TEXT_3"
+msgstr ""
+"Moray "
+"Eel 陣營艦艇機動性高，在近距離遭遇戰中較為強大，但沒有主炮。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_TEXT_4"
+msgstr ""
+"Barracuda 陣營的艦艇擁有高航速和強大主炮，但魚雷武器的傷害不高，\n"
+"且裝填時間相當長。"
+
+msgid "IDS_MODAL_WINDOW_PCVE004_RULES_PARAGRAPH_2_TEXT_5"
+msgstr ""
+"每個陣營有 3 個階級的艦艇：VIII、IX 和 "
+"X。玩家們在活動開始時即可獲得 "
+"VIII 階艦艇完成戰鬥任務則可獲得 IX 和 X 階艦艇。"
 
 msgid "IDS_MODAL_WINDOW_PCVE007_RULES_HEADER"
 msgstr "非對稱戰鬥的規則"
@@ -29756,16 +30082,16 @@ msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_1"
 msgstr "導向被聲納音波高亮突顯的艦艇部位。"
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_3_TEXT_2"
-msgstr "若以聲納高亮突顯目標艦艇部位兩次，將會提高魚雷的機動性。"
+msgstr "若以聲納高亮突顯目標艦艇部位兩次，將會提高聲導魚雷的機動性。"
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_HEADER"
-msgstr "近發引信魚雷"
+msgstr "魚雷 [UNUSED]"
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_1"
-msgstr "若高亮突顯目標艦艇部位，將會降低魚雷的被偵測性。"
+msgstr "對抗水面目標最為有效。[UNUSED]"
 
 msgid "IDS_MODAL_WINDOW_SUBMARINE_TUTORIAL_PARAGRAPH_4_TEXT_2"
-msgstr "若以聲納高亮突顯目標艦艇部位兩次，將會提高魚雷傷害。"
+msgstr "對抗水面目標最為有效。[UNUSED]"
 
 msgid "IDS_MODERNIZATION"
 msgstr "升級品"
@@ -30557,9 +30883,6 @@ msgstr "下個等級"
 
 msgid "IDS_NEXT_REPLENISHMENT"
 msgstr "下個補充"
-
-msgid "IDS_NEXT_SOUND_TRACK"
-msgstr "下一個音軌"
 
 msgid "IDS_NO"
 msgstr "否"
@@ -33108,8 +33431,8 @@ msgstr "是時候前進了，全速前進!"
 
 msgid "IDS_OP_09_AREAHEAL_ON_HINT"
 msgstr ""
-"靠近Ruan主力艦，\n"
-"來讓您的船艦回血"
+"靠近 Ruan 主力艦，\n"
+"以讓您的艦艇回血"
 
 msgid "IDS_OP_09_AREAHEAL_ON_STOP_ENGINE"
 msgstr "保持防禦隊形! 降低船艦速度來進行維修!"
@@ -33797,7 +34120,7 @@ msgid "IDS_PAAF028_GRUMMAN_F6F_3"
 msgstr "格魯曼 F6F-3 地獄貓"
 
 msgid "IDS_PAAF029_VOUGHT_F4U_1A"
-msgstr "沃特 F4U-1A 海盜"
+msgstr "沃特 F4U-1 海盜"
 
 msgid "IDS_PAAF030_F4F_4"
 msgstr "格魯曼 F4F-4 野貓"
@@ -34810,6 +35133,9 @@ msgstr "泛亞巡洋艦"
 msgid "IDS_PAN_ASIA_DESTROYER"
 msgstr "泛亞驅逐艦"
 
+msgid "IDS_PAOLO_NAVIGATORE"
+msgstr "Paolo Navigatori"
+
 msgid "IDS_PAPA001_SHELL_203MM_AP_AP_MK_19"
 msgstr "203 mm AP Mk19"
 
@@ -35713,7 +36039,7 @@ msgid "IDS_PARAMS_MODIFIER_ACOUSTICWAVEMAXDIST"
 msgstr "最大射程"
 
 msgid "IDS_PARAMS_MODIFIER_ACOUSTICWAVEMAXDIST_SUBMARINE_DETECTION"
-msgstr "潛水艦在水下時的可偵測範圍"
+msgstr "潛水艦在最大深度時的可偵測範圍"
 
 msgid "IDS_PARAMS_MODIFIER_ACOUSTICWAVERADIUS"
 msgstr "艦艇定位"
@@ -36075,6 +36401,9 @@ msgstr "被潛水艦偵測的距離"
 
 msgid "IDS_PARAMS_MODIFIER_DISTSHIP"
 msgstr "艦艇偵測能力"
+
+msgid "IDS_PARAMS_MODIFIER_DISTSUBMARINEUNDERWATER"
+msgstr "潛水艦在最大深度時的可偵測範圍"
 
 msgid "IDS_PARAMS_MODIFIER_DISTTORPEDO"
 msgstr "魚雷偵測能力"
@@ -36710,7 +37039,7 @@ msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYPERISCOPEDEPTHSTATEINSMOKE"
 msgstr "於潛望鏡深度"
 
 msgid "IDS_PARAMS_MODIFIER_SHIPVISIBILITYWORKINGDEPTHSTATEINSMOKE"
-msgstr "於操作深度"
+msgstr "從操作深度 [UNUSED]"
 
 msgid "IDS_PARAMS_MODIFIER_SHOOTSHIFT"
 msgstr "敵人攻擊您艦艇時射出的砲彈最大偏差度"
@@ -36960,6 +37289,9 @@ msgstr "來自震波的傷害"
 
 msgid "IDS_PARAMS_MODIFIER_WAVESPEEDMULTIPLIER"
 msgstr "震波速度"
+
+msgid "IDS_PARAMS_MODIFIER_WILDFIREDPS"
+msgstr "每秒血量"
 
 msgid "IDS_PARAMS_MODIFIER_WORKTIME"
 msgstr "消耗品作用時間"
@@ -40804,7 +41136,7 @@ msgid "IDS_PAUH504_DALLAS_B"
 msgstr "達拉斯 (B)"
 
 msgid "IDS_PAUH505_S6_HULL_STOCK"
-msgstr " "
+msgstr "抹香鯨 (A)"
 
 msgid "IDS_PAUH506_MONAGHAN"
 msgstr "莫納漢"
@@ -42434,6 +42766,12 @@ msgstr "碧藍航線"
 msgid "IDS_PBES356_WARSPITE_LANTERNFEST20"
 msgstr "中秋節"
 
+msgid "IDS_PBES358_BELFAST_43_ST_PATRICK"
+msgstr "愛爾蘭祖母綠"
+
+msgid "IDS_PBES368_BELFAST_59_ST_PATRICK"
+msgstr "愛爾蘭祖母綠"
+
 msgid "IDS_PBES408_EDINBURGH_FROST"
 msgstr "北極"
 
@@ -42547,6 +42885,9 @@ msgstr "7.7 mm Lewis"
 
 msgid "IDS_PBGA136_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon Mk.I（Mk.IIIA 炮座）"
+
+msgid "IDS_PBGA140_3IN_62_MARK_75_OTO_MELARA_COMPACT"
+msgstr "76.2 mm/62 OTO-Melara Compact"
 
 msgid "IDS_PBGA194_40MM_BOFORS_5_RP50"
 msgstr "40 mm/56 OQF Mk.XI（RP50 炮座）"
@@ -43163,6 +43504,9 @@ msgstr "133 mm HE Mk IC"
 msgid "IDS_PBPA112_133MM_AP_DIDO"
 msgstr "133 mm AP Mk IC"
 
+msgid "IDS_PBPA113_152MM_AP_MK5_T11"
+msgstr "152 mm AP Mk V"
+
 msgid "IDS_PBPA990_234MM_HE_CYCLOPS"
 msgstr "234 mm HE 6 CRH"
 
@@ -43300,6 +43644,9 @@ msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBPT019_533_DIDO"
 msgstr "533 mm Mk IX*"
+
+msgid "IDS_PBPT020_533_MKIXM_T11"
+msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBPT104_HERMES_STOCK"
 msgstr "Mark VIII"
@@ -44001,6 +44348,24 @@ msgstr "0"
 
 msgid "IDS_PBSC110_YEAR"
 msgstr "1947"
+
+msgid "IDS_PBSC111"
+msgstr "埃德加(Edgar)"
+
+msgid "IDS_PBSC111_DESCR"
+msgstr ""
+"從 "
+"Minotaur 巡洋艦計畫開發而來，擁有更多門主炮，以及開發於 "
+"1950 和 1960 年代、較先進和高效的防潛與防空武器。"
+
+msgid "IDS_PBSC111_FULL"
+msgstr "埃德加(Edgar)"
+
+msgid "IDS_PBSC111_NUMBER"
+msgstr "0"
+
+msgid "IDS_PBSC111_YEAR"
+msgstr "1975"
 
 msgid "IDS_PBSC205"
 msgstr "霍金斯(Hawkins)"
@@ -44772,6 +45137,9 @@ msgstr "508 mm/45 Mk.I（炮塔）"
 msgid "IDS_PBUA909_ART_GIBRALTAR"
 msgstr "234 mm/50 Mk.XI（炮塔）"
 
+msgid "IDS_PBUA930_C11_ART_STOCK"
+msgstr "152 mm/50 QF Mk.V（Mk.XXVI 炮座）"
+
 msgid "IDS_PBUA974_ART1_CONQUEROR"
 msgstr "419 mm/45 Mk.I（C/D 型炮座）"
 
@@ -45092,6 +45460,9 @@ msgstr "推進系統：152,000 匹馬力"
 
 msgid "IDS_PBUE912_ENG_EAGLE"
 msgstr "推進系統：152,000 匹馬力"
+
+msgid "IDS_PBUE930_C11_ENG_STOCK"
+msgstr "推進系統：130,000 匹馬力"
 
 msgid "IDS_PBUE974_ENG_CONQ"
 msgstr "推進系統：135,650 匹馬力"
@@ -45420,6 +45791,9 @@ msgstr "大膽"
 msgid "IDS_PBUH912_EAGLE"
 msgstr "鷹"
 
+msgid "IDS_PBUH930_C11_HULL_A"
+msgstr "埃德加"
+
 msgid "IDS_PBUH974_CONQ"
 msgstr "征服者"
 
@@ -45732,6 +46106,9 @@ msgstr "Mk X mod. 1"
 msgid "IDS_PBUS909_SUO_GIBRALTAR"
 msgstr "Mk X mod. 1"
 
+msgid "IDS_PBUS930_C11_SUO_STOCK"
+msgstr "Mk XI mod. 1"
+
 msgid "IDS_PBUS974_SUO_CONQ"
 msgstr "Mk X mod. 1"
 
@@ -45868,6 +46245,9 @@ msgid "IDS_PBUT904_TORP_PLYMOUTH"
 msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBUT905_TORP_INCOMPARABLE"
+msgstr "533 mm Mk IXM"
+
+msgid "IDS_PBUT930_C11_TORP_STOCK"
 msgstr "533 mm Mk IXM"
 
 msgid "IDS_PBUT990_TORP_CYCLOPS"
@@ -46250,6 +46630,15 @@ msgstr "破曉"
 
 msgid "IDS_PCEC125_PLAYERS_BIRTHDAY_2"
 msgstr "英勇服務"
+
+msgid "IDS_PCEC126_FIELDS"
+msgstr "托斯卡尼草原"
+
+msgid "IDS_PCEC127_EGS_CAMO"
+msgstr "Epic"
+
+msgid "IDS_PCEC128_ST_PATRICK_2022"
+msgstr "聖派翠克節"
 
 msgid "IDS_PCEE001_INPROGRESS_FLAG"
 msgstr "設計中"
@@ -46870,7 +47259,7 @@ msgid "IDS_PCEE067_SUPREMACY_LEAGUE_PARTICIPANT"
 msgstr "超級聯賽士兵"
 
 msgid "IDS_PCEE067_SUPREMACY_LEAGUE_PARTICIPANT_DESCRIPTION"
-msgstr "參與超級聯賽賽季 3"
+msgstr "超級聯賽賽季 3 參與者"
 
 msgid "IDS_PCEE067_SUPREMACY_LEAGUE_PARTICIPANT_EXTRA_DESCRIPTION"
 msgstr " "
@@ -47453,7 +47842,7 @@ msgid "IDS_PCEE125_BLUEPRINT_1"
 msgstr "STALINGRAD #1"
 
 msgid "IDS_PCEE125_BLUEPRINT_1_DESCRIPTION"
-msgstr "完成Typhoon聯賽中的戰鬥任務"
+msgstr "完成 Typhoon 聯賽中的戰鬥任務"
 
 msgid "IDS_PCEE125_BLUEPRINT_1_EXTRA_DESCRIPTION"
 msgstr "3 面旗幟可兌換為 X 階 史達林格勒 巡洋艦"
@@ -47462,7 +47851,7 @@ msgid "IDS_PCEE126_BLUEPRINT_2"
 msgstr "STALINGRAD #2"
 
 msgid "IDS_PCEE126_BLUEPRINT_2_DESCRIPTION"
-msgstr "完成Typhoon聯賽中的戰鬥任務"
+msgstr "完成 Typhoon 聯賽中的戰鬥任務"
 
 msgid "IDS_PCEE126_BLUEPRINT_2_EXTRA_DESCRIPTION"
 msgstr "3 面旗幟可兌換為 X 階 史達林格勒 巡洋艦"
@@ -47471,7 +47860,7 @@ msgid "IDS_PCEE127_BLUEPRINT_3"
 msgstr "STALINGRAD #3"
 
 msgid "IDS_PCEE127_BLUEPRINT_3_DESCRIPTION"
-msgstr "完成Typhoon聯賽中的戰鬥任務"
+msgstr "完成 Typhoon 聯賽中的戰鬥任務"
 
 msgid "IDS_PCEE127_BLUEPRINT_3_EXTRA_DESCRIPTION"
 msgstr "3 面旗幟可兌換為 X 階 史達林格勒 巡洋艦"
@@ -51307,6 +51696,21 @@ msgstr ""
 msgid "IDS_PCEE496_HORNET_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
 
+msgid "IDS_PCEE497_IT_DD_ARC_FLAG"
+msgstr "義大利驅逐艦：第 1 部分"
+
+msgid "IDS_PCEE497_IT_DD_ARC_FLAG_DESCRIPTION"
+msgstr ""
+"1943 年，義大利海軍艦艇船員的戰爭勛章分為 "
+"3 個等級。最高等級授予在戰艦上服役 48 個月；參與 "
+"5,000 個小時海上突襲；或 "
+"6 次遭遇戰的船員。在這個授予驅逐艦船員的勛章中間，描繪了一隻手持魚雷的神話生物 — 半人馬魚。\n"
+"\n"
+"紀念全新義大利驅逐艦於 0.11.2 版本更新開放搶先體驗。"
+
+msgid "IDS_PCEE497_IT_DD_ARC_FLAG_EXTRA_DESCRIPTION"
+msgstr " "
+
 msgid "IDS_PCEE498_RANKEDFLAG_6"
 msgstr "怪異城市"
 
@@ -51317,6 +51721,52 @@ msgstr ""
 "於第六季排名戰的青銅聯賽中達到排名 1 所給予的旗幟。"
 
 msgid "IDS_PCEE498_RANKEDFLAG_6_EXTRA_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE499_TOULON_FLAG"
+msgstr "Toulon"
+
+msgid "IDS_PCEE499_TOULON_FLAG_DESCRIPTION"
+msgstr ""
+"土倫（"
+"Toulon）是一座位於蔚藍海岸的港口城市。地中海海軍部指揮官兼法國領海主要指揮官 — 海軍總督的官邸就坐落在這裡。"
+
+msgid "IDS_PCEE499_TOULON_FLAG_EXTRA_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE500_IWAMI_FLAG"
+msgstr "Iwami"
+
+msgid "IDS_PCEE500_IWAMI_FLAG_DESCRIPTION"
+msgstr ""
+"石見（"
+"Iwami）是日本古代的令制國之一，位於本州島西部。從 "
+"13 世紀初到 1600 年，石見由 "
+"Masuda 武士家族統治。這面旗幟描繪了該家族的家紋。"
+
+msgid "IDS_PCEE500_IWAMI_FLAG_EXTRA_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE501_MECKLENBURG_FLAG"
+msgstr "Mecklenburg"
+
+msgid "IDS_PCEE501_MECKLENBURG_FLAG_DESCRIPTION"
+msgstr ""
+"梅克倫堡（Mecklenburg）是德國北部的一個歷史地區。從 "
+"12 世紀到 "
+"1918 年，它由一個公爵王朝所統治。梅克倫堡纹章上的牛頭最早出現在 "
+"13 世紀初。"
+
+msgid "IDS_PCEE501_MECKLENBURG_FLAG_EXTRA_DESCRIPTION"
+msgstr " "
+
+msgid "IDS_PCEE502_LATINO_TOURNAMENT_FLAG"
+msgstr "Copa Latina-Americana Warships"
+
+msgid "IDS_PCEE502_LATINO_TOURNAMENT_FLAG_DESCRIPTION"
+msgstr "Copa Latina-Americana Warships 參與者。"
+
+msgid "IDS_PCEE502_LATINO_TOURNAMENT_FLAG_EXTRA_DESCRIPTION"
 msgstr " "
 
 msgid "IDS_PCEE599_FLAG_ASIA"
@@ -51701,6 +52151,63 @@ msgstr "海戰紀念柱"
 msgid "IDS_PCJM019_EXPBOOST_PANASIA"
 msgstr "海軍建造人員大隊"
 
+msgid "IDS_PCPA070_102MM_HE_FOR_TEST"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA071_102MM_AP_FOR_TEST"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA072_102MM_HE_FOR_TEST_2"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA073_102MM_AP_FOR_TEST_2"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA074_152MM_HE_FOR_TEST"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA075_152MM_AP_FOR_TEST"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA076_152MM_HE_FOR_TEST_2"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA077_152MM_AP_FOR_TEST_2"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA078_203MM_HE_FOR_TEST"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA079_203MM_AP_FOR_TEST"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA080_203MM_HE_FOR_TEST_2"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA081_203MM_AP_FOR_TEST_2"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA082_406MM_HE_FOR_TEST"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA083_406MM_AP_FOR_TEST"
+msgstr "AP 彈"
+
+msgid "IDS_PCPA084_406MM_HE_FOR_TEST_2"
+msgstr "HE 彈"
+
+msgid "IDS_PCPA085_406MM_AP_FOR_TEST_2"
+msgstr "AP 彈"
+
+msgid "IDS_PCPT010_533MM_FOR_TEST"
+msgstr "魚雷"
+
+msgid "IDS_PCPT011_450MM_FOR_TEST"
+msgstr "魚雷"
+
+msgid "IDS_PCPT012_610MM_FOR_TEST"
+msgstr "魚雷"
+
 msgid "IDS_PCQC001_CAMPAIGN1_DESCR"
 msgstr " "
 
@@ -51720,29 +52227,6 @@ msgstr ""
 msgid "IDS_PCQC006_YAMAMOTO_TITLE"
 msgstr "山本五十六"
 
-msgid "IDS_PCQC007_NEWYEAR2018BASIC_DESCR"
-msgstr ""
-"北角海戰 (1943 年十二月 "
-"26 日) 是一場發生在第二次世界大戰期間的海戰，皇家海軍艦艇在過程中擊沉了德國主力艦 "
-"沙恩霍斯特。這場戰鬥被認定為史上最北方的海戰。"
-
-msgid "IDS_PCQC007_NEWYEAR2018BASIC_TITLE"
-msgstr "北角海戰"
-
-msgid "IDS_PCQC008_NEWYEAR2018ELITE_DESCR"
-msgstr ""
-"他們說，您的生活總是年復一年。但技巧純熟的指揮官會以遊戲來慶祝這個新的一年！不是許下新年決心，他們只是為了最重視的艦艇而戰。因此不會去裝飾那一棵節日樹，而是裝飾自己的 "
-"沙恩霍斯特！隨著在他們上空爆開的節日煙火，這些指揮官舒適地躺進自己的扶手椅，因為他們知道一切都將風微浪穩。我們祝福您在這一場以及每一場的戰鬥裡都能時來運轉──如此就能擊敗對手並完成工作，就算這個任務困難得像準備新的一年節目單也一樣。"
-
-msgid "IDS_PCQC008_NEWYEAR2018ELITE_TITLE"
-msgstr "新年突襲"
-
-msgid "IDS_PCQC009_VIVELAFRANCE_DESCR"
-msgstr " "
-
-msgid "IDS_PCQC009_VIVELAFRANCE_TITLE"
-msgstr "法國黃金"
-
 msgid "IDS_PCQC010_HALSEY_DESCR"
 msgstr ""
 "小威廉·弗雷德里克·海爾賽 "
@@ -51750,43 +52234,6 @@ msgstr ""
 
 msgid "IDS_PCQC010_HALSEY_TITLE"
 msgstr "「打得猛！打得快！打得勤！」"
-
-msgid "IDS_PCQC011_NEWYEAR2019PEF_DESCR"
-msgstr ""
-"1915年5月1日，位於漢堡的Blohm und "
-"Voss造船廠見證了為紀念德意志皇帝Wilhelm "
-"II的兒子普魯士王子Eitel "
-"Friedrich而命名的一艘艦艇的龍骨安放。Prinz Eitel "
-"Friedrich，一艘"
-"Mackensen級戰鬥巡洋艦，應該要成為帝國海軍（德意志帝國海軍）最強大的艦艇之一。作為艦艇基礎的計劃是在第一次世界大戰之前開發的，這場戰爭終結了帝國本身，以及整個「"
-"Belle Époque」。這個計劃永遠不會完成。"
-
-msgid "IDS_PCQC011_NEWYEAR2019PEF_TITLE"
-msgstr "偉大的Prinz"
-
-msgid "IDS_PCQC012_NEWYEAR2019STEELQUEST_DESCR"
-msgstr ""
-"20世紀初是裝甲火炮艦艇的黃金時代。無畏艦取代了較舊的主力艦，它們與更加先進的鋼製猛獸相比，已經開始顯得相當糟糕。石油開始取代煤炭作為艦艇的燃料，每年都有更多裝備更大門炮的高速主力艦和戰鬥巡洋艦投入服役。然而，正是在"
-"1914年爆發的第一次世界大戰的到來，終結了無畏艦的無條件海上統治。諷刺的是，考慮這些艦艇應該在這些衝突中證明其價值。新型致命武器—潛艦—的出現在此具有重要意義，加上航空技術的進步，也開始在海軍的海洋事務中佔有一席之地。這場史無前例的戰爭持續了數年，耗盡戰敗者以及大多數勝利者的資源。準備投入服役的巨型鋼鐵猛獸注定要失敗。戰爭結束後，包括"
-"Prinz Eitel "
-"Friedrich在內的不同建造階段的數十艘主力艦和戰鬥巡洋艦被拆除。"
-
-msgid "IDS_PCQC012_NEWYEAR2019STEELQUEST_TITLE"
-msgstr "鋼鐵猛獸"
-
-msgid "IDS_PCQC013_JERZY_SWIRSKI_DESCR"
-msgstr ""
-"1925 年至 1946 年的二十多年裡，Jerzy "
-"Swirski 擔任波蘭海軍總長。在他的指導下，波蘭海軍於 "
-"1920 至 "
-"1930 年代，為這個年輕的國家建立起了一支規模雖小但實力平衡的艦隊。\n"
-"\n"
-"第二次世界大戰期間，在這名海軍中將的努力不懈下，揚著波蘭國旗並乘載波蘭船員的艦艇，活躍參加了多場戰役。"
-"Swirski 的命運和他的服役生涯，很好地代表了波蘭在 "
-"20 世紀上半葉的完整歷史。"
-
-msgid "IDS_PCQC013_JERZY_SWIRSKI_TITLE"
-msgstr "堅定意志"
 
 msgid "IDS_PCQC014_EPOCHSOFSHIPS_DESCR"
 msgstr ""
@@ -51798,113 +52245,6 @@ msgstr ""
 
 msgid "IDS_PCQC014_EPOCHSOFSHIPS_TITLE"
 msgstr "海軍的五個時代"
-
-msgid "IDS_PCQC015_STRASBOURG_DESCR"
-msgstr ""
-"Strasbourg 和 "
-"Dunkerque 是新一代戰艦的首批艦艇。這批高速主力艦是 "
-"1930 和 "
-"1940 年代海軍力量的象徵，其地位能與英國的無畏艦分庭抗禮。畢竟，正是這些艦艇的建造掀起了新一輪的海軍軍備競賽，進而促成了規模和火力在當時難以想象的超級主力艦誕生，例如 "
-"Vittorio Veneto 級、Bismarck 級、Richelieu 級、Yamato 級和 "
-"Iowa 級艦艇。"
-
-msgid "IDS_PCQC015_STRASBOURG_TITLE"
-msgstr "追逐 Strasbourg"
-
-msgid "IDS_PCQC016_SANTASNY2_DESCR"
-msgstr "戰艦是人造產物，但在設計師畫下第一筆之前，艦艇在設計概念階段就已經有了生命。如果艦艇被建造出來，那麼她的生命將一直持續到艦艇沉沒或報廢為止，並在此後數十年甚至數個世紀為人們所銘記。艦艇的命運與許多人的命運交織盤錯。她的歷史是人類歷史上一片重要的拼圖。透過完成此戰役的任務。您將可一窺這片拼圖的樣貌。"
-
-msgid "IDS_PCQC016_SANTASNY2_TITLE"
-msgstr "艦艇與命運"
-
-msgid "IDS_PCQM041_DESCR"
-msgstr ""
-"Rheinübung 行動於 1941 年五月 19 日發起。德國主力艦 "
-"俾斯麥(Bismarck) 在海軍上將 呂特晏斯(Lütjens) 的指揮下協同重型巡洋艦 歐根親王(Prinz "
-"Eugen) 一起強行進入大西洋並攻擊英國的船運。五月 "
-"20 日，中立的瑞典巡洋艦 "
-"哥特蘭(Gotland) 發現了德國艦艇的蹤跡。英國海軍部則經由情報管道得知。隔天，皇家海軍指揮官收到了侵入艦艇停泊在其中一個挪威峽灣的照片，然後就開始重新整編他們的部隊來進行攔截。"
-"俾斯麥(Bismarck) 和 歐根親王(Prinz "
-"Eugen) 沿著冰島的北邊航行以試圖強行進入大西洋。英國部隊則早已在丹麥海峽那等著她們。五月 "
-"23 日傍晚，巡洋艦 "
-"薩福克(Suffolk) 設立的雷達保持著與德國艦艇的接觸。過了一段時間，"
-"俾斯麥(Bismarck) 開始用主炮射擊敵方巡洋艦 諾福克(Norfolk)。"
-"諾福克(Norfolk) 設法避開災難性的炮擊並躲藏到煙幕背後。"
-
-msgid "IDS_PCQM042_DESCR"
-msgstr ""
-"到了五月 23 日結束時，英國重型巡洋艦 諾福克(Norfolk) 和 "
-"薩福克(Suffolk) 緊跟在德國艦艇的後面並密切監視著她們，並且避開了會被發現的範圍。而侵入者的位置、航向及速度等相關情報通通都轉達給了本土艦隊的海軍上將 "
-"托維(Tovey)。兩艘艦艇在海軍中將 "
-"霍蘭(Holland) 指揮下趕往攔截德國人：主力艦 威爾斯親王(Prince of "
-"Wales) 和英國海軍的驕傲──戰鬥巡洋艦 胡德(Hood)。到了五月 "
-"24 日的清晨，呂特晏斯(Lütjens) 和 "
-"霍蘭(Holland) 的艦艇在丹麥海峽口相遇。英國人開始射擊。在頭六分鐘之內，"
-"威爾斯親王(Prince of Wales) 擊中了 "
-"俾斯麥(Bismarck) 三次。而德國主力艦的第五次齊射擊中了 HMS "
-"胡德(Hood) 並造成其彈藥庫爆炸。在一場可怕的爆炸後，「全能的 "
-"胡德(Hood)」就跟著她絕大多數的乘員一起沉沒。"
-
-msgid "IDS_PCQM043_DESCR"
-msgstr ""
-"在五月 24 日早上主力艦 "
-"胡德(Hood) 遭難後，丹麥海峽的海戰仍繼續下去。威爾斯親王(Prince of "
-"Wales) 隻身承受著德國艦艇的集中火力。她們的砲彈一顆接著一顆擊中英國的主力艦。幾週前才加入艦隊的 "
-"威爾斯親王(Prince of "
-"Wales) 這才在行動中發現了自己的厚實。她沒有完成整個戰鬥訓練，而她的一些艦炮和系統也不時地會停止運轉。最終，和對手間縮短到連副炮都足以使用的距離，因此德國人即要用魚雷來攻擊目標。"
-"威爾斯親王(Prince of "
-"Wales) 指揮官下令施放煙幕並掉頭離開，因為只有兩門主炮可以正常運作，因此失去這艘艦艇的風險非常高。只有如此，"
-"薩福克(Suffolk) 抵達戰場並朝德國旗艦的方向進行了幾次齊射。"
-
-msgid "IDS_PCQM044_DESCR"
-msgstr ""
-"五月 "
-"24 日的海戰以確信屬於德國艦隊的勝利來作結。儘管，"
-"俾斯麥(Bismarck) 也同樣受到嚴重的損壞。許多艙間進水、艦艇航速下降、彈射器損壞、以及航行距離由於燃油槽的受損而大幅下降。這種情況並不允許進一步進行海上通訊，因此主力艦指揮官決定將航線設置到被佔領的法國港口。掩護巡洋艦 "
-"歐根親王(Prinz Eugen) 強行進入大西洋，到了五月 24 日傍晚，"
-"俾斯麥(Bismarck) 與她的追擊者進行交戰──主力艦 威爾斯親王(Prince of "
-"Wales)、巡洋艦 諾福克(Norfolk) 和 薩福克(Suffolk)。也因此，英國部隊就讓 歐根親王(Prinz "
-"Eugen) 給溜走了。與此同時，在收到有關戰鬥巡洋艦 HMS "
-"胡德(Hood) 遭難的消息後，本土艦隊指揮官決定要集中所有力量來攔截侵入者的所有部隊：包含兩艘航空母艦及一些主力艦。過了午夜到了五月 "
-"25 日，俾斯麥(Bismarck) 被來自航空母艦 HMS "
-"勝利(Victorious) 的飛機攻擊並被一枚魚雷給擊中。增加了主力艦上損壞的部件數量。"
-
-msgid "IDS_PCQM045_DESCR"
-msgstr ""
-"到了五月 25 日的清晨，"
-"俾斯麥(Bismarck) 設法對敵方艦艇運用策略因而離開了英國的雷達覆蓋區，然後設置了一條往法國的航線。英國人的部隊開始使用岸基和航空母艦上的偵察機去搜索這艘主力艦。儘管做了所有這些努力，他們還是超過一天的時間沒有發現到正朝著基地移動的任何 "
-"俾斯麥(Bismarck) 跡象。只有在五月 26 日的早上，一架 PBY "
-"卡特琳娜(Catalina) 水上飛機才發現了這艘主力艦。本土艦隊的主力部隊遠遠落後。只有三天前購買的「"
-"H 部隊」才能攔截侵入者。巡洋艦 HMS "
-"謝菲爾德(Sheffield) 雷達偵測出德國主力艦的位置，然後將座標轉達給航空母艦 "
-"皇家方舟(Ark Royal) 的魚雷轟炸機。三枚擊中 "
-"俾斯麥(Bismarck) 魚雷的其中一枚使她的操舵裝置失去了作用，因而決定了這艘艦艇的命運。"
-
-msgid "IDS_PCQM046_DESCR"
-msgstr ""
-"到了五月 26 日夜幕低垂之時，"
-"俾斯麥(Bismarck) 設法用受損的操舵裝置以幾次齊射來擊中巡洋艦 HMS "
-"謝菲爾德(Sheffield)，因此迫使她趕快撤退。然而，艦長 "
-"維安(Vian) 的驅逐艦集團已抵達了戰場。她們當中之一，波蘭驅逐艦 "
-"雷電(ORP Piorun) 首先發現敵人並獨自一人進行交戰。"
-"380 毫米艦炮的幾次齊射迫使英勇的驅逐艦掉頭離開。與此同時，艦長 "
-"維安(Vian) 的驅逐艦集團已包圍住 "
-"俾斯麥(Bismarck) 並謹慎試著用魚雷來攻擊她。直到五月 26 日-五月 "
-"27 日的夜晚，驅逐艦 哥薩克(Cossack)、錫克(Sikh)、毛利(Maori) 和 "
-"祖魯(Zulu) 對受損的主力艦進行數次攻擊。"
-"俾斯麥(Bismarck) 勉強地避開了魚雷並以所有艦炮來還擊。又暗又危險的水域對德國人有利，因此讓他們逃脫掉新的傷害。"
-
-msgid "IDS_PCQM047_DESCR"
-msgstr ""
-"艦長 "
-"維安(Vian) 的驅逐艦完成了他們的工作。他們重擊了德國主力艦上的乘員並指引本土艦隊的主力部隊抵達目標。五月 "
-"27 日的早上，俾斯麥(Bismarck) 被主力艦 英王喬治五世(King George V) 和 "
-"羅德尼(Rodney) 給發現。德國人的齊射是真的很準，但英國人發動的攻擊也不賴。他們很快就讓德國主力艦的艦艏艦炮失去作用並摧毀了主要的火控控制器。最後，兩艘英國重型巡洋艦加入了戰鬥。除了主炮外，英國人還以兩用火炮和魚雷來進行攻擊。一枚來自 "
-"羅德尼(Rodney) 的魚雷擊中了 "
-"俾斯麥(Bismarck)。到了所有德國火炮都失去作用時，英國的主力艦就在近距離下朝 "
-"俾斯麥(Bismarck) 開火。從航空母艦 皇家方舟(Ark "
-"Royal) 出發的魚雷轟炸機採取了新一輪的攻擊，因為戰鬥結果已經非常明顯了。最終，巡洋艦 "
-"多塞特郡(Dorsetshire) 用一對魚雷擊沉了不幸的侵入者。"
 
 msgid "IDS_PCQM051_DESCR"
 msgstr ""
@@ -51949,91 +52289,6 @@ msgstr ""
 "1943 年四月，海軍大將 "
 "山本(Yamamoto) 正視察著漫長前線的關鍵地點。美國監測小組譯解了有關總指揮官的航班資訊。他們組織了大規模行動以攔截載有 "
 "山本(Yamamoto) 的飛機並設法在太平洋中的一個島嶼叢林上空將其擊落。那位著名的海軍大將在逝世時緊拄著他的武士刀。"
-
-msgid "IDS_PCQM056_DESCR"
-msgstr ""
-"這個行動主要是以殺雞儆猴的方式消滅其中一個船團，來破壞盟軍通過北極海域運送補給到蘇聯的航線，因為一些原因而得到了「"
-"Ostfront」(德語：「東部戰線」) 這一響亮的稱號。"
-"1943 年十二月 "
-"22 日，德國人偵測到一群運輸船艦沿著挪威海岸航行。經過漫長的猶豫和收集偵察資料，結果沒有發現到英國的護衛分艦隊，德國海軍指揮部決定要把握住這個機會。主力艦 "
-"Scharnhorst 於 1943 年十二月 "
-"25 日傍晚出航，由第四驅逐艦區艦隊 (區艦隊領導艦："
-"Z-29) 護衛。北極的夜晚出現了一場劇烈的暴風雨，在德國海軍上將的失誤和英國雷達的優秀誤打誤撞下，使得當時已「失去」其驅逐艦的 "
-"Scharnhorst 直接穿過 HMS "
-"Belfast 所率領，由三艘巡洋艦所組成的英國分艦隊。英國人發射的第一次齊射，完全出乎德國人的意料之外。"
-"HMS Norfolk 發射的砲彈擊毀了主力艦的主雷達，但 "
-"Scharnhorst 無意和巡洋艦交戰，因此在暴風雨氣候下利用她的航速來躲避追擊以繼續追獵船團。"
-
-msgid "IDS_PCQM057_DESCR"
-msgstr ""
-"海軍中將 "
-"Burnett 分艦隊的英國巡洋艦繼續履行防衛運輸船艦的職責，而 "
-"Scharnhorst 花了數小時的時間在搜尋船團，大多徒勞無功。由 "
-"HMS Matchless、HMS Musketeer、HMS Opportune 和 HMS "
-"Virago 構成的驅逐艦區艦隊加入了 "
-"Burnett 的部隊。與此同時，英國的海軍上將們漸漸覺得好不容易快到手的掠食者，似乎已設法從他們的手中溜走。然而北極的夜晚加上失去作用的雷達，德國主力艦幾乎近盲，而英國艦艇上的雷達設備則運作良好。十二月 "
-"26 日的 12:00 PM 左右，HMS Belfast 於雷達上再次捕捉到 "
-"Scharnhorst。在緊接著的激烈戰鬥中，德國主力艦受到了重擊，然而英國人也吃足了苦頭："
-"Scharnhorst 的 283 毫米砲彈讓 "
-"Norfolk 其中一座主炮塔失去作用，對艦身造成大規模的傷害；"
-"Sheffield 被砲彈碎片打得滿是窟窿，而受到主力艦主炮組齊射的驅逐艦 "
-"Virago 幾近沉沒。"
-
-msgid "IDS_PCQM058_DESCR"
-msgstr ""
-"當 "
-"Scharnhorst 再次遭遇巡洋艦時，她實際上──雖然沒有意識到──距離船團只有 "
-"12 到 15 英里。但海軍少將 "
-"Bey 及其指揮的主力艦決定要放棄這個作戰，所以派遣 "
-"Scharnhorst 及驅逐艦不顧一切地朝挪威海岸搜尋船團。"
-"Burnett 的分艦隊持續以最高的航速追擊 "
-"Scharnhorst，將其維持在雷達的偵測範圍內，同時待在該主力艦的視線之外。因受損而無力穿越猛烈暴風雨的英國巡洋艦不得不後退，一艘接著一艘，留下 "
-"Belfast 獨自一人追擊 Scharnhorst。英國艦艇不停地將 "
-"Scharnhorst 的下落傳送給正在趕往會合點的海軍上將 "
-"Fraser 的部隊。以 "
-"Z-29 為首的德國驅逐艦，因為離得太遠而無法給予幫助，也無法作為旗艦的「眼睛」。與此同時，失去雷達的 "
-"Scharnhorst 正一步步航向陷阱：主力艦 Duke of York、巡洋艦 "
-"Jamaica 以及四艘驅逐艦 (HMS Savage、HMS Saumarez、HMS "
-"Scorpion 和 挪威驅逐艦 "
-"Stord) 正加足馬力要攔截德國的「掠食者」。英國海軍將級軍官，海軍上將 "
-"Fraser 下令盡量越晚開火越好，要在最短距離下讓敵方艦艇大吃一驚。最終在 "
-"16:47 時，這艘毫無防備的德國主力艦被一枚凌空的英國照明彈給點亮，然後 "
-"Duke of York 立即用她所有十門 "
-"356 毫米艦炮開始齊射轟炸... 來自英國艦艇的炮火出人意外地準確：第一批擊中 "
-"Scharnhorst 的砲彈就摧毀了她的主炮組炮塔。"
-
-msgid "IDS_PCQM059_DESCR"
-msgstr ""
-"受困之後，"
-"Scharnhorst 立即設置航線以擺脫敵方艦艇，加足馬力並且一邊防禦一邊還擊。同時，英國巡洋艦加入了戰鬥："
-"Belfast、及後來的 Norfolk 都從北方接近，而 "
-"Jamaica 則是從南方。Scharnhorst 發現到自己進退維谷。Duke of "
-"York 向敵方艦艇發射了大量的砲彈，一次又一次地命中，破壞了火炮並摧毀了艦艇的上層建築。儘管如此，德國主力艦厚實的裝甲帶保護著她不受重傷，而且 "
-"Scharnhorst 正以超過 "
-"30 節的速度航行，逐漸擺脫掉英國的艦艇，她終於到達了敵方巡洋艦所無法觸及的距離。不久之後，英國的旗艦也停止射擊。然而不久前，"
-"Duke of York 所射出的一發 "
-"356 毫米砲彈，擊穿了德國主力艦薄弱的上部裝甲帶，並且在鍋爐室裡爆炸。"
-"Scharnhorst 的航速驟降，這艘艦艇的命運在這個致命的打擊下急遽惡化。"
-
-msgid "IDS_PCQM060_DESCR"
-msgstr ""
-"英國艦艇幾近嚴重受損，但依舊比德國主力艦強大。海軍上將 "
-"Fraser 下令要驅逐艦進行魚雷攻擊。Savage、Saumarez、"
-"Scorpion 和 "
-"Stord 緊跟在目標後頭，儘管受到反擊，還是發射了 "
-"28 枚魚雷並命中四次。"
-"Scharnhorst 雖然受到傷害，但還是展現出優異的存活性，謹慎地移動並用她剩下的火炮來開火。"
-"HMS Duke of York 又再一次接近並朝德國主力艦開火。"
-"Scharnhorst 完全失去了轉向裝置並且就要停了下來。巡洋艦 "
-"Belfast、Jamaica 及剩下的驅逐艦衝向前去解決掉敵方艦艇。"
-"HMS Musketeer 朝距離數百公尺外痛苦掙扎的 "
-"Scharnhorst 發射了四枚魚雷。這艘德國主力艦總共被擊中至少 "
-"11 次。19:45 左右，"
-"Scharnhorst 消失在被煙霧及火焰籠罩的海浪之下。\n"
-"\n"
-"英國的水手對敵人在戰鬥中的抵抗力感到震驚。戰鬥結束之後，海軍上將 "
-"Fraser 說：「我希望當你們之中的任何人指揮一艘艦艇面對強大數倍的對手時，會像今天 "
-"Scharnhorst 的指揮官一樣勇敢地指揮你的艦艇。」"
 
 msgid "IDS_PCQM070_DESCR"
 msgstr ""
@@ -52106,269 +52361,6 @@ msgstr ""
 "1945年9月2日。當天，戰敗的日本天皇登上了"
 "Halsey執掌的第三艦隊旗艦USS "
 "Missouri，第三艦隊被視為美國海軍最強大的特遣隊。"
-
-msgid "IDS_PCQM075_DESCR"
-msgstr ""
-"日本帝國海軍驅逐艦"
-"Hatsuharu（日文的「初春」）是一系列六艘艦艇的領艦，於"
-"1931年5月在佐世保的海軍造船廠安放龍骨。她於1933年9月"
-"30日投入服役。"
-"Hatsuharu在第二次世界大戰期間的服役紀錄包括入侵荷屬東印度群島、阿留申群島以外的活動以及雷伊泰灣戰役等。"
-"1944年11月"
-"13日，此驅逐艦在從馬尼拉灣突破時被美國航空轟炸後沉沒。"
-
-msgid "IDS_PCQM076_DESCR"
-msgstr ""
-"德國戰爭海軍的輕型巡洋艦 Nü"
-"rnberg 以第一次世界大戰期間沉沒的艦艇命名，於 1933 年 "
-"12 月在基爾安放龍骨。在 "
-"1936 年初，在服役一段時間後，她成為德國海軍情報局的旗艦。在第二次世界大戰期間，她參與了北海、挪威水域和波羅的海的行動。戰爭結束後，她被移交給蘇聯海軍並改名為 "
-"Admiral Makarov。"
-
-msgid "IDS_PCQM077_DESCR"
-msgstr ""
-"皇家海軍驅逐艦Icarus以古希臘神話中的一個角色命名，於"
-"1936年"
-"3月在蘇格蘭克萊德班克安放龍骨。第二次世界大戰期間該艦的作戰紀錄是所有英國驅逐艦中最為激烈的一艘。"
-"Icarus參與了大西洋、北極和地中海的許多護航行動，挪威水域的作戰行動以及敦克爾克撤退和諾曼第登陸。這名老兵和戰爭倖存者於"
-"1946年被遣散。"
-
-msgid "IDS_PCQM078_DESCR"
-msgstr ""
-"輕型巡洋艦Dallas以1934年由美國海軍建造和維修局製定的"
-"389計劃為基礎，於《戰艦世界》重建。這艘新艦艇繼承了"
-"Brooklyn級巡洋艦的許多元素，這些元素當時準備放置，但由於"
-"1930年倫敦海事協商的限制，優先度較低。最終，美國海軍司令部放棄建造小型巡洋艦的想法，並且在條約中找到一個漏洞，建造出兩艘"
-"10,000噸的艦艇—USS Helena和USS St. Louis—"
-"Brooklyn級的完整衍生產物。"
-
-msgid "IDS_PCQM079_DESCR"
-msgstr ""
-"以法國北部省份命名的法國海軍主力艦Normandie於1913年4月"
-"18日在聖納澤爾市的一個造船廠安放龍骨。擁有四聯裝主炮塔的獨特之處應該是這艘超級無畏艦的亮點。此艦艇的艦身於"
-"1914年"
-"10月下水，但當時戰況轉熱的第一次世界大戰阻止了她的建造繼續。戰爭結束後，法國海軍司令部考慮完成"
-"Normandie級主力艦的各種選項，包括將他們最近的戰鬥經驗考慮進去的潛在現代化，但他們最終在"
-"1919年底放棄這一想法。"
-
-msgid "IDS_PCQM080_DESCR"
-msgstr ""
-"Mackensen級戰鬥巡洋艦，Prinz Eitel "
-"Friedrich就是其中之一，確實是巨型怪物—高達"
-"31,000噸，速度可達28節，並擁有"
-"300毫米厚的裝甲。它們的主要武裝是由8門特別設計的"
-"350毫米炮組成，彈藥重"
-"600公斤。當這個系列的全部四艘艦艇都在"
-"1915年安放龍骨時，世界上沒有一個國家擁有如此強大而快速的艦艇。"
-
-msgid "IDS_PCQM081_DESCR"
-msgstr ""
-"在第一次世界大戰之前，俄羅斯帝國一直在迅速發展其艦隊。戰爭爆發時，七艘主力艦已完成並下水，準備進行試航。造船廠日以繼夜地為一艘主力艦（後來成為"
-"Imperator Nikolai I）和四艘"
-"Izmail級戰鬥巡洋艦建造艦身。後者具有非常驚人的存在感："
-"32,000噸排水量、222公尺長、速度高達27節，以及12門"
-"356毫米炮。在戰爭期間，儘管資金減少並且錯過某些機械裝置的最後製造期限，但全部五艘艦艇仍然成功下水，但俄羅斯革命阻止了它們的完工。在"
-"1920年代，Imperator的前身和所有"
-"Izmails的艦身最終被以金屬報廢。"
-
-msgid "IDS_PCQM082_DESCR"
-msgstr ""
-"法國海軍在20世紀初也有大規模建造計劃。"
-"1914年夏天，三艘Bretagne級主力艦在完成的最後階段，五艘"
-"Normandie級主力艦仍在造船廠。四艘"
-"Lyon級主力艦，具有前所未有的武裝16門"
-"340毫米炮，應該在次年安放龍骨。與已經服役的"
-"Courbet級艦艇結合，法國原本可以擁有一支由十六艘艦艇組成的強大戰鬥艦隊。但戰爭的爆發終結了這些夢想。整個國家的資源被重新分配到陸軍的需求，陸軍維持一個巨大充滿激烈戰鬥的陸地戰線。"
-"Bretagne級主力艦最終投入服役，但"
-"Normandie級主力艦有更為悲慘的命運—戰爭結束後，其中四艘的艦身被以金屬報廢，而第五艘則作為航空母艦完工。"
-"Lyon級主力艦甚至沒有安放龍骨。"
-
-msgid "IDS_PCQM083_DESCR"
-msgstr ""
-"對於英國而言，他們的艦隊不僅僅是驕傲，而且是第一次世界大戰期間國家的主要武器。因此，不遺餘力地使其變得更加強大。在戰爭期間，英國下水超過一打主力艦和巡洋艦。在"
-"1918年"
-"11月戰爭結束時，又有四艘怪物級的艦艇處於不同的建造階段。這些是"
-"Hood級戰鬥巡洋艦，排水量超過42,000噸，長度"
-"262公尺。四年的戰爭最終將耗盡如英國這般巨大的帝國的資源，但海軍司令部決定無論如何都要完成領艦。"
-"HMS Hood於"
-"1920年開始服役，成為皇家海軍二十年來力量的象徵。至於她的三艘姊妹艦，它們的故事在開始之前就已經結束，其艦身的鋼材重新用於和平時期的需要。"
-
-msgid "IDS_PCQM084_DESCR"
-msgstr ""
-"20世紀初是德國海軍的鼎盛時期，其艦隊包括數百艘戰艦，其中包括近兩打無畏主力艦。在即將到來的戰爭中，德意志帝國海軍將面對世界上最大的艦隊—皇家英國海軍。第一次世界大戰期間，德意志帝國繼續大規模建造旗艦。在"
-"1918年11月簽署休戰時，另外兩艘Bayern級主力艦和四艘"
-"Mackensen級戰鬥巡洋艦處於不同的準備階段。還訂購了另外三艘擁有"
-"33,500噸排水量和"
-"380毫米炮的戰鬥巡洋艦，但它們的建造從未真正開始。"
-"1919年的凡爾賽和平條約將這些失敗的海洋統治者變成大量的廢棄金屬。"
-
-msgid "IDS_PCQM085_DESCR"
-msgstr ""
-"美國進入第一次世界大戰的時間相當晚，而日本遠離戰爭的主要戰場，這意味著兩國並沒有像其他衝突的參與者那樣遭受同樣程度的資源損耗。"
-"1918年以後，這兩個大國不但沒有考慮削減他們的造船計劃，甚至還加強了。在"
-"1920年至1921年間，兩艘Kaga級主力艦和四艘"
-"Amagi級戰鬥巡洋艦在日本安放龍骨，還有四艘"
-"Kii級主力艦被訂購。同時，六艘South Dakota級主力艦和六艘"
-"Lexington級戰鬥巡洋艦在美國安放龍骨。日本和美國的艦艇都裝備口徑超過"
-"400毫米的炮，排水量為40,000噸或以上。但是，"
-"1922年在華盛頓簽署一份限制海軍武器的國際條約，這使得這支龐大的鋼鐵艦隊無法投入服役。大多數艦艇被送去廢棄，只有四艘作為航空母艦完工。在第二次世界大戰期間，這四大巨頭—"
-"Lexington、Saratoga、Kaga和"
-"Akagi—為海軍歷史上新時代的到來做出貢獻—由艦載機主宰的時代。"
-
-msgid "IDS_PCQM086_SWIRSKI_DESCR"
-msgstr ""
-"Jerzy Wlodzimierz Swirski 於 1882 年 4 月 "
-"5 日，在內陸的卡利什小鎮出生。當時波蘭的這一區域仍隸屬俄羅斯帝國，而這位未來海軍中將的父親曾在俄羅斯帝國陸軍擔任校級軍官。起初，這位年輕人跟隨父親的腳步，於莫斯科第 "
-"1 軍校畢業。但在 "
-"1889 年，他選擇另一條不同的生涯道路。\n"
-"\n"
-"Swirski 通過了考試並進入位於聖彼得堡的海軍官校—俄羅斯帝國海軍訓練軍官的唯一學府—就讀資深課程。他在三年後成為海軍官校學生並被分發至一艘名為 "
-"Askold 的輕型巡洋艦上。他在登艦後前往遠東地區，不過這位年輕軍官卻沒有參與日俄戰爭，而是在 "
-"1903 年染上嚴重肺病，返回聖彼得堡並在那休養了兩年直到復原。\n"
-"\n"
-"Jerzy 之後在黑海艦隊中繼續服役，並於 "
-"1905 年擢升為上尉。他完成了航海課程並循序晉升，先後在多艘巡洋艦和主力艦上擔任領航員，接著在驅逐艦分艦隊和主力艦旅的領航部擔任海軍導航將官。"
-"1912 年，"
-"Swirski 升任海軍上尉，並在第一次世界大戰爆發前被指派為黑海艦隊總指揮部旗下的導航部部長（海軍指揮官）。\n"
-"\n"
-"Jerzy 在整個戰爭期間至戰後的 1918 年 "
-"5 月，一直肩負此要職。"
-"Swirski 與第一次世界大戰的艦隊指揮官 A.A. Eberhard 和 A.V. "
-"Kolchak 上將共同參與數場戰役，甚至在黑海與德國土耳其聯軍交戰。至 "
-"1917 年 "
-"10 月，他已獲頒三次俄羅斯帝國的軍事表揚，並擢升為海軍中校。不過 "
-"Swirski 卻命中注定當不成俄羅斯海軍上將…"
-
-msgid "IDS_PCQM087_SWIRSKI_DESCR"
-msgstr ""
-"1917 年底，Swirski 所服役的帝國已不復存在。東歐於 1918 年 "
-"5 月結束第一次世界大戰，德國軍隊佔領了克里米亞，在塞凡堡停泊的艦艇上懸掛著德國國旗。\n"
-"\n"
-"1918 年春，與大多數黑海海軍軍官一樣，"
-"Swirski 在曾經的敵人佔領的領土上只能袖手旁觀。波蘭裔軍官並不重視布爾什維克。解決方案是由 "
-"Hetman Pavlo "
-"Skoropadskyi 領導建立烏克蘭國的行動。許多退役軍官渴望加入這名前俄羅斯帝國陸軍將軍的麾下，"
-"Swirski 也是其中的一員。他於同年 "
-"6 月加入了烏克蘭海軍。\n"
-"\n"
-"作為一名經驗豐富的軍官，他被任命至基輔海軍總部。"
-"9 月，一個國家代表團被派往柏林，以確保軍艦順利從德國轉移。代表團成員中就包括 "
-"Swirski 中校。"
-"10 月中旬，他曾短暫擔任海軍事務部副部長，但卻在不久後辭職。\n"
-"\n"
-"在中央力量戰敗，帝國崩潰走向共和制的情況下，作為波蘭人的 "
-"Jerzy Swirski 已經沒有能為烏克蘭國做的事了。\n"
-"\n"
-"直到 "
-"1919 年春天，這名前中校身在敖得薩這個被協約國佔領、受波蘭主要軍事委員會管控的城市。"
-"Swirski 領導了波蘭海軍復興聯盟，召集大量波蘭裔海軍回到祖國。同年 "
-"3 月，波蘭駐法國的陸軍中校 Jozef "
-"Haller 在凡爾賽大會上，傳喚他趕赴巴黎擔任波蘭代表團的海事專家。然而，"
-"Swirski 提出了前往華沙加入波蘭海軍的請求。"
-
-msgid "IDS_PCQM088_SWIRSKI_DESCR"
-msgstr ""
-"1925 年，Jerzy "
-"Swirski 接任波蘭共和國海軍作戰司令，全面負責戰間波蘭海軍力量的發展。由於當時資金長期不足，加上國家的軍事與政治領袖對艦隊扮演角色的看法不斷改變，使發展海軍的目標倍加困難。\n"
-"\n"
-"然而，1931 年升任海軍少將的 "
-"Swirski，成功維持了海軍在整體軍隊力量中的獨立性，打造了一支專業的海軍將官隊伍，並落實了很多有助於船員作戰訓練的措施。他為小小的波蘭海軍簽署了數艘新戰艦的建造合約。這名海軍少將還不遺餘力地在格地尼亞這個新建於 "
-"1920 年代中，離波羅的海沿岸 "
-"90 英里的港口城市發展海軍基地，以便在海爾半島上建立海岸防禦系統。\n"
-"\n"
-"1936年，Jerzy "
-"Swirski 因其卓越服役被授予波蘭復興勳章的指挥官十字级勳章。\n"
-"\n"
-"由於 1939 年上半年歐洲政治局勢迅速惡化，以 "
-"Swirski 為首的波蘭海軍仔細研究各種可能出現的敵對情況及應對措施。這位經驗豐富的海軍將領得出的結論令人震驚：由於英國和法國拒絕在發生新的世界大戰時向波羅的海派遣艦隊，敵方只需要派遣一支空襲部隊就能迅速摧毀波蘭艦隊。此外，波蘭武裝部隊認為，海軍的唯一任務就是與敵方大軍交戰並慷慨就義。\n"
-"\n"
-"正是由於 "
-"Swirski 少將的努力、堅持與聲譽，當局才同意在戰爭不可避免的情況下從波羅的海撤離先進的波蘭驅逐艦。按照計畫，他們將從英國港口出發，在德國的航線上行動。 "
-"1939 年 "
-"8 月的最後幾天，德國準備好展開攻勢的情況已經十分明顯。"
-"8 月 30 日，一支由 Blyskawica、Grom 和 "
-"Burza 驅逐艦組成的分艦隊奉命前往英國。在華沙下達這一命令時，作為波蘭海軍司令部的負責人，他自己也不知道什麼時候才能再見到這些戰艦。"
-
-msgid "IDS_PCQM089_SWIRSKI_DESCR"
-msgstr ""
-"由於 "
-"1939 年的快速戰役，保衛國家海岸的波蘭海軍在短短幾個小時內就與其他地區失去聯繫。但是，保衛者們利用 "
-"Jerzy "
-"Swirski 在戰前領導建造的沿海防禦，為波蘭抵擋敵軍進攻很長時間。領導這些英勇士兵的是總指揮 "
-"Jozef Unrug，他成功守住海爾半島防線直到 10 月 1 日。\n"
-"\n"
-"Swirski 本人和波蘭軍事部按命令撤離華沙，然後向東南方向前進。 "
-"9 月下旬，他越過了羅馬尼亞邊境。\n"
-"\n"
-"但在 1939 年 "
-"10 月初，這名海軍少將被新的波蘭流亡政府的首領 Wladyslaw "
-"Sikorski 將軍傳喚到巴黎，並被任命為波蘭海軍改組局局長。"
-"Jerzy "
-"Swirski 精通外語，在戰間時期與盟軍海軍代表的溝通中累積了豐富的經驗，並在促成 "
-"1939 年 "
-"11 月波蘭和英國海軍協議方面發揮了至關重要的作用，讓戰敗國的戰艦能併入英國皇家海軍繼續參與海上作戰。\n"
-"\n"
-"多虧了他的努力，波蘭艦艇保留了自己的國徽、海軍旗幟和服役勛章。"
-"Swirski 負責招募、訓練、人事任命和紀律決策，為擴大波蘭海軍在西方的影響力做出巨大貢獻。\n"
-"\n"
-"1941 年晉升為海軍中將後，他因獨立於波蘭西部部隊參謀長 "
-"Sikorski 行事，而遭後者企圖彈劾。不過，由於沒有明確人選可以取代他成為波蘭海軍的實際指揮官，因此彈劾遭到英國海軍部的強烈反對。由於他在戰爭期間的功績，英國政府授予 "
-"Jerzy Swirski 巴斯勳章。\n"
-"\n"
-"因此，他留任這一職位直到第二次世界大戰結束，並在波蘭武裝部隊在英國正式解散後於 "
-"1946 年退役。隨後他決定繼續作為移民留在英國，而不返回蘇聯波蘭。\n"
-"\n"
-"Jerzy Wlodzimierz "
-"Swirski 在倫敦生活，享有英國海軍部的終身養老金。1959 年 "
-"6 月 12 日，他因重病去世，享年 "
-"77 歲。在他去世前的兩年，波蘭流亡政府授予他「波蘭重生勳章」這項最高榮譽。"
-
-msgid "IDS_PCQM090_SWIRSKI_DESCR"
-msgstr ""
-"第二次世界大戰前夕，波蘭海軍主要艦隊由四艘驅逐艦組成，當中包括 "
-"Blyskawica 和 Grom（在英國 "
-"1937 年的一項特殊計畫下建造）這兩艘當時歐洲最先進的驅逐艦。波蘭還額外訂購了兩艘此級艦艇，但由於戰爭原因始終沒能開始建造。另外兩艘驅逐艦是 "
-"Wicher 和 Burza（基於 1930 年和 1932 年 "
-"Bourrasque 級驅逐艦的設計，在法國建造）。這兩艘驅逐艦按原計畫應在 "
-"1940 年代初進行大整修，換上與 "
-"Blyskawica 相似的武器裝備。\n"
-"\n"
-"1938 年在法國建造的布雷艦 "
-"Gryf，原本只是作為訓練艦和總統儀式遊艇。最後，波蘭建造的最大的艦艇是六艘 "
-"Jaskolka 級掃雷艦。\n"
-"\n"
-"他們共有五艘潛水艦，其中最先進的是大型遠洋潛水艦 "
-"Orzel 和 Sep。她們是在荷蘭特別設計和建造的，並在 "
-"1939 年春天投入服役。而從法國訂購的兩艘增強版 "
-"Orzel 潛水艦，由於戰爭爆發未能完成。此外還有三艘布雷潛水艦——"
-"Zbik、Rys 和 Wilk，同樣是在 1931 年至 "
-"1932 年間於法國建造的。\n"
-"\n"
-"由於 1939 年 9 月的戰役，波蘭海軍只有 "
-"5 艘艦艇抵達英國並繼續參戰。其中，驅逐艦 "
-"Grom 和潛水艦 Orzel 於 1940 年沉沒，潛水艦 "
-"Wilk 只適合用作訓練。剩餘的 Burza 和 "
-"Blyskawica 驅逐艦，為了榮譽英勇奮戰。他們最終回到祖國，並先後成為了博物館艦（先是 "
-"Burza 於 1960 年至 1975 年，然後是 Blyskawica）。\n"
-"\n"
-"1940 年，波蘭海軍增加了一艘英國 G 級驅逐艦 "
-"Garland 和一艘 N 級驅逐艦 Piorun。1941 年 "
-"5 月，後者對主力艦 "
-"Bismarck 發動夜間突襲，在歷史上留下了濃墨重彩的一筆。這兩艘艦艇與其他英國艦艇一樣，於 "
-"1946 年返回英國。然而，另一艘在 "
-"1942 年懸掛紅白旗的英國艦艇—名為 Orkan 的 "
-"M 級驅逐艦，卻面臨不同的命運。1943 年 "
-"10 月，她在北大西洋護航時被德國潛水艦擊沉。1941 年至 "
-"1942 年間，三艘 Hunt 級護航驅逐艦：Krakowiak、Kujawiak 和 "
-"Slazak 被轉移到波蘭，也完成了護航任務。她們護送了數百個船隊，行駛了數千海里的航程。"
-"1942 年，Kujawiak 在馬爾他附近被一枚地雷炸毀。\n"
-"\n"
-"為波蘭服役最短的艦艇卻是最大的—巡洋艦 Dragon 和 "
-"Conrad。前者是 Danae 級英國輕型巡洋艦，於 1943 年 "
-"1 月移交，後來在 1944 年 "
-"7 月於諾曼第海岸附近被德國魚雷擊中而嚴重受損。但是，她並沒有被送去維修，海軍部只是派了另一艘同艦級艦艇去替換。至於潛水艦隊，英國的 "
-"U 級潛水艦 Soko 和 Dzik，以及於 1942 年沉沒的美國 "
-"S 級租借潛水艦 Jastrzab，都曾懸掛波蘭國旗航行。"
 
 msgid "IDS_PCQM091_SHIPS_DESCR"
 msgstr ""
@@ -52497,206 +52489,6 @@ msgstr ""
 "\n"
 "從歷史角度來看，蒸汽渦輪機驅動的戰艦主宰海洋的時代並不長，只維持了半個世紀左右，幾乎與 "
 "20 世紀上半葉重疊。然而，其中卻包含了多個不同的時代。所有這些戰績累累的英雄們如今都匯聚在《戰艦世界》中重現！"
-
-msgid "IDS_PCQM096_STRASBOURG1_DESCR"
-msgstr ""
-"20 世紀上半葉，法國的海外殖民地幅員廣闊，其中有許多位於遠東地區，因此有必要在那里常駐海軍。例如在 "
-"1939 年 "
-"9 月，法國在中南半島就駐有一艘重型巡洋艦和一艘輕型巡洋艦。但是，要在偏遠的殖民地永久部署這些昂貴的艦艇既困難又無利可圖，於是法國建造了大批的特種艦艇 — 通報艦以取代巡洋艦，用於海外勤務。通報艦的設計目的是為了充當旗艦和懸掛該國的國旗，改造後能適應在熱帶地區使用，並擁有以其尺寸而言相當強大的武器。《戰艦世界》中的 "
-"Bougainville 就是其中一艘法國的殖民地通報艦。"
-
-msgid "IDS_PCQM097_STRASBOURG2_DESCR"
-msgstr ""
-"法國在兩次世界大戰之間所有主要艦艇類型的整體發展，幾乎都與對抗義大利的歷史有關。"
-"Richelieu 級主力艦是因應 Vittorio "
-"Veneto 級艦艇而設，而建造新型驅逐艦的目的是為了在戰術和技術規格方面超越下一系列的義大利驅逐艦。這種在工程構想與解決方案之間的對立，在為數不多的法國重型巡洋艦上尤其明顯。首兩艘此類型艦艇出自 "
-"Duquesne 級，建於 "
-"1920 年代中期，著眼於英國和美國的巡洋艦。但是接下來 "
-"4 艘屬於 Suffren 級的重型巡洋艦，則是根據 "
-"Trento 級重型巡洋艦特性的數據而設計。後者在裝甲方面優於 "
-"Duquesne 級艦艇，因此裝甲防護有所提高。法國的最後一艘重型巡洋艦 "
-"Algérie，其開發目的是為了對抗強大的 "
-"Zara 級艦艇，而結果證明她可能是世界上最出色的重型巡洋艦。然而，這些法國重型巡洋艦從未有機會與義大利的同型對手在戰場上碰面。"
-
-msgid "IDS_PCQM098_STRASBOURG3_DESCR"
-msgstr ""
-"有時候，促使海軍強國建造大型艦艇的原因竟然是出於…絕望。"
-"1934 年，法國面對兩個海軍對手迅速加強艦隊實力的挑戰。德國已經開始建造第 "
-"3 艘 "
-"Deutschland 級袖珍主力艦，並將安放另兩艘艦艇的龍骨。義大利則宣布同時建造兩艘主力艦，每艘的排水量為 "
-"35,000 噸，這也就是日後的 Littorio 和 Vittorio Veneto 艦艇。\n"
-"\n"
-"法國當時既沒有大於 "
-"Dunkerque（仍在建造中）且已完工的主力艦，也缺乏建造新艦艇所需的沿海基礎設施。儘管當時並沒有建造多一艘艦艇以狩獵袖珍主力艦的計畫，但為了不落後於潛在對手，法國海軍總司令部被迫下令訂購第二艘 "
-"Dunkerque 級艦艇。設計師們唯一能設法改進的是裝備更好的裝甲防護。"
-"Strasbourg 從出生就是個沒人要的孩子。"
-
-msgid "IDS_PCQM099_STRASBOURG4_DESCR"
-msgstr ""
-"在設計 Dunkerque 和 "
-"Strasbourg 時，法國造船廠並沒有打算要革新海軍技術，而是在尋求一個特定問題的解決方案 — 建造一艘能夠對抗新的德國柴油袖珍主力艦的艦艇。但是，最初用於 "
-"Dunkerque 和 "
-"Strasbourg 的許多解決方案，後來都成為了所有後續主力艦計畫不可或缺的部分。這些技術包括了水平和水下防護新原則，以及置於多炮座的強大兩用和防空炮。在經過一系列未能完成和實現的艦艇和計畫後，四聯裝主炮塔最終出現在了這兩艘主力艦上。此類艦艇成為世界上第一批在設計階段就擁有防空武器的主力艦。不幸的是，由於命運使然，"
-"Strasbourg 未能與其宿敵正面對抗。"
-
-msgid "IDS_PCQM100_SANTASNY2_DESCR"
-msgstr ""
-"巡洋艦 Furutaka\n"
-"\n"
-"海軍軍備競賽的邏輯是，當潛在對手建造一艘新艦艇時，您就必須回應並設計出更強大的艦艇。\n"
-"\n"
-"1916 年，日本又有了一項造艦計畫。計畫中的 "
-"3 艘巡洋艦裝備十二門置於開放式炮座的 "
-"140 毫米火炮、航速為 36 節、裝甲帶厚度為 "
-"76 毫米，並擁有 "
-"7,200 噸的排水量。這些艦艇屬於「偵察艦」，是大日本帝國海軍所缺乏的巡洋艦類型。日本在汲取第一次世界大戰的經驗後，決定彌補這一缺陷。\n"
-"\n"
-"但是，日本很快得知美國正在建造 "
-"Omaha 級艦艇以及這些巡洋艦炮塔的火炮配置，因此決定對該計畫進行重新設計。"
-"1918 年，重新設計後的艦艇其排水量提高至 "
-"8,000 噸，其餘保持不變。她的十至十二門 "
-"140 毫米火炮武器，全都規劃置於五至六座雙聯裝炮塔中。這與 "
-"Omaha 的合併配置有所不同，且更加優越。不過，炮塔必須像金字塔沿著中心線布置，否則無法全部容納。但是，這些艦艇未能進入下一個造艦計畫。\n"
-"\n"
-"1919 年，英國第一艘 "
-"Hawkins 級巡洋艦投入服役。她裝備了七門 "
-"190 毫米主炮，讓日本海軍上將們留下了深刻的印象。"
-"1921 年，日本著名的水面艦艇工程師 "
-"Hiraga 親自設計了一個偵察巡洋艦的新計畫。他大膽嘗試結合以下配置：比 "
-"Hawkins 強的火炮、比美國和英國巡洋艦更好的防護、至少 "
-"35 節的航速，以及不錯的作戰範圍，並將以上配置容納在 "
-"7,500 噸的最小排水量中。憑藉先進的全新設計，他至少以計畫的形式實現了自己的目標。"
-"1922 年，兩艘裝備六門 200 毫米單裝炮塔的 "
-"Furutaka 級巡洋艦終於安放龍骨。但得益於同年實施的《華盛頓海軍條約》，這些「偵察艦」突然成為了新型重型巡洋艦的先驅。"
-
-msgid "IDS_PCQM101_SANTASNY2_DESCR"
-msgstr ""
-"驅逐艦 T-22\n"
-"\n"
-"幾乎所有的海軍強國不時都喜歡製造其他國家海軍沒有的獨特艦艇。但是現實總會迫使它們回到那些經過時間和經驗證明的解決方案。\n"
-"\n"
-"1935 型驅逐艦及其進一步發展的 1937 型驅逐艦，都是在 "
-"1930 年代作為遠程魚雷艇於德國設計的。她們擁有低輪廓以及對一艘近 "
-"850 噸的艦艇而言相當奇特的武器組合 — 兩座三聯裝魚雷發射器和一門安裝在艦艉的 "
-"105 毫米火炮。這樣的設計導致艦艇十分不平衡且適航性很差，因此這兩艘艦艇從未按照其角色用途服役。\n"
-"\n"
-"下一系列的 1939 型驅逐艦包括 T-22 至 "
-"T-36 的艦艇，其設計目的是為了在德國戰爭海軍中進行護衛任務，以及在第二戰區進行獨立活動。儘管她們的魚雷武器保持不變，但其火炮卻有大幅的改進。結果，與該系列的前置艦艇相比，她們的排水量增加了 "
-"65%。這大大提高了適航性和續航力。但由於其推進系統保持不變，因此航速從計畫中的 "
-"33 節降至現實中的 29 節。四門仰角為 70 度的 "
-"105 毫米火炮可朝空中目標發射，防空機炮的數量也大幅增加。因此以其尺寸而言，這些艦艇具有相當強大的對空防禦能力。這些艦艇在 "
-"1941 至 1944 年之間服役，最初都配備了雷達。\n"
-"\n"
-"於是，"
-"1939 型魚雷艇被認為是能高效執行任務的艦艇。此級的 "
-"15 艘驅逐艦只有 "
-"4 艘倖存下來，從這一點我們可以看出她們的服役強度。"
-
-msgid "IDS_PCQM102_SANTASNY2_DESCR"
-msgstr ""
-"巡洋艦 Hawkins\n"
-"\n"
-"在造船這個既複雜又昂貴的領域中，要取得成果需要耗費大量時間，因此造船決定的代價往往特別高。\n"
-"\n"
-"至 "
-"1915 年夏季，英國海軍部已成功對付數艘德國破襲艦，但卻為其海上交通受到威脅而再次陷入困擾。情報部門的報告指出德國已開始建造 "
-"14 艘新的輕型巡洋艦。這次，這些艦艇裝備的是 "
-"150 毫米，而非 105 毫米主炮。Emden 和 "
-"Karlsruhe 這兩艘小型巡洋艦所取得的戰績，很可能只是大英帝國噩夢的開始。\n"
-"\n"
-"為了對抗後續的德國破襲艦，海軍部想要以戰前最後一系列的輕型巡洋艦 — "
-"Town 級「貿易護衛艦」為基礎，建造具備更強大火炮和 "
-"30 節航速的艦艇。艦艇的設計草圖很快出爐：排水量為 "
-"9,000 噸、裝備八至十四門 "
-"152 毫米火炮，甚至還有結合了兩門 234 毫米和六門 "
-"152 毫米火炮的主炮組合。但是，海軍部並不滿意 — "
-"6 吋火炮不足以確保明顯優勢，而 "
-"9.2 吋火炮的射速則過低。安裝更多的火炮將會導致艦艇排水量大增。\n"
-"\n"
-"幸運的是，維克斯集團及時地改進了較輕的 190 毫米火炮。"
-"1915 年中期，一艘可裝備多達七門此類火炮的艦艇被開發出來。為了減輕在海上尋找敵方破襲艦時補給維護的負擔，新的巡洋艦配置了使用煤和油的供暖系統，這在當時已屬過時。雖然該艦艇的排水量達到將近 "
-"10,000 噸，但這確保其適航性良好，以及在水線以上幾乎整個艦身都有裝甲防護。\n"
-"\n"
-"但是，情報部門似乎誇大了新的德國輕型巡洋艦的特性及其建造速度。潛水艦對海上交通的威脅日益嚴重，導致強大且昂貴的水面破襲艦獵手變得毫無用處。結果，在 "
-"1919 年至 1925 年間，只有 5 艘 "
-"Hawkins 級巡洋艦交付給了英國海軍，她們當時恰好是世界上最大的巡洋艦。因此，"
-"Hawkins 級艦艇的參數後來在 "
-"1922 年華盛頓海軍會議上被採納作為巡洋艦的參數上限，成為重型巡洋艦的原型。"
-
-msgid "IDS_PCQM103_SANTASNY2_DESCR"
-msgstr ""
-"驅逐艦 Visby\n"
-"\n"
-"由於瑞典和荷蘭並未參與第一次世界大戰，因此這兩個國家在兩次世界大戰之間的時期，在經濟以及包括戰艦建造的技術上取得了令人矚目的進步。\n"
-"\n"
-"直到 "
-"1920 年代，瑞典的驅逐艦隊都是由在世紀初於一項英國計畫下建造，略微更新的小型「戰鬥艇」（"
-"fighter）所組成。這些艦艇裝備數門 "
-"75 毫米主炮和一或兩座魚雷發射管。海上的世界大戰清楚地顯示這些艦艇已經完全過時。瑞典海軍司令部要求設計師們在不抄襲其他國家的情況下，設計一種能夠滿足現代要求的驅逐艦，這使得計畫在圖紙設計階段就已經過時。\n"
-"\n"
-"建造工作從 1919 年一直持續到 "
-"1924 年，並取得圓滿成功。在 1927 年投入服役時，首兩艘 "
-"Ehrenskold 級艦艇超越了波羅的海國家的所有此類型艦艇。憑藉其出色的適航性，瑞典驅逐艦甚至不遜於公認領先的英國。"
-"120 毫米 M24 "
-"Bofors 主炮具有優異的射速，很快就出口海外。此計畫為在十五年時間內建造 "
-"14 艘所謂的「標準」驅逐艦奠定了基礎，組成了瑞典龐大的艦艇陣容。\n"
-"\n"
-"該系列最後的艦艇是在 1942 年安放龍骨的 4 艘 "
-"Visby 級艦艇。該「標準」驅逐艦計畫僅有兩個缺點：第二門主炮的發射角度有限，"
-"Vickers 防空炮較弱。後者促使瑞典海軍在 "
-"1930 年代向波佛斯公司（Bofors）訂購新的 "
-"40 毫米自動機炮，此類型火炮就是後來聞名的 "
-"Bofors 防空炮。對於 "
-"Visby 而言，該計畫經歷了顯著的改變：曾經「夾在」艦艇煙囪之間的 "
-"2 號火炮被移至艦艉的上層建築，艦艇也安裝了四門 "
-"40 毫米和四門 "
-"20 毫米防空炮，為這些不是最大的驅逐艦提供可靠的對空防禦。"
-
-msgid "IDS_PCQM104_SANTASNY2_DESCR"
-msgstr ""
-"輕型巡洋艦 Kotovsky\n"
-"\n"
-"與其他任何領域的歷史一樣，造船史充滿了看似廣為人知的事實，但這些事實一旦仔細加以檢視，往往不是那麼直接。\n"
-"\n"
-"第一艘蘇聯 Kirov 級巡洋艦設計於 1934 至 "
-"1935 年間，與在技術和戰術上都屬於同一類型的艦艇的不同點在於她們的主炮配置。她們 "
-"7,800 噸的排水量相對較小，以輕型巡洋艦而言相當標準。艦艇裝備三座炮塔，每座炮塔可容納三門 "
-"180 毫米火炮，國際上當時將此口徑歸類為重型巡洋艦的特點。有一種看法認為，當時除了 "
-"180 毫米火炮之外沒有其他替代火炮，而裝備標準 "
-"152 毫米主炮的輕型巡洋艦直到 "
-"1930 年代末才出現在蘇聯軍隊和造船廠的計畫中。\n"
-"\n"
-"與此同時，在 1933 年，在編號 "
-"26 的巡洋艦技術計畫開始之前還有另一個重要階段。在蘇聯海軍和業界代表於 "
-"1932 年下半年造訪義大利後，蘇聯方面決定將當時正在安薩爾多造船廠建造的輕型巡洋艦 "
-"Raimondo Montecuccoli，作為第一艘大型國內戰艦的原型。"
-"1933 年 3 月 16 日和 4 月 "
-"1 日，紅軍海軍部向軍事造船科學研究所下達了兩項戰術和技術任務，要求設計「排水量為 "
-"6,630 噸的輕型巡洋艦（使用巡洋艦 "
-"Montecuccoli 的機器設備）」。第一項任務要求艦艇的主炮由六門 "
-"180 毫米火炮組成，置於三座雙聯裝炮塔；而第二項任務則要求使用 "
-"152 毫米火炮，且有兩個版本：八門火炮置於四座炮塔，以及六門火炮置於三座炮塔。由於拆除了其中一個炮塔，裝甲防護有所提升，其他規格則幾乎保持不變。\n"
-"\n"
-"科學研究所很快就提交了三份設計草案、藍圖、計算和設計說明。其中一艘裝備八門 "
-"152 毫米主炮的艦艇，最終成為了《戰艦世界》中的輕型巡洋艦 "
-"Kotovsky。"
-
-msgid "IDS_PCQM105_SANTASNY2_DESCR"
-msgstr ""
-"主力艦 New York\n"
-"\n"
-"造船廠經常會遇到以下情況：使用先進但未經充分測試的技術方案會產生反效果，而合理的技術慣例則可帶來最佳效果。\n"
-"\n"
-"1910 年，美國國會批准建造另外兩艘無畏艦 — New York 和 "
-"Texas。從其結構、防護方案和副炮來看，這些艦艇是自先前的 "
-"Arkansas 級適度發展而來。最主要的改變在於使用了口徑較大的主炮：十門全新 "
-"356 毫米火炮取代了之前所有美國主力艦上安裝的 "
-"305 毫米火炮。但在選擇推進系統時，儘管先前的美國無畏艦裝備的是渦輪機，設計師還是再次選擇了蒸汽機。除此之外，這艘艦艇原計劃在 "
-"1914 年投入服役，此時鐵甲主力艦的時代早已結束。\n"
-"\n"
-"這是為什麼呢？務實的美國人分析了主力艦上渦輪機組的操作情況，發現與蒸汽機相比，渦輪機組的成本效率低了 "
-"30%。渦輪機的製造商聲稱，在未來幾年都不可能降低燃料消耗。與此同時，美國海軍始終將重點放在作戰範圍上。因此，他們必須選擇使用久經考驗的動力系統，並且對最初計劃的蒸汽渦輪機推進系統做出相應的修改。結果，實際的作戰範圍甚至超過了其設計規格。蒸汽驅動的主力艦 "
-"Texas 在戰中倖存，如今在德克薩斯州的聖哈辛托用作博物館艦。"
 
 msgid "IDS_PCQT001_1"
 msgstr "用主炮對敵方艦艇造成 %(count)s 血量傷害。"
@@ -54321,6 +54113,15 @@ msgstr "用魚雷對敵方艦艇造成 %(count)s 血量傷害。"
 
 msgid "IDS_PCQT693_1"
 msgstr "獲得 %(count)s 基本經驗（套用加成前）。"
+
+msgid "IDS_PCVE004"
+msgstr "殘酷戰鬥"
+
+msgid "IDS_PCVE004_DESCRIPTION"
+msgstr "在後末日世界中，於逐漸縮小的戰鬥區域內與數支隊伍進行戰鬥。"
+
+msgid "IDS_PCVE004_MATCHMAKER_DESCRIPTION"
+msgstr "在後末日世界中，於逐漸縮小的戰鬥區域內與數支隊伍進行戰鬥。"
 
 msgid "IDS_PCVE007"
 msgstr "非對稱戰鬥"
@@ -58023,20 +57824,20 @@ msgstr "76毫米 Mark 33 防空炮"
 
 msgid "IDS_PCZC199_AA_76MM_ANTIAIRCRAFT_MARK33_DESCRIPTION"
 msgstr ""
-"在太平洋戰爭的最後階段，美國海軍不得不面對日本的神風特攻戰術。在這種情況下，僅僅擊中一架高空飛行的飛機是不夠的，它必須在接近船隻之前被擊毀於空中。小口徑"
-"Bofors和"
-"Oerlikon防空炮完全無法勝任，因此美國海軍必須迅速找到解決問題的辦法。\n"
+"在太平洋戰爭的最後階段，美國海軍不得不面對日本的神風特攻戰術。在這種情況下，僅僅擊中一架高空飛行的飛機是不夠的，它必須在接近船隻之前被擊毀於空中。小口徑 "
+"Bofors 和 "
+"Oerlikon 防空火炮完全無法勝任，因此美國海軍必須迅速找到解決問題的辦法。\n"
 "\n"
-"於是美國海軍決定讓"
-"76毫米炮以更先進的電驅動方式回歸防空炮序列。戰爭結束後，史上最有效率的"
-"76毫米防空炮才被開發出來 — 雙聯裝Mark "
-"33。這武器有非常高的瞄準速度（水平每秒24度，垂直每秒"
-"30度），每根炮管每分鐘能發射最多"
-"50發砲彈，彈頭有強大的破壞力，最大射高超過9公里，是"
-"1940年代美國防空系統發展的巔峰。\n"
+"於是美國海軍決定讓 "
+"76 毫米炮以更先進的電驅動方式回歸防空火炮序列。戰爭結束後，史上最有效率的 "
+"76 毫米防空火炮才被開發出來 — 雙聯裝 Mark "
+"33。這武器有非常高的瞄準速度（水平每秒 "
+"24 度，垂直每秒 30 度），每根炮管每分鐘能發射最多 "
+"50 發砲彈，彈頭有強大的破壞力，最大射高超過 "
+"9 公里，是 1940 年代美國防空系統發展的巔峰。\n"
 "\n"
-"第一個使用Mark 33防空炮的是輕巡洋艦Worcester，於"
-"1948年下水。美國海軍使用這些武器直到1980年代。"
+"第一個使用 Mark 33 防空火炮的是輕巡洋艦 Worcester，於1 "
+"948 年下水。美國海軍使用這些武器直到 1980 年代。"
 
 msgid "IDS_PCZC200_AA_MEDAL_OF_HONOR"
 msgstr "海軍榮譽勳章"
@@ -60904,7 +60705,7 @@ msgid "IDS_PCZC393_ITCA_BARTOLOMEO_COLLEONI_DESCRIPTION"
 msgstr ""
 "Alberto di Giussano 級的其中一艘巡洋艦以 Bartolomeo "
 "Colleoni 命名，以紀念這位 15 世紀義大利著名的指揮官。"
-"Colleoni 跟隨當時的潮流加入僱傭軍，並與他的支隊首先為那不勒斯女王服務，然後在戰爭期間於米蘭和威尼斯的軍隊中交替任職。"
+"Colleoni 跟隨當時的潮流加入僱傭軍，並與他的支隊首先為拿坡里女王服務，然後在戰爭期間於米蘭和威尼斯的軍隊中交替任職。"
 "1467 年，"
 "Colleoni 再次受聖馬可共和國武裝部隊的指揮，在莫利內拉戰役中擊敗了他的米蘭前僱主，並在歷史上首次使用輕型火炮。\n"
 "\n"
@@ -60941,7 +60742,7 @@ msgstr ""
 "1931 年安放龍骨，並於 "
 "1934 年在第里雅斯特下水。這艘艦艇以一名僱傭兵團隊長命名，他在 "
 "14 至 "
-"15 世紀交替之際曾服役於米蘭、佛羅倫薩、費拉拉和那不勒斯。"
+"15 世紀交替之際曾服役於米蘭、佛羅倫薩、費拉拉和拿坡里。"
 "Muzio "
 "Attendolo 因其充沛的體力而聞名。在他職業生涯初期，他被暱稱為「強者」（義大利語：「"
 "Sforza」）。這個暱稱也為他創立的王朝訂下名稱，該王朝在文藝復興時期統治米蘭。\n"
@@ -60958,7 +60759,7 @@ msgid "IDS_PCZC396_ITCA_DUCA_DAOSTA_DESCRIPTION"
 msgstr ""
 "並非所有的義大利皇家海軍輕型巡洋艦都以中世紀指揮僱傭兵團的隊長—"
 "condottieri 的名字命名。例如，於 1934 年下水的第四艘 "
-"condottieri 級艦艇的領艦，是以國王的堂親和義大利元帥奧斯塔公爵 "
+"Condottieri 級艦艇的領艦，是以國王的堂親和義大利元帥奧斯塔公爵 "
 "Emanuele Filiberto（1869–1931 年）命名的。\n"
 "\n"
 "第一次世界大戰期間，Emanuele "
@@ -64532,6 +64333,9 @@ msgstr "75 mm/50 Mle 1922（Mle 1922 炮座）"
 msgid "IDS_PFGA090_75_50_MLE_1922_SHALL2"
 msgstr "75 mm/50 Mle 1922（Mle 1922 炮座）"
 
+msgid "IDS_PFGA137_25MM_60_CAS_MLE_1939"
+msgstr "25 mm Hotchkiss Mle 1939（CAS Mle 1939 炮座）"
+
 msgid "IDS_PFGM001_330_52_MLE_1931"
 msgstr "330 mm/50 Mle 1931（St.Chamond Mle 1932 炮座）"
 
@@ -64652,6 +64456,12 @@ msgstr "305 mm/50 Mle 1930（炮塔）"
 msgid "IDS_PFGM089_240MM_50_4"
 msgstr "240 mm/50 Mle 1930（炮塔）"
 
+msgid "IDS_PFGM130_305MM_45_QUAD"
+msgstr "305 mm/45 Mle 1910（炮塔）"
+
+msgid "IDS_PFGM134_330MM_50_TRIPLE"
+msgstr "330 mm/50 Mle 1931（炮塔）"
+
 msgid "IDS_PFGS002_130_45_MLE_1932_QUAD"
 msgstr "130 mm/45 Mle 1932（Mle 1932 炮座）"
 
@@ -64702,6 +64512,18 @@ msgstr "139 mm/50 Mle 1934（Mle 1935 炮座）"
 
 msgid "IDS_PFGS128_155MM50_MLE_1920"
 msgstr "155 mm/50 Mle 1920（炮廓式）"
+
+msgid "IDS_PFGS131_155MM_50_MLE_1920_TRIPLE_MLE_1927"
+msgstr "155 mm/50 Mle 1920（Mle 1927 炮座）"
+
+msgid "IDS_PFGS132_155MM_50_MLE_1920_TRIPLE_MLE_1927_RF"
+msgstr "155 mm/50 Mle 1920（Mle 1927 炮座）"
+
+msgid "IDS_PFGS135_138MM_50_TRIPLE"
+msgstr "139 mm/50 Mle 1938（炮塔）"
+
+msgid "IDS_PFGS136_138MM_50_TWIN"
+msgstr "139 mm/50 Mle 1938（Mle 1938 炮座）"
 
 msgid "IDS_PFGT028_550MM_MLE_1923_D"
 msgstr "550 mm tube lance-torpilles"
@@ -64966,6 +64788,27 @@ msgstr "240 mm HE OEA Mle 1939"
 
 msgid "IDS_PFPA081_240MM_55_AP_T11"
 msgstr "240 mm AP OPfK Mle 1939"
+
+msgid "IDS_PFPA082_305MM_HE_1931"
+msgstr "305 mm HE OEA Mle 1931"
+
+msgid "IDS_PFPA083_305MM_AP_1931"
+msgstr "305 mm AP OPf Mle 1931"
+
+msgid "IDS_PFPA084_139MM_55_1928_HE_SG"
+msgstr "139 mm HE OEA Mle 1928"
+
+msgid "IDS_PFPA085_330MM_HE_M1935"
+msgstr "330 mm HE OEA Mle 1935"
+
+msgid "IDS_PFPA086_330MM_AP_M1935"
+msgstr "330 mm AP OPfK Mle 1935"
+
+msgid "IDS_PFPA087_305MM_45_1910_AP_TOULON"
+msgstr "305 mm AP OPf Mle 1910"
+
+msgid "IDS_PFPA088_305MM_45_1910_HE_TOULON"
+msgstr "305 mm HE OEA Mle 1910"
 
 msgid "IDS_PFPB001_BEARN_STOCK"
 msgstr "150-kg G.P. Mle 1930"
@@ -65518,6 +65361,59 @@ msgstr "0"
 msgid "IDS_PFSC111_YEAR"
 msgstr "1957"
 
+msgid "IDS_PFSC208"
+msgstr "瑟堡(Cherbourg)"
+
+msgid "IDS_PFSC208_DESCR"
+msgstr ""
+"出自超重型巡洋艦計畫，與 "
+"Dunkerque 級艦艇相近，其主要武器由八門 "
+"305 毫米火炮組成。"
+
+msgid "IDS_PFSC208_FULL"
+msgstr "瑟堡(Cherbourg)"
+
+msgid "IDS_PFSC208_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC208_YEAR"
+msgstr "1942"
+
+msgid "IDS_PFSC209"
+msgstr "布雷斯特(Brest)"
+
+msgid "IDS_PFSC209_DESCR"
+msgstr ""
+"此巡洋艦擁有 "
+"330 毫米主炮，全部集中於艦艏。其防空火炮由 Bofors 和 "
+"Oerlikon 機炮組成。"
+
+msgid "IDS_PFSC209_FULL"
+msgstr "布雷斯特(Brest)"
+
+msgid "IDS_PFSC209_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC209_YEAR"
+msgstr "1944"
+
+msgid "IDS_PFSC210"
+msgstr "馬賽(Marseille)"
+
+msgid "IDS_PFSC210_DESCR"
+msgstr ""
+"排水量超過 30,000 噸的超重型巡洋艦。主要武器由九門 "
+"330 毫米火炮組成，全部集中於艦艏的三座炮塔。"
+
+msgid "IDS_PFSC210_FULL"
+msgstr "馬賽(Marseille)"
+
+msgid "IDS_PFSC210_NUMBER"
+msgstr "0"
+
+msgid "IDS_PFSC210_YEAR"
+msgstr "1944"
+
 msgid "IDS_PFSC506"
 msgstr "格拉斯(De Grasse)"
 
@@ -65535,6 +65431,23 @@ msgstr "1"
 
 msgid "IDS_PFSC506_YEAR"
 msgstr "1938"
+
+msgid "IDS_PFSC507"
+msgstr "土倫(Toulon)"
+
+msgid "IDS_PFSC507_DESCR"
+msgstr ""
+"出自「排水量 "
+"17,500 噸的主力艦」計畫，而實際上是一艘超重型巡洋艦。該艦艇的主要目的是為了對抗「華盛頓海軍條約」巡洋艦。"
+
+msgid "IDS_PFSC507_FULL"
+msgstr "土倫(Toulon)"
+
+msgid "IDS_PFSC507_NUMBER"
+msgstr "1"
+
+msgid "IDS_PFSC507_YEAR"
+msgstr "1926"
 
 msgid "IDS_PFSC508"
 msgstr "貝亞德(Bayard)"
@@ -65952,8 +65865,14 @@ msgstr "139 mm/40 Mle 1927（Mle 1927 CP 炮座）"
 msgid "IDS_PFUA603_ART_STRASBOURG"
 msgstr "330 mm/50 Mle 1931（St.Chamond Mle 1932 炮座）"
 
+msgid "IDS_PFUA604_ART_TOULON"
+msgstr "305 mm/45 Mle 1910（炮塔）"
+
 msgid "IDS_PFUA610_B7_ART_STOCK"
 msgstr "340 mm/45 Mle 1912（炮塔）"
+
+msgid "IDS_PFUA700_C8_ART_STOCK"
+msgstr "305 mm/50 Mle 1930（炮塔）"
 
 msgid "IDS_PFUA701_C8_ART_STOCK"
 msgstr "203 mm/50 Mle 1931（炮塔）"
@@ -66000,8 +65919,14 @@ msgstr "380 mm/45 Mle 1935（炮塔）"
 msgid "IDS_PFUA804_ART_CARNOT"
 msgstr "305 mm/50 Mle 1930（炮塔）"
 
+msgid "IDS_PFUA805_C9_ART_STOCK"
+msgstr "330 mm/50 Mle 1931（St. Chamond Mle 1932 炮座）"
+
 msgid "IDS_PFUA810_B9_ART_STOCK"
 msgstr "380 mm/45 Mle 1935（炮塔）"
+
+msgid "IDS_PFUA900_C10_ART_STOCK"
+msgstr "330 mm/50 Mle 1931（炮塔）"
 
 msgid "IDS_PFUA901_C10_ART_STOCK"
 msgstr "240 mm/55 Schneider Mle 1930（炮塔）"
@@ -66117,11 +66042,17 @@ msgstr "推進系統：64,000 匹馬力"
 msgid "IDS_PFUE603_ENG_STRASBOURG"
 msgstr "推進系統：107,000 匹馬力"
 
+msgid "IDS_PFUE604_ENG_TOULON"
+msgstr "推進系統：147,000 匹馬力"
+
 msgid "IDS_PFUE610_B7_ENG_STOCK"
 msgstr "推進系統：107,000 匹馬力"
 
 msgid "IDS_PFUE611_B7_ENG_TOP"
 msgstr "推進系統：112,000 匹馬力"
+
+msgid "IDS_PFUE700_C8_ENG_STOCK"
+msgstr "推進系統：130,000 匹馬力"
 
 msgid "IDS_PFUE701_C8_ENG_STOCK"
 msgstr "推進系統：100,000 匹馬力"
@@ -66168,11 +66099,17 @@ msgstr "推進系統：150,000 匹馬力"
 msgid "IDS_PFUE804_ENG_CARNOT"
 msgstr "推進系統：160,000 匹馬力"
 
+msgid "IDS_PFUE805_C9_ENG_STOCK"
+msgstr "推進系統：100,000 匹馬力"
+
 msgid "IDS_PFUE810_B9_ENG_STOCK"
 msgstr "推進系統：180,000 匹馬力"
 
 msgid "IDS_PFUE811_B9_ENG_TOP"
 msgstr "推進系統：192,000 匹馬力"
+
+msgid "IDS_PFUE900_C10_ENG_STOCK"
+msgstr "推進系統：240,000 匹馬力"
 
 msgid "IDS_PFUE901_C10_ENG_STOCK"
 msgstr "推進系統：220,000 匹馬力"
@@ -66324,11 +66261,17 @@ msgstr "沃克蘭 (B)"
 msgid "IDS_PFUH605_STRASBOURG"
 msgstr "史特拉斯堡"
 
+msgid "IDS_PFUH606_TOULON"
+msgstr "土倫"
+
 msgid "IDS_PFUH611_B7_HULL_A"
 msgstr "里昂 (1932)"
 
 msgid "IDS_PFUH612_B7_HULL_B"
 msgstr "里昂 (1944)"
+
+msgid "IDS_PFUH700_C8_HULL_STOCK"
+msgstr "瑟堡 (A)"
 
 msgid "IDS_PFUH701_C8_HULL_A"
 msgstr "查理·馬特 (1945)"
@@ -66350,6 +66293,9 @@ msgstr "香檳"
 
 msgid "IDS_PFUH707_FLANDRE"
 msgstr "法蘭德斯"
+
+msgid "IDS_PFUH708_C8_HULL_TOP"
+msgstr "瑟堡 (B)"
 
 msgid "IDS_PFUH711_B8_HULL_A"
 msgstr "黎塞留 (1940)"
@@ -66387,11 +66333,20 @@ msgstr "讓·巴爾(Jean Bart B)"
 msgid "IDS_PFUH806_CARNOT"
 msgstr "卡諾"
 
+msgid "IDS_PFUH807_C9_HULL_A"
+msgstr "布雷斯特 (A)"
+
+msgid "IDS_PFUH808_C9_HULL_B"
+msgstr "布雷斯特 (B)"
+
 msgid "IDS_PFUH811_B9_HULL_A"
 msgstr "亞爾薩斯 (A)"
 
 msgid "IDS_PFUH812_B9_HULL_B"
 msgstr "亞爾薩斯 (B)"
+
+msgid "IDS_PFUH900_C10_HULL_STOCK"
+msgstr "馬賽"	
 
 msgid "IDS_PFUH901_C10_HULL_A"
 msgstr "亨利四世 (1957)"
@@ -66417,11 +66372,8 @@ msgstr "孔戴"
 msgid "IDS_PFUH991_C10_HULL_A"
 msgstr "布倫努斯 (A)"
 
-msgid "IDS_PFUI503_F_BEARN"
-msgstr "Dewoitine D.376"
-
 msgid "IDS_PFUL507_SB_BEARN"
-msgstr "Vought V-156F"
+msgstr "沃特 V-156F"
 
 msgid "IDS_PFUS001_C1_SUO_STOCK"
 msgstr "PCA n° 1 Mle 1"
@@ -66532,112 +66484,130 @@ msgid "IDS_PFUS522_B6_SUO_TOP"
 msgstr "PCA n° 6 Mle 2"
 
 msgid "IDS_PFUS601_C7_SUO_STOCK"
-msgstr "PCA n° 7 Mle 1"
+msgstr "PCA n° 7 Mle 1"
 
 msgid "IDS_PFUS602_C7_SUO_TOP"
 msgstr "PCA n° 7 Mle 2"
 
 msgid "IDS_PFUS603_D7_SUO_STOCK"
-msgstr "PCA n° 7 Mle 1"
+msgstr "PCA n° 7 Mle 1"
 
 msgid "IDS_PFUS604_D7_SUO_TOP"
 msgstr "PCA n° 7 Mle 2"
 
 msgid "IDS_PFUS605_SUO_STRASBOURG"
-msgstr "PCA n° 7 Mle 1"
+msgstr "PCA n° 7 Mle 1"
+
+msgid "IDS_PFUS606_SUO_TOULON"
+msgstr "PCA n° 7 Mle 1"
 
 msgid "IDS_PFUS611_B7_SUO_STOCK"
-msgstr "PCA n° 7 Mle 1"
+msgstr "PCA n° 7 Mle 1"
 
 msgid "IDS_PFUS612_B7_SUO_TOP"
 msgstr "PCA n° 7 Mle 2"
 
+msgid "IDS_PFUS700_C8_SUO_STOCK"
+msgstr "PCA n° 8 Mle 1"
+
 msgid "IDS_PFUS701_C8_SUO_STOCK"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS702_C8_SUO_TOP"
-msgstr "PCA n° 8 Mle 2"
+msgstr "PCA n° 8 Mle 2"
 
 msgid "IDS_PFUS703_D8_SUO_STOCK"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS704_D8_SUO_TOP"
-msgstr "PCA n° 8 Mle 2"
+msgstr "PCA n° 8 Mle 2"
 
 msgid "IDS_PFUS705_SUO_BAYARD"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS706_SUO_CHAMPAGNE"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS707_SUO_FLANDRE"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
+
+msgid "IDS_PFUS708_C8_SUO_TOP"
+msgstr "PCA n° 8 Mle 2"
 
 msgid "IDS_PFUS711_B8_SUO_STOCK"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS712_B8_SUO_TOP"
-msgstr "PCA n° 8 Mle 2"
+msgstr "PCA n° 8 Mle 2"
 
 msgid "IDS_PFUS713_SUO_GASCOGNE"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS714_SUO_JBART"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS715_SUO_TERRIBLE"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS716_SUO_TST_TERRIBLE"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PFUS801_C9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS802_C9_SUO_TOP"
-msgstr "PCA n° 9 Mle 2"
+msgstr "PCA n° 9 Mle 2"
 
 msgid "IDS_PFUS803_D9_SUO_STOCK"
-msgstr "PCA n° 9 Mle 1"
+msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS804_D9_SUO_TOP"
-msgstr "PCA n° 9 Mle 2"
+msgstr "PCA n° 9 Mle 2"
 
 msgid "IDS_PFUS805_SUO_BLACK_JBART"
-msgstr "PCA n° 9 Mle 1"
+msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS806_SUO_CARNOT"
-msgstr "PCA n° 9 Mle 1"
+msgstr "PCA n° 9 Mle 1"
+
+msgid "IDS_PFUS807_C9_SUO_STOCK"
+msgstr "PCA n° 9 Mle 1"
+
+msgid "IDS_PFUS808_C9_SUO_TOP"
+msgstr "PCA n° 9 Mle 2"
 
 msgid "IDS_PFUS811_B9_SUO_STOCK"
 msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PFUS812_B9_SUO_TOP"
-msgstr "PCA n° 9 Mle 2"
+msgstr "PCA n° 9 Mle 2"
+
+msgid "IDS_PFUS900_C10_SUO_STOCK"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS901_C10_SUO_STOCK"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS902_D10_SUO_STOCK"
 msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS903_SUO_COLBERT"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS904_SUO_MARCEAU"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS911_B10_SUO_STOCK"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS912_SUO_CHAMPAGNE"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUS930_C11_SUO_STOCK"
 msgstr "PCA n° 11 Mle 1"
 
 msgid "IDS_PFUS991_C10_SUO_STOCK"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PFUT101_D3_TORP_STOCK"
 msgstr "550 mm 19V"
@@ -67249,10 +67219,10 @@ msgid "IDS_PGGA100_20MM_FLAK_38"
 msgstr "20 mm/65 C/38（單裝炮座）"
 
 msgid "IDS_PGGA108_30MM_FLAK_38"
-msgstr "30 mm/45 Flakvierling 103/38"
+msgstr "30 mm/45 Flak 103/38（四聯裝炮座）"
 
 msgid "IDS_PGGA122_30MM_FLAK_38_TWIN"
-msgstr "30 mm/45 Flakzwilling 103/38"
+msgstr "30 mm/45 Flak 103/38（雙聯裝炮座）"
 
 msgid "IDS_PGGA127_55MM_GERAT_77_TWIN"
 msgstr "55 mm/77 Gerät 58（雙聯裝炮座）"
@@ -67449,6 +67419,9 @@ msgstr "457 mm/52 SK C/34（Drh LC/1942 炮座）"
 msgid "IDS_PGGM132_305MM_50_DRH_LC_1912"
 msgstr "305 mm/50 SK C/08（Drh LC/1912 炮座）"
 
+msgid "IDS_PGGM133_305MM_56_QUAD"
+msgstr "305 mm/56 SK C/39（炮塔）"
+
 msgid "IDS_PGGM147_420MM_48_DRH_LC_1940"
 msgstr "420 mm/48 SK C/40（Drh LC/34 炮座）"
 
@@ -67534,7 +67507,7 @@ msgid "IDS_PGGS119_150MM_55_SK_C28_SINGLE_CASEMATE"
 msgstr "150 mm/55 SK C/28（炮廓式）"
 
 msgid "IDS_PGGS123_127MM_61_TWIN"
-msgstr "128 mm/61 Doppelflak（炮塔）"
+msgstr "128 mm/61 KM40（炮塔）"
 
 msgid "IDS_PGGS150_127MM_KC_40"
 msgstr "128 mm L/61 SK C/42"
@@ -67992,6 +67965,12 @@ msgstr "406 mm Spr.Gr. L/4.4 Kz."
 msgid "IDS_PGPA131_406MM_AP_KURFURST"
 msgstr "406 mm P.Spr.Gr. L/4.4"
 
+msgid "IDS_PGPA132_305MM_HE_L4_9_MECK"
+msgstr "305 mm P.Spr.Gr. L/4.9"
+
+msgid "IDS_PGPA133_305MM_AP_L3_8_MECK"
+msgstr "305 mm Spr.Gr. L/3.8"
+
 msgid "IDS_PGPA200_88MM_SG_CS_SUB"
 msgstr "88 mm CS Spr.Gr."
 
@@ -68252,6 +68231,9 @@ msgstr "G7a T1c"
 
 msgid "IDS_PGPT046_G7A_T1D"
 msgstr "G7a T1d"
+
+msgid "IDS_PGPT047_G7A_T1_MECK"
+msgstr "G7a T1"
 
 msgid "IDS_PGPT101_450_G03"
 msgstr "G/03"
@@ -68956,7 +68938,7 @@ msgid "IDS_PGSB518_DESCR"
 msgstr ""
 "此主力艦的設計與 "
 "Bismarck 級艦艇相近，但裝備了不同的主炮組。此炮組由十二門德國於 "
-"1930 年代開發的 305 毫米火炮組成。"
+"1930 年代晚期開發的 305 毫米火炮組成。"
 
 msgid "IDS_PGSB518_FULL"
 msgstr "布蘭登堡(Brandenburg)"
@@ -69016,6 +68998,24 @@ msgid "IDS_PGSB599_NUMBER"
 msgstr "1"
 
 msgid "IDS_PGSB599_YEAR"
+msgstr "1945"
+
+msgid "IDS_PGSB610"
+msgstr "梅克倫堡(Mecklenburg)"
+
+msgid "IDS_PGSB610_DESCR"
+msgstr ""
+"此主力艦擁有十六門 "
+"305 毫米火炮，置於四聯裝炮塔。其對空防禦由開發於 "
+"1940 年代的系統組成。"
+
+msgid "IDS_PGSB610_FULL"
+msgstr "梅克倫堡(Mecklenburg)"
+
+msgid "IDS_PGSB610_NUMBER"
+msgstr "0"
+
+msgid "IDS_PGSB610_YEAR"
 msgstr "1945"
 
 msgid "IDS_PGSB910"
@@ -69432,8 +69432,8 @@ msgstr "G-101"
 
 msgid "IDS_PGSD103_DESCR"
 msgstr ""
-"這艘驅逐艦是為阿根廷海軍而在德國建造。然而，她在第一次世界大戰爆發時進入德意志帝國海軍服役。與 "
-"V-25 級驅逐艦相比，她的尺寸較大且擁有更多艦炮，但航速更緩慢。"
+"為了阿根廷海軍建造於德國的驅逐艦。然而，她在第一次世界大戰爆發時進入德意志帝國海軍服役。與 "
+"V-25 級驅逐艦相比，她的尺寸較大且擁有更多火炮，但航速更緩慢。"
 
 msgid "IDS_PGSD103_FULL"
 msgstr "G-101"
@@ -69465,7 +69465,7 @@ msgid "IDS_PGSD105"
 msgstr "T-22"
 
 msgid "IDS_PGSD105_DESCR"
-msgstr "這種多用途艦艇能夠執行多種工作。從護衛主力艦艇、到進行偵察行動。在德國海軍裡，她被正式歸類為「艦隊魚雷艇」。該艦艇擁有強大的魚雷武器，但她的火炮武器相對較為虛弱。"
+msgstr "這種多用途艦艇能夠執行多種工作：護衛主力艦艇、進行偵察行動等。她在德國海軍被正式歸類為「艦隊魚雷艇」。該艦艇擁有強大的魚雷武器，但她的火炮武器相對較為薄弱。"
 
 msgid "IDS_PGSD105_FULL"
 msgstr "T-22"
@@ -69482,8 +69482,8 @@ msgstr "恩斯特·蓋德(Gaede)"
 msgid "IDS_PGSD106_DESCR"
 msgstr ""
 "「"
-"1934 年式」驅逐艦的設計之一。該艦艇有著對其類型來說相對較大的設計、並且具備非常強大的 "
-"150 毫米巡洋艦艦炮口徑的火炮武器。這個口徑對驅逐艦來說十分不尋常。"
+"1934 年型」驅逐艦的設計之一。該艦艇擁有以其類型而言相對較大的設計、且火炮武器由非常強大的 "
+"150 毫米巡洋艦口徑火炮所組成。此種口徑對驅逐艦來說十分罕見。"
 
 msgid "IDS_PGSD106_FULL"
 msgstr "恩斯特·蓋德(Ernst Gaede)"
@@ -69499,8 +69499,8 @@ msgstr "萊伯勒希特·馬斯(Maass)"
 
 msgid "IDS_PGSD107_DESCR"
 msgstr ""
-"下個世代 "
-"(1934 年式) 的第一艘驅逐艦，為德國海軍的此類型艦艇發展鋪下了道路直到第二次世界大戰結束為止。多虧大尺寸及堅固的設計，她有著出色的生存能力。"
+"下個世代（"
+"1934 年型）的第一艘驅逐艦，為德國海軍的此類型艦艇發展鋪下了道路，直到第二次世界大戰結束為止。多虧大尺寸和堅固設計，她擁有出色的存活性。"
 
 msgid "IDS_PGSD107_FULL"
 msgstr "萊伯勒希特·馬斯(Leberecht Maass)"
@@ -69516,9 +69516,9 @@ msgstr "Z-23"
 
 msgid "IDS_PGSD108_DESCR"
 msgstr ""
-"研發自 萊伯勒希特·馬斯 級驅逐艦 (1936 年 "
-"A 式)，這艘艦艇相較於原型艦擁有更大的尺寸及更多的火力。她獲得了 "
-"150 毫米主炮炮架，但保留了她前輩的魚雷武器。"
+"自 Leberecht Maass 級驅逐艦（1936 年 "
+"A 型）開發而來。相較於原型艦，這艘艦艇擁有更大的尺寸及更強的火力，還裝備了 "
+"128 毫米主炮，但保留了其前輩的魚雷武器。"
 
 msgid "IDS_PGSD108_FULL"
 msgstr "Z-23"
@@ -69534,8 +69534,8 @@ msgstr "Z-46"
 
 msgid "IDS_PGSD109_DESCR"
 msgstr ""
-"有著良好平衡性設計的驅逐艦 (1936 年 "
-"C 式)，目的是為了在公海上進行作業。她與先前艦級的最大差別就是火炮武器，由最新且兩用的主炮組炮塔架所組成。"
+"有著良好平衡性設計的驅逐艦（1936 年 "
+"C 型），目的是為了在公海上進行作業。她與先前艦級的最大差別在於火炮武器，由置於炮塔的最新高平兩用主炮所組成。"
 
 msgid "IDS_PGSD109_FULL"
 msgstr "Z-46"
@@ -69550,7 +69550,7 @@ msgid "IDS_PGSD110"
 msgstr "Z-52"
 
 msgid "IDS_PGSD110_DESCR"
-msgstr "第二次世界大戰結束前開始建造的最後一批德國驅逐艦。其尺寸被認為是她這類型艦艇中最重要的部份。由於兩用火炮及最新的自動防空炮組，這艘艦艇擁有非常強大的對空防禦。"
+msgstr "第二次世界大戰結束前開始建造的最後一批德國驅逐艦。其尺寸被認為是她這類型艦艇中最顯著的特色。由於高平兩用火炮及最新的防空機炮，這艘艦艇擁有非常強大的對空防禦。"
 
 msgid "IDS_PGSD110_FULL"
 msgstr "Z-52"
@@ -69637,8 +69637,8 @@ msgstr "T-61"
 
 msgid "IDS_PGSD506_DESCR"
 msgstr ""
-"設計成一般大小的驅逐艦，之後被正式指定為 "
-"1940 年艦級的艦隊魚雷艇。此系列艦艇是以荷蘭的設計和零組件，並於荷蘭進行建造。其整體平衡良好的戰鬥特色，讓她在優勢上不同於其他同類型德國艦艇。"
+"設計成一般尺寸的驅逐艦，之後被正式指定為 "
+"1940 年級別的艦隊魚雷艇。此系列艦艇是以荷蘭的設計和零組件為基礎，建造於荷蘭。其整體平衡良好的戰鬥特色，讓她擁有不同於其他同類型德國艦艇的優勢。"
 
 msgid "IDS_PGSD506_FULL"
 msgstr "T-61"
@@ -69654,9 +69654,10 @@ msgstr "Z-39"
 
 msgid "IDS_PGSD508_DESCR"
 msgstr ""
-"Z-23的最後一艘姊妹艦是在二戰結束之後所生產的一系列船艦之一"
-"(Type 1936A Mob)裝備150毫米火炮，在1944到"
-"1945年間，船艦獲得了防空火力的加強，這造成了其中一門主炮炮塔被拆除"
+"驅逐艦 "
+"Z-23 的最後一艘姊妹艦屬於二戰開始後生產的一系列艦艇之一（"
+"1936 年 A Mob 型）。她裝備了 150 毫米火炮，在 1944 到 "
+"1945 年間，該艦艇進行了對空防禦的加強，但因此必須拆卸其中一門主炮。"
 
 msgid "IDS_PGSD508_FULL"
 msgstr "Z-39"
@@ -69710,7 +69711,7 @@ msgid "IDS_PGSD519_DESCR"
 msgstr ""
 "這艘 1936 年 "
 "B 型驅逐艦裝備了五聯裝魚雷發射器以及開發於 "
-"1930 年代末的高效自動防空炮。"
+"1930 年代末的高效防空機炮。"
 
 msgid "IDS_PGSD519_FULL"
 msgstr "Z-44"
@@ -69727,7 +69728,7 @@ msgstr "ZF-6"
 msgid "IDS_PGSD529_DESCR"
 msgstr ""
 "其中一艘未完成的法國 Le Hardi 級驅逐艦，在 "
-"1940 年被德國俘獲。該艦的完工計畫是將其裝備完全由德國裝備取代。"
+"1940 年被德國俘獲。該艦的完工計畫是將其武器完全由德國裝備取代。"
 
 msgid "IDS_PGSD529_FULL"
 msgstr "ZF-6"
@@ -70044,6 +70045,9 @@ msgstr "420 mm/50 SK L/50（Drh LC/1918 炮座）"
 
 msgid "IDS_PGUA906_ART_PREUSSEN"
 msgstr "457 mm/52 SK C/34（Drh LC/1942 炮座）"
+
+msgid "IDS_PGUA907_ART_MECKLENBURG"
+msgstr "305 mm/56 SK C/39（炮塔）"
 
 msgid "IDS_PGUA911_406_52_SK_C_34"
 msgstr "406 mm L/52 Drh C/34"
@@ -70440,6 +70444,9 @@ msgstr "推進系統：200,000 匹馬力"
 
 msgid "IDS_PGUE907_ENG_PREUSSEN"
 msgstr "推進系統：167,600 匹馬力"
+
+msgid "IDS_PGUE908_ENG_MECKLENBURG"
+msgstr "推進系統：180,000 匹馬力"
 
 msgid "IDS_PGUE911_B10_ENG_STOCK"
 msgstr "推進系統：167,600 匹馬力"
@@ -70846,6 +70853,9 @@ msgstr "施里芬"
 msgid "IDS_PGUH907_PREUSSEN"
 msgstr "普魯士"
 
+msgid "IDS_PGUH908_MECKLENBURG"
+msgstr "梅克倫堡"
+
 msgid "IDS_PGUH911_GROSSDEUTSCHLAND_A"
 msgstr "大選帝侯 (1945)"
 
@@ -71242,6 +71252,9 @@ msgstr "FKS Typ 10 Mod. 1"
 msgid "IDS_PGUS906_SUO_PREUSSEN"
 msgstr "FKS Typ 10 Mod. 1"
 
+msgid "IDS_PGUS907_SUO_MECKLENBURG"
+msgstr "FKS Typ 10 Mod. 1"
+
 msgid "IDS_PGUS911_SUO"
 msgstr "FKS Typ 10 Mod. 1"
 
@@ -71443,6 +71456,9 @@ msgstr "G7 T1 Ausf.C"
 msgid "IDS_PGUT905_BB10_TORP_STOCK"
 msgstr "G7a T1"
 
+msgid "IDS_PGUT906_TORP_MECKLENBURG"
+msgstr "G7a T1"
+
 msgid "IDS_PGUT921_S10_TORP_STOCK"
 msgstr " "
 
@@ -71522,76 +71538,78 @@ msgid "IDS_PHES418_DE_ZEVEN_DOCK"
 msgstr "戰爭塗料"
 
 msgid "IDS_PHGA005_BOFORS_40MM70_SP48"
-msgstr "40 mm/70 Bofors Model 1948"
+msgstr ""
+"40 mm/70 SAK-40/L70-350\n"
+"（SAK-40/L70-350 炮座）"
 
 msgid "IDS_PHGA012_40MM_56_BOFORS_N3"
-msgstr "40 mm/56 Bofors N.3"
+msgstr "40 mm/56 Bofors（3 號炮座）"
 
 msgid "IDS_PHGA015_BOFORS_75MM55_WILTON_FIJENOORD_MARK4"
-msgstr "75 mm/55 Wilton-Fijenoord Mk4"
+msgstr "75 mm/55 Bofors Model 1929（單裝炮座）"
 
 msgid "IDS_PHGA020_20MM_OERLIKON_MK_V"
-msgstr "20 mm Oerlikon Mk V"
+msgstr "20 mm Oerlikon Mk.II（Mk.V 炮座）"
 
 msgid "IDS_PHGA021_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40 mm Bofors Hazemeier（Mk.4 炮座）"
+msgstr "40 mm/56 Bofors Model 1936（Hazemeyer 炮座）"
 
 msgid "IDS_PHGA022_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk IV"
+msgstr "20 mm Oerlikon Mk.I（Mk.IIA 炮座）"
 
 msgid "IDS_PHGA023_40MM_BOFORS_MK3"
-msgstr "40 mm Bofors（Mk.3 炮座）"
+msgstr "40 mm/56 Bofors（Mk.3 炮座）"
 
 msgid "IDS_PHGA024_40MM_BOFORS_M36"
-msgstr "40 mm Bofors（Mk.36 炮座）"
+msgstr "40 mm/56 Bofors Model 1936（雙聯裝炮座）"
 
 msgid "IDS_PHGA026_20MM_OERLIKON_MK20_TWIN"
-msgstr "20 mm/70 Mk20"
+msgstr "20 mm Oerlikon（Mk.24 炮座）"
 
 msgid "IDS_PHGA030_12_7MM_80_BROWNING"
-msgstr "12.7 mm/80 Browning"
+msgstr "12.7 mm Browning M1921"
 
 msgid "IDS_PHGA031_SCHWARZLOSE_MG"
-msgstr "7.92 mm/80 Maschinengewehr Patent Schwarzlose M.07"
+msgstr "7.92 mm Schwarzlose 機槍"
 
 msgid "IDS_PHGA034_40MM_BOFORS_M36_1BARREL"
-msgstr "40 mm Bofors（Mk.36 炮座）"
+msgstr "40 mm/56 Bofors Model 1936（單裝炮座）"
 
 msgid "IDS_PHGA035_25MM_BOFORS_M32_2BARRELS"
-msgstr "25 mm Bofors（Mk.32 炮座）"
+msgstr "25 mm akan L/64 Model 1932（雙聯裝炮座）"
 
 msgid "IDS_PHGA036_57MM_60_BOFORS_M50_SW"
-msgstr "57 mm/60 Bofors M1950"
+msgstr "57 mm/60 SAK Model 1950（1950 式炮座）"
 
 msgid "IDS_PHGA037_40MM_BOFORS_MK1"
-msgstr "40 mm Bofors（Mk.1 炮座）"
+msgstr "40 mm/56 Bofors（RP Mk.I 炮座）"
 
 msgid "IDS_PHGM001_BOFORS_120MM50_MODEL_1950"
-msgstr "120 mm/50 Bofors No.10"
+msgstr "120 mm/50 Mk.10（炮塔）"
 
 msgid "IDS_PHGM006_BOFORS_152MM53_MODEL_1942_BARREL2"
-msgstr "152 mm/53 Bofors M42"
+msgstr "150 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PHGM007_BOFORS_150MM50_MARK_9"
-msgstr "150 mm/50 Bofors Мк.9"
+msgstr "150 mm/50 Mk.9（Mk.9 炮座）"
 
 msgid "IDS_PHGM008_BOFORS_150MM50_MARK_10"
-msgstr "150 mm/50 Bofors Мк.10"
+msgstr "150 mm/50 Mk.10（Mk.10 炮座）"
 
 msgid "IDS_PHGM009_283MM54_RF"
-msgstr "283 mm/54 28cm Drh.L. C 28"
+msgstr "283 mm/54.5（炮塔）"
 
 msgid "IDS_PHGM013_BOFORS_152MM53_MODEL_1942_BARREL3"
-msgstr "152 mm/53 Bofors M42"
+msgstr "150 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PHGM014_BOFORS_150MM50_MARK6"
-msgstr "150 mm/50 Bofors Мк.6"
+msgstr "150 mm/50 Mk.6（護盾式炮座）"
 
 msgid "IDS_PHGM018_240MM55_QF"
-msgstr "240 mm/55 QF"
+msgstr "240 mm/55 QF（炮塔）"
 
 msgid "IDS_PHGM019_120_40_KRUPP_3"
-msgstr "120 mm/40 Krupp No.3"
+msgstr "120 mm/40 Krupp №3（護盾式炮座）"
 
 msgid "IDS_PHGM025_203_56_SK_C38"
 msgstr "203 mm/60 SK C/34（炮塔）"
@@ -71600,13 +71618,13 @@ msgid "IDS_PHGM027_203MM_SK_L56"
 msgstr "203 mm/60 SK C/34（炮塔）"
 
 msgid "IDS_PHGM028_120MM50_WILTON_FIJENOORD_MK6"
-msgstr "120 mm/50 Wilton-Fijenoord Nr.6"
+msgstr "120 mm/50 Wilton-Fijenoord Mk.6（護盾式炮座）"
 
 msgid "IDS_PHGM206_BOFORS_152MM53_MODEL_1942_BARREL2"
 msgstr "152 mm/53 Bofors M42"
 
 msgid "IDS_PHGS011_120_50_BOFORS_M42"
-msgstr "120 mm/50 Bofors M1942"
+msgstr "120 mm/50 Model 1942（炮塔）"
 
 msgid "IDS_PHPA001_120_HE_FRIESLAND"
 msgstr "120 mm brisantgranaat M/50"
@@ -71891,25 +71909,25 @@ msgid "IDS_PHSD509_YEAR"
 msgstr "1956"
 
 msgid "IDS_PHUA001_C1_ART_STOCK"
-msgstr "120 mm/50 Wilton-Fijenoord Nr.6"
+msgstr "120 mm/50 Wilton-Fijenoord Mk.6（護盾式炮座）"
 
 msgid "IDS_PHUA101_C2_ART_STOCK"
-msgstr "120 mm/40 Krupp No.3"
+msgstr "120 mm/40 Krupp №3（護盾式炮座）"
 
 msgid "IDS_PHUA201_C3_ART_STOCK"
-msgstr "150 mm/50 Bofors Mk.6"
+msgstr "150 mm/50 Mk.6（護盾式炮座）"
 
 msgid "IDS_PHUA301_C4_ART_STOCK"
-msgstr "150 mm/50 Bofors Mk.9/Mk.10"
+msgstr "150 mm/50 Mk.9/Mk.10（Mk.9/Mk.10 炮座）"
 
 msgid "IDS_PHUA401_C5_ART_STOCK"
-msgstr "150 mm/50 Bofors Mk.9"
+msgstr "150 mm/50 Mk.9（Mk.9 炮座）"
 
 msgid "IDS_PHUA501_C6_ART_STOCK"
-msgstr "152 mm/53 Bofors M42"
+msgstr "152 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PHUA601_C7_ART_STOCK"
-msgstr "152 mm/53 Bofors M42"
+msgstr "150 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PHUA701_C8_ART_STOCK"
 msgstr "203 mm/60 SK C/34（炮塔）"
@@ -71918,13 +71936,13 @@ msgid "IDS_PHUA702_ART_DE_ZEVEN_PRO"
 msgstr "152 mm/53 Bofors M42"
 
 msgid "IDS_PHUA801_C9_ART_STOCK"
-msgstr "240 mm/55 QF"
+msgstr "240 mm/55 QF（炮塔）"
 
 msgid "IDS_PHUA802_ART_GRONINGEN"
-msgstr "120 mm/50 Bofors No.10"
+msgstr "120 mm/50 Mk.10（炮塔）"
 
 msgid "IDS_PHUA901_C10_ART_STOCK"
-msgstr "283 mm/54 28cm Drh.L. C 28"
+msgstr "283 mm/54.5（炮塔）"
 
 msgid "IDS_PHUE001_C1_ENG_STOCK"
 msgstr "推進系統：17,000 匹馬力"
@@ -72159,6 +72177,21 @@ msgstr "軍團"
 msgid "IDS_PIES506_LEONE_ROMAN"
 msgstr "軍團"
 
+msgid "IDS_PIES507_LUCA_ARC"
+msgstr "炎風"
+
+msgid "IDS_PIES508_VITTORIO_ARC"
+msgstr "炎風"
+
+msgid "IDS_PIES509_ADRIATIC_ARC"
+msgstr "炎風"
+
+msgid "IDS_PIES510_ATTILIO_ARC"
+msgstr "炎風"
+
+msgid "IDS_PIES517_FR25_ARC"
+msgstr "金色太陽"
+
 msgid "IDS_PIES600_VENEZIA_SOUNDWAVE"
 msgstr "卓越超群"
 
@@ -72166,7 +72199,7 @@ msgid "IDS_PIGA004_BREDA_37MM_DOUBLE"
 msgstr "37 mm/54 Model 1938（1938 式炮座）"
 
 msgid "IDS_PIGA005_BREDA_20MM_65"
-msgstr "20 mm/65 Breda 1939"
+msgstr "20 mm/65 Model 1939（1939 式炮座）"
 
 msgid "IDS_PIGA007_13_2MM_2BARRELS_BREDA_MG"
 msgstr "13.2 mm/76 Breda Model 1931（雙聯裝槍座）"
@@ -72178,13 +72211,13 @@ msgid "IDS_PIGA018_37MM_54_SINGLE_M1939"
 msgstr "37 mm/54 Model 1939（RM1939 式炮座）"
 
 msgid "IDS_PIGA022_37MM_BREDA_BARRELS_4"
-msgstr "37 mm/54 Breda 1939"
+msgstr "37 mm/54 Model 1939（四聯裝炮座）"
 
 msgid "IDS_PIGA027_65MM_64_ANSALDO"
 msgstr "65 mm/64 Model 1939（1939 式炮座）"
 
 msgid "IDS_PIGA031_65MM_64_ANSALDO_DUAL"
-msgstr "65 mm/64 model 1939"
+msgstr "65 mm/64 Model 1939（雙聯裝炮座）"
 
 msgid "IDS_PIGA032_20MM70_BREDA_BARRELS_6"
 msgstr "20 mm/70 Breda Model 1941（六聯裝炮座）"
@@ -72196,13 +72229,13 @@ msgid "IDS_PIGA044_40MM_VICKERS"
 msgstr "40 mm/39 Vickers-Terni Model 1917（單裝炮座）"
 
 msgid "IDS_PIGA049_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk4"
+msgstr "20 mm Oerlikon Mk.I（Mk.IIA 炮座）"
 
 msgid "IDS_PIGA056_BROWNING_M2_MOD2"
 msgstr "12.7 mm Browning M2 Mod.2"
 
 msgid "IDS_PIGA057_88MM45_SK_L45"
-msgstr "88 mm/45 SK L45"
+msgstr "88 mm/45 SK L/45（MPL C/13 炮座）"
 
 msgid "IDS_PIGA058_13_2MM_2BARRELS_BREDA_MG"
 msgstr "13.2 mm/76 Breda Model 1931（雙聯裝槍座）"
@@ -72229,94 +72262,96 @@ msgid "IDS_PIGA098_13_2MM_BREDA_TRIPOD_SINGLE"
 msgstr "13.2 mm/76 Breda Model 1931（單裝槍座）"
 
 msgid "IDS_PIGM001_152MM53_F"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIGM002_152MM53"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIGM008_320MM44_BARRELS_3_M1934"
-msgstr "320 mm/44 M1934"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM009_320MM44_BARRELS_2_M1934"
-msgstr "320 mm/44 M1934"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM010_381MM50_BARRELS_3_M1939_LIFE_BOAT"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM011_381MM50_BARRELS_3_M1939_TOWER"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM012_381MM50_BARRELS_3_M1939_GUN_DECK"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM019_152MM_55_BARRELS_3_M1934"
-msgstr "152 mm/55 OTO 1934"
+msgstr "152 mm/55 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM020_152MM_55_BARRELS_2_M1934"
-msgstr "152 mm/55 OTO 1934"
+msgstr "152 mm/55 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM025_152MM53_BARRELS_2_M1926"
-msgstr "152 mm/53 Ansaldo 1926"
+msgstr "152 mm/53 Ansaldo Model 1926（1926 式炮座）"
 
 msgid "IDS_PIGM026_203MM55_BARRELS_3"
-msgstr "203 mm/55 model 1934"
+msgstr "203 mm/55 Model 1934（炮塔）"
 
 msgid "IDS_PIGM028_120MM45_BARRELS_2_M1918"
-msgstr "120 mm/45 Canet-Schneider-Armstrong 1918"
+msgstr ""
+"120 mm/45 Schneider-Canet-Armstrong Model 1918/19（1918/19 式炮座）"
 
 msgid "IDS_PIGM030_203MM50_BARRELS_2"
-msgstr "203 mm/50 Ansaldo 1924"
+msgstr "203 mm/50 Model 1924（1924 式炮座）"
 
 msgid "IDS_PIGM035_150MM_SK_L45"
-msgstr "150 mm/45 SK L/45"
+msgstr "150 mm/45 SK L/45（MPL C/16 炮座）"
 
 msgid "IDS_PIGM041_120MM45_BARRELS_2_M1918"
-msgstr "120 mm/45 Armstrong 1919"
+msgstr ""
+"120 mm/45 Schneider-Canet-Armstrong Model 1918/19（1918/19 式炮座）"
 
 msgid "IDS_PIGM045_203MM50_BARRELS_2_M1924"
-msgstr "203 mm/50 Ansaldo 1924"
+msgstr "203 mm/50 Model 1924（1924 式炮座）"
 
 msgid "IDS_PIGM046_152_53_OTO_M1929"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIGM047_152_53_OTO_M1929_RF"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIGM048_120_50_ANSALDO_MODEL_1909"
-msgstr "120 mm/50 Ansaldo 1909"
+msgstr "120 mm/50 Elswick Pattern \"EE\"（護盾式炮座）"
 
 msgid "IDS_PIGM051_135_45_OTO_1937"
 msgstr "135 mm/45 Model 1938（1938 式炮座）"
 
 msgid "IDS_PIGM055_203MM_53_1927"
-msgstr "203 mm/53 Ansaldo 1927"
+msgstr "203 mm/53 Model 1927（1927 式炮座）"
 
 msgid "IDS_PIGM063_305MM_46_A_BARRELS_2_1909"
-msgstr "305 mm/46 Vickers-Terni Model 1909"
+msgstr "305 mm/46 Model 1909（炮塔）"
 
 msgid "IDS_PIGM064_305MM_46_A_BARRELS_3_1909"
-msgstr "305 mm/46 Vickers-Terni Model 1909"
+msgstr "305 mm/46 Model 1909（炮塔）"
 
 msgid "IDS_PIGM068_381MM_50_QUAD_OTTO"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（炮塔）"
 
 msgid "IDS_PIGM074_406MM_50_MOD_1940"
-msgstr "406 mm/50 OTO 1940"
+msgstr "406 mm/50 Model 1940（炮塔）"
 
 msgid "IDS_PIGM075_320MM_44_2BARRELS_M1936"
-msgstr "320 mm/44 M1936"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM076_320MM_44_3BARRELS_M1936"
-msgstr "320 mm/44 M1936"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIGM078_381MM_50_2BARRELS_M1934"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（炮塔）"
 
 msgid "IDS_PIGM079_305MM_46_A_BARRELS_3_1909"
-msgstr "305 mm/46 Vickers-Terni Model 1909"
+msgstr "305 mm/46 Model 1909（炮塔）"
 
 msgid "IDS_PIGM081_254MM_3"
-msgstr "254 mm/60 M1939"
+msgstr "254 mm/60（炮塔）"
 
 msgid "IDS_PIGM082_120MM_50_2BARRELS_1926"
 msgstr "120 mm/50 Ansaldo Model 1926（1926 式炮座）"
@@ -72340,46 +72375,46 @@ msgid "IDS_PIGM099_138_6_MM_40_MLE_1943"
 msgstr "139 mm/40 Mle 1923（Mle 1924 炮座）"
 
 msgid "IDS_PIGS003_100MM_50_MOD_OTO"
-msgstr "100 mm /47 OTO 1928"
+msgstr "100 mm/47 Model 1924/27/28（Eugenio Minisini 炮座）"
 
 msgid "IDS_PIGS014_152MM55_BARRELS_3_M1936_L"
-msgstr "152 mm/55 OTO 1936"
+msgstr "152 mm/55 Model 1936（1936 式炮座）"
 
 msgid "IDS_PIGS015_120MM50_BARRELS_2_M1933"
-msgstr "120 mm/50 M1933"
+msgstr "120 mm/50 Model 1933（1933 式炮座）"
 
 msgid "IDS_PIGS016_120MM50_BARRELS_2_M1933_RM2"
-msgstr "120 mm/50 M1933 RM2"
+msgstr "120 mm/50 Model 1933（1933 式炮座）"
 
 msgid "IDS_PIGS017_90MM50_BARRELS_1_M1939"
-msgstr "90 mm/50 OTO 1939"
+msgstr "90 mm/50 Model 1939（炮塔）"
 
 msgid "IDS_PIGS023_152MM55_BARRELS_3_M1936_R"
-msgstr "152 mm/55 OTO 1936"
+msgstr "152 mm/55 Model 1936（1936 式炮座）"
 
 msgid "IDS_PIGS034_90MM50_BARRELS_2_M1939"
-msgstr "90 mm/50 OTO 1939"
+msgstr "90 mm/50 Model 1939（雙聯裝炮座）"
 
 msgid "IDS_PIGS036_76MM_50_VICKERS_1909"
-msgstr "76 mm/50 Vickers 1909"
+msgstr "76 mm/50 Model 1909（單裝炮座）"
 
 msgid "IDS_PIGS053_102_35_OTO_1933"
-msgstr "102 mm/35 OTO 1933"
+msgstr "102 mm/35 Vickers-Terni Model 1915（單裝炮座）"
 
 msgid "IDS_PIGS065_120MM_50_A_1909_CASEMATE"
-msgstr "120 mm/50 Vickers 1909"
+msgstr "120 mm/50 Vickers BL（炮廓式）"
 
 msgid "IDS_PIGS071_120MM_50_ANSALDO_1909"
-msgstr "120 mm/50 Ansaldo 1909"
+msgstr "120 mm/50 Elswick Pattern \"EE\"（炮廓式）"
 
 msgid "IDS_PIGS072_135MM_45_MOD_1938"
-msgstr "135 mm/45 OTO 1938"
+msgstr "135 mm/45 Model 1938（1937 式炮座）"
 
 msgid "IDS_PIGS073_135MM_45_MOD_1938"
-msgstr "135 mm/45 OTO 1938"
+msgstr "135 mm/45 Model 1938（1937 式炮座）"
 
 msgid "IDS_PIGS080_152MM_55_BARRELS_3_M1934"
-msgstr "152 mm/55 OTO 1934"
+msgstr "152 mm/55 Model 1936（1936 式炮座）"
 
 msgid "IDS_PIGT006_533_MM_3_TUBES"
 msgstr "533 mm tubo lanciasiluri"
@@ -73369,70 +73404,72 @@ msgid "IDS_PISD509_YEAR"
 msgstr "1936"
 
 msgid "IDS_PIUA001_ART_STOCK"
-msgstr "120 mm/45 Armstrong 1919"
+msgstr ""
+"120 mm/45 Schneider-Canet-Armstrong Model 1918/19（1918/19 式炮座）"
 
 msgid "IDS_PIUA101_C2_ART_STOCK"
-msgstr "120 mm/50 Ansaldo 1909"
+msgstr "120 mm/50 Elswick Pattern \"EE\"（護盾式炮座）"
 
 msgid "IDS_PIUA102_DD2_ART_STOCK"
 msgstr "102 mm/45 Schneider-Armstrong Model 1919（雙聯裝炮座）"
 
 msgid "IDS_PIUA201_C3_ART_STOCK"
-msgstr "150 mm/45 SK L/45"
+msgstr "150 mm/45 SK L/45（MPL C/16 炮座）"
 
 msgid "IDS_PIUA202_DD3_ART_STOCK"
 msgstr "120 mm/45 Vickers-Terni Model 1924（1926 式炮座）"
 
 msgid "IDS_PIUA301_C4_ART_STOCK"
-msgstr "152 mm/53 Ansaldo 1926"
+msgstr "152 mm/53 Ansaldo Model 1926（1926 式炮座）"
 
 msgid "IDS_PIUA302_BB4_ART_STOCK"
-msgstr "305 mm/46 Vickers-Terni Model 1909"
+msgstr "305 mm/46 Model 1909（炮塔）"
 
 msgid "IDS_PIUA303_DD4_ART_STOCK"
 msgstr "120 mm/45 Vickers-Terni Model 1924（1926 式炮座）"
 
 msgid "IDS_PIUA401_C5_ART_STOCK"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIUA402_ART_GENOVA"
-msgstr "203 mm/50 Ansaldo 1924"
+msgstr "203 mm/50 Model 1924（1924 式炮座）"
 
 msgid "IDS_PIUA403_BB5_ART_STOCK"
-msgstr "305 mm/46 Vickers-Terni Model 1909"
+msgstr "305 mm/46 Model 1909（炮塔）"
 
 msgid "IDS_PIUA404_DD5_ART_STOCK"
 msgstr "120 mm/50 OTO Model 1931（1931 式炮座）"
 
 msgid "IDS_PIUA501_ART_DUCA"
-msgstr "152 mm/53 OTO 1929"
+msgstr "152 mm/53 OTO Model 1929（1929 式炮座）"
 
 msgid "IDS_PIUA502_ART_GCESARE"
-msgstr "320 mm/44 1934"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA503_ART_GCESARE"
-msgstr "320 mm/44 1934"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA504_C6_ART_STOCK"
-msgstr "203 mm/50 Ansaldo 1924"
+msgstr "203 mm/50 Model 1924（1924 式炮座）"
 
 msgid "IDS_PIUA505_B6_ART_STOCK"
-msgstr "320 mm/44 1936"
+msgstr "320 mm/44 OTO Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA506_DD6_ART_STOCK"
 msgstr "120 mm/50 Ansaldo Model 1937（1937 式/1940 式炮座）"
 
 msgid "IDS_PIUA601_ART_ABRUZZI"
-msgstr "152 mm/55 OTO 1934"
+msgstr "152 mm/55 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA602_ART_LEONE"
-msgstr "120 mm/45 Canet-Schneider-Armstrong 1918"
+msgstr ""
+"120 mm/45 Schneider-Canet-Armstrong Model 1918/19（1918/19 式炮座）"
 
 msgid "IDS_PIUA603_C7_ART_STOCK"
-msgstr "203 mm/53 Ansaldo 1927"
+msgstr "203 mm/53 Model 1927（1927 式炮座）"
 
 msgid "IDS_PIUA604_BB7_ART_STOCK"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（炮塔）"
 
 msgid "IDS_PIUA605_DD7_ART_STOCK"
 msgstr "120 mm/50 Ansaldo Model 1926（1926 式炮座）"
@@ -73441,49 +73478,49 @@ msgid "IDS_PIUA606_ART_FR25"
 msgstr "139 mm/40 Mle 1923（Mle 1924 炮座）"
 
 msgid "IDS_PIUA701_ART_ROMA"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA702_C8_ART_STOCK"
-msgstr "203 mm/55 model 1934"
+msgstr "203 mm/55 Model 1934（炮塔）"
 
 msgid "IDS_PIUA703_ART_GORIZIA"
-msgstr "203 mm/53 Ansaldo 1927"
+msgstr "203 mm/53 Model 1927（1927 式炮座）"
 
 msgid "IDS_PIUA705_ART_AZUR_LITTORIO"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA706_BB8_ART_STOCK"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（1934 式炮座）"
 
 msgid "IDS_PIUA707_DD8_ART_STOCK"
 msgstr "120 mm/50 OTO Model 1931（1931 式炮座）"
 
 msgid "IDS_PIUA801_C9_ART_STOCK"
-msgstr "203 mm/55 model 1934"
+msgstr "203 mm/55 Model 1934（炮塔）"
 
 msgid "IDS_PIUA802_ART_P_EMILIO"
-msgstr "135 mm/45 OTO 1938"
+msgstr "135 mm/45 Model 1938（1938 式炮座）"
 
 msgid "IDS_PIUA803_BB9_ART_STOCK"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（炮塔）"
 
 msgid "IDS_PIUA804_ART_M_POLO"
-msgstr "406 mm/50 OTO 1940"
+msgstr "406 mm/50 Model 1940（炮塔）"
 
 msgid "IDS_PIUA805_ART_G_VERDI"
-msgstr "406 mm/50 OTO 1940"
+msgstr "406 mm/50 Model 1940（炮塔）"
 
 msgid "IDS_PIUA806_DD9_ART_STOCK"
 msgstr "135 mm/45 Model 1938（1938 式炮座）"
 
 msgid "IDS_PIUA902_C10_ART_STOCK"
-msgstr "203 mm/55 model 1934"
+msgstr "203 mm/55 Model 1934（炮塔）"
 
 msgid "IDS_PIUA903_BB10_ART_STOCK"
-msgstr "381 mm/50 OTO 1934"
+msgstr "381 mm/50 Model 1934（炮塔）"
 
 msgid "IDS_PIUA904_ART_NAPOLI"
-msgstr "254 mm/60 M1939"
+msgstr "254 mm/60（炮塔）"
 
 msgid "IDS_PIUA905_DD10_ART_STOCK"
 msgstr "135 mm/45 Model 1938（1938 式炮座）"
@@ -74361,12 +74398,6 @@ msgstr "中島 九五式水偵"
 msgid "IDS_PJAS010_KAWANISHI_E7K"
 msgstr "川西 九四式水偵"
 
-msgid "IDS_PJAS701_F1M2"
-msgstr "星際偵察機"
-
-msgid "IDS_PJAS702_F1M2"
-msgstr "星際偵察機"
-
 msgid "IDS_PJAS901"
 msgstr "三菱 零式水練"
 
@@ -74912,6 +74943,9 @@ msgstr "356 mm/45 41st Year Type（雙聯裝炮塔）"
 
 msgid "IDS_PJGM192_410MM50_10TH_YEAR_TYPE_MODA"
 msgstr "410 mm/50 10th Year Type Mod.A（三聯裝炮塔）"
+
+msgid "IDS_PJGM200_410MM50_TYPE_MODE_A_TWIN"
+msgstr "410 mm/50 10th Year Type Mod.A（雙聯裝炮塔）"
 
 msgid "IDS_PJGM538_5IN54_MK16"
 msgstr "127 mm/54 Mk.16（Mk.39 炮座）"
@@ -75537,6 +75571,12 @@ msgstr "203 mm HE Type0"
 msgid "IDS_PJPA122_203MM_AP_MAYA2"
 msgstr "203 mm AP Type91"
 
+msgid "IDS_PJPA123_410MM_HE_IWAMI"
+msgstr "410 mm HE Type 01"
+
+msgid "IDS_PJPA124_410MM_AP_IWAMI"
+msgstr "410 mm AP/APC Type 01"
+
 msgid "IDS_PJPA616_356MM_AP_ISE"
 msgstr "356 mm AP Type91"
 
@@ -75812,6 +75852,9 @@ msgstr "Type93 Improved"
 
 msgid "IDS_PJPT050_610MM_MAYA2"
 msgstr "Type90 mod. 3"
+
+msgid "IDS_PJPT051_IWAMI"
+msgstr "Type93 mod. 3"
 
 msgid "IDS_PJPT104_HOSHO_STOCK"
 msgstr "Type 91 mod. 0"
@@ -76499,6 +76542,23 @@ msgstr "2"
 
 msgid "IDS_PJSB526_YEAR"
 msgstr "1917"
+
+msgid "IDS_PJSB529"
+msgstr "石見(Iwami)"
+
+msgid "IDS_PJSB529_DESCR"
+msgstr ""
+"A-140-"
+"J3「超級主力艦」計畫的版本之一，主炮數量較少，但高平兩用炮和魚雷武器更為高效。"
+
+msgid "IDS_PJSB529_FULL"
+msgstr "石見(Iwami)"
+
+msgid "IDS_PJSB529_NUMBER"
+msgstr "1"
+
+msgid "IDS_PJSB529_YEAR"
+msgstr "1944"
 
 msgid "IDS_PJSB700"
 msgstr "海霧-大和(ARP Yamato)"
@@ -78493,6 +78553,9 @@ msgstr "127 mm/50 3rd Year Type（C 型炮座）"
 msgid "IDS_PJUA791_TAKAO"
 msgstr "203 mm/50 3rd Year Type No.2（E 式炮塔）"
 
+msgid "IDS_PJUA800_ART_IWAMI"
+msgstr "410 mm/50 10th Year Type Mod.A（雙聯裝炮塔）"
+
 msgid "IDS_PJUA801_ART_HIZEN"
 msgstr "410 mm/50 10th Year Type Mod.A（三聯裝炮塔）"
 
@@ -79156,6 +79219,9 @@ msgstr "推進系統：132,000 匹馬力"
 msgid "IDS_PJUE798_ENG_KII"
 msgstr "推進系統：131,200 匹馬力"
 
+msgid "IDS_PJUE800_ENG_IWAMI"
+msgstr "推進系統：145,000 匹馬力"
+
 msgid "IDS_PJUE801_ENGINE_75000"
 msgstr "推進系統：75,000 匹馬力"
 
@@ -79818,6 +79884,9 @@ msgstr "南方黃龍 (朱雀)"
 msgid "IDS_PJUH799_BLUE_DRAGON"
 msgstr "東方青龍 (青龍)"
 
+msgid "IDS_PJUH800_HULL_IWAMI"
+msgstr "石見"
+
 msgid "IDS_PJUH801_SHIMAKAZE_1943"
 msgstr "島風 (1943)"
 
@@ -80424,6 +80493,9 @@ msgstr "Type8 mod. 1"
 msgid "IDS_PJUS798_SUO_KII"
 msgstr "Type8 mod. 1"
 
+msgid "IDS_PJUS800_SUO_IWAMI"
+msgstr "Type9 mod. 1"
+
 msgid "IDS_PJUS801_SUO"
 msgstr "Type9 mod. 1"
 
@@ -80789,6 +80861,9 @@ msgstr "Type90 mod. 1"
 
 msgid "IDS_PJUT792_TORP_KII"
 msgstr "Type93 mod. 1"
+
+msgid "IDS_PJUT800_TORP_IWAMI"
+msgstr "Type90 mod. 1"
 
 msgid "IDS_PJUT801_C9_TORP_STOCK"
 msgstr "Type90 mod. 1"
@@ -82300,11 +82375,11 @@ msgstr "粉碎與毀滅"
 msgid "IDS_PREV_ALLIED_VEHICLE"
 msgstr "上個隊友"
 
+msgid "IDS_PREV_SHIPS_WILL_BE_ALSO_RESEARCHED"
+msgstr "前置艦艇和所需配件也將被研發："
+
 msgid "IDS_PREV_SHIP_MODULES_WILL_BE_ALSO_RESEARCHED"
 msgstr "前一艘艦艇的配件也將會被研發："
-
-msgid "IDS_PREV_SOUND_TRACK"
-msgstr "上一個音軌"
 
 msgid "IDS_PRGA003_MACHINEGUNMAXIM_7_62"
 msgstr "7.62 mm Maxim 機槍"
@@ -87010,19 +87085,19 @@ msgid "IDS_PSEP406_CANARIAS_MEDITERRANEAN"
 msgstr "大西洋"
 
 msgid "IDS_PSGA003_20MM_FLAK_38"
-msgstr "20 mm/65 C/30（L/30 單裝炮座）"
+msgstr "20 mm/65 C/38（L/30 單裝炮座）"
 
 msgid "IDS_PSGA004_37MM_SKC_30_TWIN"
-msgstr "37 mm SK C/30（Dopp LC/30 炮座）"
+msgstr "37 mm/83 SK C/30（Dopp LC/30 炮座）"
 
 msgid "IDS_PSGM001_203MM50_BL_MODEL_1924_MARK_D"
-msgstr "203 mm/50 BL Model 1924 Mark D"
+msgstr "203 mm/50 BL Model 1924 Mk.D（炮塔）"
 
 msgid "IDS_PSGM006_203MM50_BL_MODEL_1924_MARK_D_FLAG"
-msgstr "203 mm/50 BL Model 1924 Mark D"
+msgstr "203 mm/50 BL Model 1924 Mk.D（炮塔）"
 
 msgid "IDS_PSGS002_120MM45_MARK_F"
-msgstr "120 mm/45 Mark F"
+msgstr "120 mm/45 Mk.F（護盾式炮座）"
 
 msgid "IDS_PSPA001_203MM_HE_CANARIAS"
 msgstr "203 mm HE 256 lb"
@@ -87038,8 +87113,8 @@ msgstr "加納利亞斯(Canarias)"
 
 msgid "IDS_PSSC506_DESCR"
 msgstr ""
-"這艘在英國設計的重型巡洋艦與 "
-"County 級艦艇相似。其最突出的特點在於擁有最初計畫中構想的更強大的魚雷武器。"
+"此重型巡洋艦擁有不尋常的輪廓。艦艇的許多特點與英國 "
+"County 級艦艇相似，其中之一是彈藥庫的「箱型」防護。"
 
 msgid "IDS_PSSC506_FULL"
 msgstr "加納利亞斯(Canarias)"
@@ -87051,7 +87126,7 @@ msgid "IDS_PSSC506_YEAR"
 msgstr "1936"
 
 msgid "IDS_PSUA501_ART_CANARIAS"
-msgstr "203 mm/50 BL Model 1924 Mark D"
+msgstr "203 mm/50 BL Model 1924 Mk.D（炮塔）"
 
 msgid "IDS_PSUE501_ENG_CANARIAS"
 msgstr "推進系統：90,000 匹馬力"
@@ -87220,7 +87295,7 @@ msgstr "育空(Yukon)"
 
 msgid "IDS_PUSB507_DESCR"
 msgstr ""
-"King George V 主力艦的草圖設計版本之一，裝備有 "
+"King George V 主力艦的設計草案版本之一，裝備有 "
 "381 毫米主炮。"
 
 msgid "IDS_PUSB507_FULL"
@@ -87530,25 +87605,25 @@ msgid "IDS_PVGA012_1PDR_MK6_MAXIM"
 msgstr "37 mm Maxim（單裝炮座）"
 
 msgid "IDS_PVGA014_12MM62_HI"
-msgstr "12.7 mm Mk III"
+msgstr "12.7 mm Mk.III"
 
 msgid "IDS_PVGA019_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon（Mk.4 炮座）"
 
 msgid "IDS_PVGM001_6IN47_CL55"
-msgstr "152 mm/47 Mk16"
+msgstr "152 mm/47 Mk.16（炮塔）"
 
 msgid "IDS_PVGM010_6IN50_MK5"
 msgstr "152 mm/50 Mk.5（Armstrong 炮座）"
 
 msgid "IDS_PVGM013_120MM_45_QF_MKIX"
-msgstr "120 mm/45 QF Mk IX"
+msgstr "120 mm/45 QF Mk.IX（CPXIV/XVII/XVIII 炮座）"
 
 msgid "IDS_PVGM017_15IN42_MK1"
 msgstr "381 mm/42 Mk.I（Mk.I**/N 炮座）"
 
 msgid "IDS_PVGS004_5IN25_MK27"
-msgstr "127 mm/25 Mk27"
+msgstr "127 mm/25 Mk.13（Mk.27 炮座）"
 
 msgid "IDS_PVGS011_4_7IN_MK3"
 msgstr "120 mm/50 Mk.3（單裝炮座）"
@@ -87610,7 +87685,7 @@ msgstr "大西洋(Atlântico)"
 msgid "IDS_PVSB508_DESCR"
 msgstr ""
 "此主力艦計畫裝備了英國製造的 "
-"381 毫米主炮和美國的兩用防空炮。"
+"381 毫米主炮和美國的高平兩用防空炮。"
 
 msgid "IDS_PVSB508_FULL"
 msgstr "大西洋(Atlântico)"
@@ -87627,7 +87702,7 @@ msgstr "艾比奧海軍上將(Alte Abreu)"
 msgid "IDS_PVSC502_DESCR"
 msgstr ""
 "Almirante "
-"Barroso 級防護巡洋艦。她最初是在英國為巴西海軍所建造，後來被美國政府購買。她的尺寸相對較小，但以其尺寸而言她的裝備相當精良。是項成功的計畫。"
+"Barroso 級防護巡洋艦。她最初是在英國為巴西海軍所建造，後來被美國政府購買。她的尺寸相對較小，但以其尺寸而言她的武器相當精良。是項成功的計畫。"
 
 msgid "IDS_PVSC502_FULL"
 msgstr "艾比奧海軍上將(Almirante Abreu)"
@@ -87674,13 +87749,13 @@ msgid "IDS_PVSD506_YEAR"
 msgstr "1940"
 
 msgid "IDS_PVUA101_ART_ALMIRANTE_ABREU"
-msgstr "152 mm/50 Mk.5"
+msgstr "152 mm/50 Mk.5（Armstrong 炮座）"
 
 msgid "IDS_PVUA501_ART_JURUA"
-msgstr "120 mm/45 QF Mk IX"
+msgstr "120 mm/45 QF Mk.IX（CPXIV/XVII/XVIII 炮座）"
 
 msgid "IDS_PVUA601_C7_ART_JULIO"
-msgstr "152 mm/47 Mk16"
+msgstr "152 mm/47 Mk.16（炮塔）"
 
 msgid "IDS_PVUA701_ART_ATLANTICO"
 msgstr "381 mm/42 Mk.I（Mk.I**/N 炮座）"
@@ -87757,104 +87832,107 @@ msgstr "冬季"
 msgid "IDS_PWES508_OLAND_BIGHUNT_21"
 msgstr "Hector"
 
+msgid "IDS_PWES511_RAGNAR_RANKED"
+msgstr "龍船"
+
 msgid "IDS_PWGA001_40MM_BOFORS_MK1"
-msgstr "40 mm Bofors wz. 36"
+msgstr "40 mm/56 Bofors wz.1936"
 
 msgid "IDS_PWGA002_13MM_HOTCHKISS_WZ30"
-msgstr "13.2 mm Hotchkiss wz. 30"
+msgstr "13.2 mm Hotchkiss wz.1930"
 
 msgid "IDS_PWGA003_40MM_BOFORS_MK1"
-msgstr "40 mm/60 Bofors M1936"
+msgstr "40 mm/56 Bofors L/60 Model 1936（雙聯裝炮座）"
 
 msgid "IDS_PWGA008_66_50_K10_SKODA"
-msgstr "70 mm/50 Skoda K10"
+msgstr "66 mm/50 Škoda K10（單裝炮座）"
 
 msgid "IDS_PWGA011_40MM_BOFORS_M36_SW"
-msgstr "40 mm/60 Bofors M1936"
+msgstr "40 mm/56 Bofors L/60 Model 1936"
 
 msgid "IDS_PWGA013_25MM_BOFORS_M32_2BARRELS_SW"
-msgstr "25 mm/64 Bofors M1932"
+msgstr "25 mm akan L/64 Model 1932（雙聯裝炮座）"
 
 msgid "IDS_PWGA015_40MM_BOFORS_M36_1BARRELS_SW"
-msgstr "40 mm/60 Bofors M1936"
+msgstr "40 mm/56 Bofors L/60 Model 1936（單裝炮座）"
 
 msgid "IDS_PWGA016_20MM_MADSEN_M38_SW"
-msgstr "20 mm/60 Madsen M1938"
+msgstr "20 mm/60 Madsen maskinkanon Model 1938"
 
 msgid "IDS_PWGA017_57MM_60_BOFORS_M50_SW"
-msgstr "57 mm/60 Bofors M1950"
+msgstr "57 mm/60 SAK Model 1950（1950 式炮座）"
 
 msgid "IDS_PWGA021_25MM_BOFORS_M32_1BARRELS_SW"
-msgstr "25 mm/64 Bofors M1932"
+msgstr "25 mm akan L/64 Model 1932（單裝炮座）"
 
 msgid "IDS_PWGA024_BOFORS_40MM70_SP48"
-msgstr "40 mm/70 Bofors M1948"
+msgstr "40 mm/70 SAK-40/L70-350（SAK-40/L70-350 炮座）"
 
 msgid "IDS_PWGA029_40MM_VICKERS"
-msgstr "40 mm/39 Vickers M22"
+msgstr "40 mm/39 Vickers Model 1922"
 
 msgid "IDS_PWGA037_20MM65_BREDA_M1935_DOUBLE_SW"
-msgstr "20 mm/65 Breda M1935"
+msgstr "20 mm/65 Breda Model 1935（1935 式炮座）"
 
 msgid "IDS_PWGA041_BOFORS_40MM70_SP48_V2"
-msgstr "40 mm/70 Bofors M1948"
+msgstr "40 mm/70 SAK-40/L70-350（SAK-40/L70-350 炮座）"
 
 msgid "IDS_PWGA046_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 QF Mk VII"
+msgstr "40 mm Vickers 2-pdr. Mk VIII（Mk.VII 炮座）"
 
 msgid "IDS_PWGA047_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk IV"
+msgstr "20 mm Oerlikon（Mk.4 炮座）"
 
 msgid "IDS_PWGM003_120MM_BOFORS_WZ34_36_TWIN"
-msgstr "120 mm/50 wz. 34/36 Bofors"
+msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
 msgid "IDS_PWGM004_120MM_BOFORS_WZ34_36_SINGLE"
-msgstr "120 mm/50 wz. 34/36 Bofors"
+msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
 msgid "IDS_PWGM006_305_45_K10_SKODA"
-msgstr "305 mm/45 Skoda K10"
+msgstr "305 mm/45 Škoda K10（炮塔）"
 
 msgid "IDS_PWGM009_100MM50_K10_SKODA"
-msgstr "100 mm/50 Skoda K10"
+msgstr "100 mm/50 Škoda K10（甲板炮座）"
 
 msgid "IDS_PWGM010_120_50_BOFORS_M42_SW"
-msgstr "120 mm/50 Bofors M1942"
+msgstr "120 mm/50 Model 1942（炮塔）"
 
 msgid "IDS_PWGM014_120MM_50_BOFORS_M50"
-msgstr "120 mm/50 Bofors M1950"
+msgstr "120 mm/50 Model 1950（炮塔）"
 
 msgid "IDS_PWGM026_120MM45_BOFORS_M24_SW"
-msgstr "120 mm/45 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924（護盾式炮座）"
 
 msgid "IDS_PWGM035_100MM_47_OTO_1931_SINGLE_SW"
-msgstr "100 mm/47 OTO Model 1931"
+msgstr "100 mm/47 Model 1931（OTO 1932 炮座）"
 
 msgid "IDS_PWGM038_120MM45_BOFORS_M24_LOW_SW"
-msgstr "120 mm/45 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924（護盾式炮座）"
 
 msgid "IDS_PWGM039_120MM45_BOFORS_M24_TWIN"
-msgstr "120 mm/50 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924C（護盾式炮座）"
 
 msgid "IDS_PWGM040_120MM45_BOFORS_M24_SINGLE"
-msgstr "120 mm/50 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924C（護盾式炮座）"
 
 msgid "IDS_PWGM044_4_7IN_50QF_MKXI"
-msgstr "120 mm/50 QF Mk XI"
+msgstr "120 mm/50 QF Mk.XI（CP Mk.XX 炮座）"
 
 msgid "IDS_PWGM049_120MM_BOFORS_WZ34_36_TWIN"
-msgstr "120 mm/50 wz. 34/36 Bofors"
+msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
 msgid "IDS_PWGM051_120MM45_BOFORS_M24_TWIN_SW"
-msgstr "120 mm/45 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924（護盾式炮座）"
 
 msgid "IDS_PWGM052_152MM53_BOFORS_TWIN_SW"
-msgstr "152 mm/53 Bofors M42"
+msgstr "150 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PWGS007_150_50_K10_SKODA"
-msgstr "150 mm/50 Skoda K10"
+msgstr "150 mm/50 Škoda K10（炮廓式）"
 
 msgid "IDS_PWGS050_4IN_45_MK_V"
-msgstr "102 mm/45 Mk V"
+msgstr "102 mm/45 QF Mk.V（HA Mk.III 炮座）"
 
 msgid "IDS_PWGT005_21IN_MKX_TORPEDO_TUBE"
 msgstr "533 mm potrójna"
@@ -88292,58 +88370,58 @@ msgid "IDS_PWSD910_YEAR"
 msgstr "1955"
 
 msgid "IDS_PWUA001_CA1_ART_STOCK"
-msgstr "120 mm/50 Bofors wz. 34/36"
+msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
 msgid "IDS_PWUA101_DD2_ART_STOCK"
-msgstr "100 mm/50 Skoda K10"
+msgstr "100 mm/50 Škoda K10（甲板炮座）"
 
 msgid "IDS_PWUA201_DD3_ART_STOCK"
-msgstr "100 mm/47 OTO Model 1931"
+msgstr "100 mm/47 Model 1931（OTO 1932 炮座）"
 
 msgid "IDS_PWUA202_DD3_ART_TOP"
-msgstr "120 mm/45 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924（護盾式炮座）"
 
 msgid "IDS_PWUA302_DD4_ART_STOCK"
-msgstr "120 mm/45 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924（護盾式炮座）"
 
 msgid "IDS_PWUA303_ART_VIRIBUS"
-msgstr "305 mm/45 Skoda K10"
+msgstr "305 mm/45 Škoda K10（炮塔）"
 
 msgid "IDS_PWUA402_DD5_ART_TOP"
-msgstr "120 mm/50 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924C（護盾式炮座）"
 
 msgid "IDS_PWUA501_DD6_ART_STOCK"
-msgstr "120 mm/50 Bofors M1924"
+msgstr "120 mm/45 Bofors Model 1924C（護盾式炮座）"
 
 msgid "IDS_PWUA601_120_50_WZ_34_36"
-msgstr "120 mm/50 wz. 34/36 Bofors"
+msgstr "120 mm/50 wz.36 Bofors（護盾式炮座）"
 
 msgid "IDS_PWUA602_DD7_ART_STOCK"
-msgstr "120 mm/50 Bofors M1942"
+msgstr "120 mm/50 Model 1942（炮塔）"
 
 msgid "IDS_PWUA701_DD8_ART_STOCK"
-msgstr "120 mm/50 Bofors M1942"
+msgstr "120 mm/50 Model 1942（炮塔）"
 
 msgid "IDS_PWUA702_DD8_ART_ORKAN"
 msgstr "120 mm/50 QF Mk XI"
 
 msgid "IDS_PWUA801_DD9_ART_STOCK"
-msgstr "120 mm/50 Bofors M1942"
+msgstr "120 mm/50 Model 1942（炮塔）"
 
 msgid "IDS_PWUA901_ART_FRIESLAND"
-msgstr "120 mm/50 Bofors No.10"
+msgstr "120 mm/50 Mk.10（炮塔）"
 
 msgid "IDS_PWUA902_DD10_ART_STOCK"
-msgstr "120 mm/50 Bofors M1950"
+msgstr "120 mm/50 Model 1950（炮塔）"
 
 msgid "IDS_PWUA903_DD10_SMALAND"
-msgstr "120 mm/50 Bofors M1950"
+msgstr "120 mm/50 Model 1950（炮塔）"
 
 msgid "IDS_PWUA904_DD10_ART_TST_LAPPLAND"
-msgstr "120 mm/50 Bofors M1950"
+msgstr "120 mm/50 Model 1950（炮塔）"
 
 msgid "IDS_PWUA905_ART_RAGNAR"
-msgstr "152 mm/53 Bofors M42"
+msgstr "150 mm/53 Model 1942（炮塔）"
 
 msgid "IDS_PWUE001_CA1_ENG_STOCK"
 msgstr "推進系統：6,000 匹馬力"
@@ -88714,6 +88792,9 @@ msgstr "DShK"
 msgid "IDS_PXGA015_40MM_BOFORS"
 msgstr "AD"
 
+msgid "IDS_PXGA016_40MM_BOFORS_TWIN"
+msgstr "BEG-14"
+
 msgid "IDS_PXGA017_MACHINEGUNMAXIM_7_62"
 msgstr "7.62 mm Tsar Machine Gun"
 
@@ -88945,32 +89026,14 @@ msgstr "127 mm/38 Plague"
 msgid "IDS_PXGM046_HURRAY_MAIN_GUN"
 msgstr "127 mm/50 Type59"
 
-msgid "IDS_PXGM047_127MM_45_SK_C41"
-msgstr "R-127"
-
-msgid "IDS_PXGM048_138_6MM50_TWIN"
-msgstr "SMG-16"
-
 msgid "IDS_PXGM049_130MM_SM2_1"
 msgstr "Thunder"
-
-msgid "IDS_PXGM050_5IN38_MK38_MOD0"
-msgstr "Mk38"
-
-msgid "IDS_PXGM051_127MM50_TYPE_D"
-msgstr "Big Gun"
 
 msgid "IDS_PXGM052_100MM65_TYPE98"
 msgstr "Rhythm"
 
-msgid "IDS_PXGM053_5IN38_MK38_MOD0"
-msgstr "Mk38"
-
 msgid "IDS_PXGM054_130MM_B2U"
 msgstr "Rain"
-
-msgid "IDS_PXGM055_4_5IN45_MK_5"
-msgstr "BEG 14"
 
 msgid "IDS_PXGM056_MUMMY_GUN_1_SHORT"
 msgstr "203 mm/50 Mle 1932"
@@ -89116,6 +89179,24 @@ msgstr "短程發射器"
 msgid "IDS_PXGS060_TESLA_SECOND_GUN_2"
 msgstr " "
 
+msgid "IDS_PXGS061_MORAY_1_PA"
+msgstr "Mk38"
+
+msgid "IDS_PXGS063_MORAY_3_PA"
+msgstr "SMG-16"
+
+msgid "IDS_PXGS064_OCTOPUS_1_PA"
+msgstr "R-127"
+
+msgid "IDS_PXGS065_OCTOPUS_2_PA"
+msgstr "Big Gun"
+
+msgid "IDS_PXGS066_OCTOPUS_3_PA"
+msgstr "BEG 14"
+
+msgid "IDS_PXGS067_MORAY_2_PA"
+msgstr "Mk38"
+
 msgid "IDS_PXGS070_AKIZUKI_SG_1"
 msgstr "等離子炮"
 
@@ -89220,6 +89301,9 @@ msgstr "533 GN(u)"
 
 msgid "IDS_PXGT010_610MM5_TYPE_93"
 msgstr "BAF(TA)"
+
+msgid "IDS_PXGT011_21IN_MK14_TORPEDO_TUBES"
+msgstr "Tiger claw"
 
 msgid "IDS_PXGT012_21IN_MK15_TORPEDO_TUBES"
 msgstr "533-R"
@@ -92211,7 +92295,7 @@ msgid "IDS_PXUS917_HINDENBURG_H19_SUO"
 msgstr "FKS Typ 10 Mod. 1"
 
 msgid "IDS_PXUS918_HENRI_H19_SUO"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PXUS919_ALASKA_H19_SUO"
 msgstr "Mk9 mod. 1"
@@ -92223,7 +92307,7 @@ msgid "IDS_PXUS921_FLYFIRE_SUO"
 msgstr "EFE mod. I"
 
 msgid "IDS_PXUS922_REPUBLIQ_H19_SUO"
-msgstr "PCA n° 10 Mle 1"
+msgstr "PCA n° 10 Mle 1"
 
 msgid "IDS_PXUS923_YAMATO_H19_SUO"
 msgstr "Type10 mod. 1"
@@ -92436,52 +92520,52 @@ msgid "IDS_PZES518_BLACK_LOYANG"
 msgstr "特別"
 
 msgid "IDS_PZGA008_20MM_OERLIKON_MK4"
-msgstr "20 mm Oerlikon Mk.IV"
+msgstr "20 mm Oerlikon（Mk.4 炮座）"
 
 msgid "IDS_PZGA009_40MM_BOFORS_MK1"
-msgstr "40 mm Bofors Mk1"
+msgstr "40 mm Bofors（Mk.1 炮座）"
 
 msgid "IDS_PZGA010_20MM_OERLIKON_MK20_TWIN"
-msgstr "20 mm Oerlikon Mk.V"
+msgstr "20 mm Oerlikon（Mk.24 炮座）"
 
 msgid "IDS_PZGA014_25MM_TYPE96"
-msgstr "25 mm/60 Type96 Triple mod. 1"
+msgstr "25 mm/60 Type 96（三聯裝炮座）"
 
 msgid "IDS_PZGA018_40MM_BOFORS_MK1"
-msgstr "40 mm Bofors Mk1"
+msgstr "40 mm Bofors（Mk.1 炮座）"
 
 msgid "IDS_PZGA023_40MM_BOFORS_MK2"
-msgstr "40 mm Bofors Mk2"
+msgstr "40 mm Bofors（Mk.2 炮座）"
 
 msgid "IDS_PZGA024_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 QF Mark VII"
+msgstr "40 mm/39 Vickers QF Mk.VIII（Mk.VII 炮座）"
 
 msgid "IDS_PZGA025_2PDR_QF_MKII_POMPOM"
-msgstr "40 mm/39 QF Mark II"
+msgstr "40 mm/39 Vickers QF Mk.II（Mk.II HA 炮座）"
 
 msgid "IDS_PZGA029_BROWNING_M2_MOD2"
-msgstr "12.7 mm Browning M2 mod. 2"
+msgstr "12.7 mm Browning（單裝槍座）"
 
 msgid "IDS_PZGA031_70K_37MM"
-msgstr "37 mm 70-K"
+msgstr "37 mm 70-K 炮座"
 
 msgid "IDS_PZGA033_40MM_BOFORS_MARK_IV_HAZEMEYER"
-msgstr "40 mm Bofors Mk IV"
+msgstr "40 mm/56 OQF Mk.1/2（Mk.IV 炮座）"
 
 msgid "IDS_PZGA051_37MM_67_V11"
-msgstr "37 mm 67 shì"
+msgstr "37 mm V-11 炮座"
 
 msgid "IDS_PZGA065_85MM52_92K"
-msgstr "85 mm/52 92-K"
+msgstr "85 mm/52 Model 1939（92-K 炮座）"
 
 msgid "IDS_PZGA066_40MM_BOFORS_MK3"
-msgstr "40 mm Bofors Mk3"
+msgstr "40 mm Bofors（Mk.3 炮座）"
 
 msgid "IDS_PZGA067_37_50_ACAD"
-msgstr "37 mm/70 ACAD Mle 1936"
+msgstr "37 mm/70 Mle 1935（ACAD Mle 1936 炮座）"
 
 msgid "IDS_PZGA072_40MM_BOFORS"
-msgstr "40 mm Bofors"
+msgstr "40 mm Bofors（Mk.2 炮座）"
 
 msgid "IDS_PZGA083_37MM_46K"
 msgstr "37 mm 46-K 炮座"
@@ -92490,22 +92574,22 @@ msgid "IDS_PZGA088_3IN70_MARK37"
 msgstr "76.2 mm/70 Mk.23（Mk.37 mod. 0 炮座）"
 
 msgid "IDS_PZGA090_57MM_ZIF_31B"
-msgstr "57 mm ZIF-31 炮座"
+msgstr "57 mm ZIF-31B 炮座"
 
 msgid "IDS_PZGA091_25MM_4M120"
 msgstr "25 mm 110-PM（4М-120 炮座）"
 
 msgid "IDS_PZGA092_20MM_OERLIKON_MK_V"
-msgstr "20 mm Oerlikon Mk V"
+msgstr "20 mm Oerlikon Mk.II（Mk.V 炮座）"
 
 msgid "IDS_PZGA093_40MM_BOFORS_MARK_VII_SINGLE"
-msgstr "40 mm Bofors Mk VII"
+msgstr "40 mm/56 OQF Mk.III（Mk.VII 炮座）"
 
 msgid "IDS_PZGA094_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 QF Mk VII"
+msgstr "40 mm Vickers 2-pdr. Mk VIII（Mk.VII 炮座）"
 
 msgid "IDS_PZGA095_2_PDR_MKVII_QUAD"
-msgstr "40 mm/39 QF Mk VII"
+msgstr "40 mm Vickers 2-pdr. Mk VIII（Mk.VII 炮座）"
 
 msgid "IDS_PZGA102_1IN_MK2_MOD2"
 msgstr "28 mm Mk.1（Mk.2 炮座）"
@@ -92514,7 +92598,7 @@ msgid "IDS_PZGA107_37MM_66K"
 msgstr "37 mm 66-K 炮座"
 
 msgid "IDS_PZGA110_40MM_BOFORS_MK2_MK19"
-msgstr "40 mm Bofors（Mk2 炮座）"
+msgstr "40 mm/56 Bofors（Mk.2 炮座）"
 
 msgid "IDS_PZGA111_3IN50_TWIN_MARK_33"
 msgstr "76.2 mm/50 Mk.22（Mk.33 炮座）"
@@ -92523,109 +92607,109 @@ msgid "IDS_PZGA118_20MM_OERLIKON_MK4"
 msgstr "20 mm Oerlikon Mk.IV"
 
 msgid "IDS_PZGA523_25MM_TYPE96_SINGLE"
-msgstr "25 mm/60 Type96 mod. 1"
+msgstr "25 mm/60 Type 96（單裝炮座）"
 
 msgid "IDS_PZGM001_152MM_57_MK_5"
-msgstr "152 mm/57 MK-5-bis"
+msgstr "152 mm/57 B-38（MK-5-bis 炮座）"
 
 msgid "IDS_PZGM002_130MM_B13_2C"
-msgstr "130 mm/50 M1936 shì"
+msgstr "130 mm/50 Model 1936（B-13-IIc 炮座）"
 
 msgid "IDS_PZGM004_5IN38_MK30_MOD0"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
 
 msgid "IDS_PZGM005_5IN38_MK30_MOD1"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.1 炮座）"
 
 msgid "IDS_PZGM013_127MM40_TYPE89_3"
-msgstr "127 mm/40 Type89"
+msgstr "127 mm/40 Type 89（A1 式 Mod.1 炮座）"
 
 msgid "IDS_PZGM015_4_7IN45_BL_MARK_I"
-msgstr "120 mm/45 BL Mk I"
+msgstr "120 mm/45 BL Mk.I（CPVI* 炮座）"
 
 msgid "IDS_PZGM020_105MM_TBTS_LC_16"
-msgstr "105 mm L/45 Tbts LC/16"
+msgstr "105 mm/45 Tbts C/16（Tbts LC/16 炮座）"
 
 msgid "IDS_PZGM022_5IN38_MK38_MOD0"
-msgstr "127 mm/38 Mk38"
+msgstr "127 mm/38 Mk.12（Mk.38 炮座）"
 
 msgid "IDS_PZGM026_4IN_40_QF_MKIV"
-msgstr "102 mm/40 PIX"
+msgstr "102 mm/40 QF Mk.IV（PIX 炮座）"
 
 msgid "IDS_PZGM032_120MM_45_QF_CP_MKXIX_TWIN"
-msgstr "120 mm/45 CPXIX"
+msgstr "120 mm/45 Mk.IX（CPXIX 炮座）"
 
 msgid "IDS_PZGM044_152MM_MK4"
-msgstr "152 mm/57 MK-4"
+msgstr "152 mm/57 B-38（MK-4 炮座）"
 
 msgid "IDS_PZGM045_5IN51_MK_7_MOD2"
-msgstr "127 mm/51 Mark 7"
+msgstr "127 mm/51 Mk.7（護盾式炮座）"
 
 msgid "IDS_PZGM047_5IN38_MK30_MOD0"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
 
 msgid "IDS_PZGM064_130MM_B2LM"
-msgstr "130 mm/50 B-2LM"
+msgstr "130 mm/50 Model 1936（B-2LM 炮座）"
 
 msgid "IDS_PZGM068_203_55MM_MLE_1931_TRIPLE"
-msgstr "203 mm/55 Mle 1934"
+msgstr "203 mm/55 Mle 1934（炮塔）"
 
 msgid "IDS_PZGM071_100MM65_TYPE98"
-msgstr "100 mm/65 Type98"
+msgstr "100 mm/65 Type98（A 式炮座）"
 
 msgid "IDS_PZGM078_380MM_45_MLE_1935"
-msgstr "380 mm/45 Mle 1935"
+msgstr "380 mm/45 Mle 1935（炮塔）"
 
 msgid "IDS_PZGM082_130MM_50_MK18"
-msgstr "130 mm/50 MK-18"
+msgstr "130 mm/50 Model 1936（МK-18 炮座）"
 
 msgid "IDS_PZGM087_5IN54_MARK42"
-msgstr "127 mm/54 Mk.18（炮塔）"
+msgstr "127 mm/54 Mk.42（雙聯裝炮座）"
 
 msgid "IDS_PZGM089_130MM_BL_109A"
-msgstr "130 mm/60（BL-109 炮座）"
+msgstr "130 mm/60（BL-109A 炮座）"
 
 msgid "IDS_PZGM096_6IN50_MK_XXI"
-msgstr "152 mm/50 Mk XXI"
+msgstr "152 mm/50 BL Mk.XXIII（Mk.XXI 炮座）"
 
 msgid "IDS_PZGM106_5IN38_MK32_MOD12"
 msgstr "127 mm/38 Mk.12（Mk.29 炮座）"
 
 msgid "IDS_PZGM109_5IN54"
-msgstr "127 mm/54 Mk.18（炮塔）"
+msgstr "127 mm/54 Mk.42（雙聯裝炮座）"
 
 msgid "IDS_PZGM113_5_25IN_50_QF_MK_I"
-msgstr "133 mm/50 QF Mk I"
+msgstr "133 mm/50 QF Mk.I（Mk.II 炮座）"
 
 msgid "IDS_PZGM114_4_5IN45_MARK_III_UD"
-msgstr "113 mm/45 Mk III UD"
+msgstr "113 mm/45 Mk.III（Mk.IIIUD 炮座）"
 
 msgid "IDS_PZGM526_410MM50_RF"
-msgstr "410 mm/50 10th Year Type"
+msgstr "410 mm/50 10th Year Type（三聯裝炮塔）"
 
 msgid "IDS_PZGM527_410MM50"
-msgstr "410 mm/50 10th Year Type"
+msgstr "410 mm/50 10th Year Type（三聯裝炮塔）"
 
 msgid "IDS_PZGS053_100MM_70_SM_5_1S"
-msgstr "100 mm/70 SM-5-1s"
+msgstr "100 mm/70（SM-5-1s 炮座）"
 
 msgid "IDS_PZGS069_100MM_45_MLE_1930"
-msgstr "100 mm/45 Mle 1931"
+msgstr "100 mm/45 Mle 1930（Mle 1931 炮座）"
 
 msgid "IDS_PZGS079_152_55_MLE_1936"
-msgstr "152 mm/55 Mle 1936"
+msgstr "152 mm/55 Mle 1930（Mle 1936 炮座）"
 
 msgid "IDS_PZGS080_100_55_MLE_1945"
-msgstr "100 mm/55 Mle 1945"
+msgstr "100 mm/55 Mle 1945（CAD Mle 1945 炮座）"
 
 msgid "IDS_PZGS099_4IN45_QF_MK_XIX"
-msgstr "102 mm/45 QF Mk XIX"
+msgstr "102 mm/45 QF Mk.XVI（Mk.XIX 炮座）"
 
 msgid "IDS_PZGS524_155MM_60_TYPE3"
-msgstr "155 mm/60 3rd Year Type"
+msgstr "155 mm/60 3rd Year Type（三聯裝炮塔）"
 
 msgid "IDS_PZGS525_127MM40_TYPE89_MOD_A"
-msgstr "127 mm/40 Type89 A1 mod. 2"
+msgstr "127 mm/40 Type 89（A1 式 Mod.3 炮座）"
 
 msgid "IDS_PZGT003_533MM_1N_3TUBES"
 msgstr "533 mm 1-N"
@@ -93467,97 +93551,97 @@ msgid "IDS_PZSD718_YEAR"
 msgstr " "
 
 msgid "IDS_PZUA001_C1_ART_STOCK"
-msgstr "127 mm/40 Type89"
+msgstr "127 mm/40 Type 89（A1 式 Mod.1 炮座）"
 
 msgid "IDS_PZUA101_D2_ART_STOCK"
-msgstr "105 mm L/45 Tbts LC/16"
+msgstr "105 mm/45 Tbts C/16（Tbts LC/16 炮座）"
 
 msgid "IDS_PZUA201_D3_ART_STOCK"
-msgstr "102 mm/40 PIX"
+msgstr "102 mm/40 QF Mk.IV（PIX 炮座）"
 
 msgid "IDS_PZUA301_D4_ART_STOCK"
-msgstr "127 mm/51 Mark 7"
+msgstr "127 mm/51 Mk.7（護盾式炮座）"
 
 msgid "IDS_PZUA401_D5_ART_STOCK"
-msgstr "120 mm/45 BL Mk I"
+msgstr "120 mm/45 BL Mk.I（CPVI* 炮座）"
 
 msgid "IDS_PZUA402_C5_ART_STOCK"
-msgstr "152 mm/50 Mk XXI"
+msgstr "152 mm/50 BL Mk.XXIII（Mk.XXI 炮座）"
 
 msgid "IDS_PZUA501_130MM_M1936_ANSHAN"
-msgstr "130 mm/50 M1936 shì"
+msgstr "130 mm/50 Model 1936（B-13-IIc 炮座）"
 
 msgid "IDS_PZUA502_D6_ART_STOCK"
-msgstr "130 mm/50 M1936 shì"
+msgstr "130 mm/50 Model 1936（B-13-IIc 炮座）"
 
 msgid "IDS_PZUA503_ART_HUANGHE"
-msgstr "152 mm/57 MK-4"
+msgstr "152 mm/57 B-38（MK-4 炮座）"
 
 msgid "IDS_PZUA504_C6_ART_STOCK"
-msgstr "113 mm/45 Mk III（Mk III UD 炮座）"
+msgstr "113 mm/45 Mk.III（Mk.IIIUD 炮座）"
 
 msgid "IDS_PZUA505_C6_ART_TOP"
-msgstr "133 mm/50 QF Mk I（Mk II 炮座）"
+msgstr "133 mm/50 QF Mk.I（Mk.II 炮座）"
 
 msgid "IDS_PZUA601_D7_ART_STOCK"
-msgstr "120 mm/45 CPXIX"
+msgstr "120 mm/45 Mk.IX（CPXIX 炮座）"
 
 msgid "IDS_PZUA602_C7_ART_STOCK"
 msgstr "127 mm/38 Mk.12（Mk.29 炮座）"
 
 msgid "IDS_PZUA701_127MM_LO_YANG"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0/mod.1 炮座）"
 
 msgid "IDS_PZUA702_D8_ART_STOCK"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
 
 msgid "IDS_PZUA703_ART_IRIAN"
-msgstr "152 mm/57 MK-5-bis"
+msgstr "152 mm/57 B-38（MK-5-bis 炮座）"
 
 msgid "IDS_PZUA704_ART_SILIWANGI"
-msgstr "130 mm/50 B-2LM"
+msgstr "130 mm/50 Model 1936（B-2LM 炮座）"
 
 msgid "IDS_PZUA705_ART_MARTEL_CN"
 msgstr "203 mm/55 Mle 1934"
 
 msgid "IDS_PZUA706_ART_FEN"
-msgstr "100 mm/65 Type98"
+msgstr "100 mm/65 Type98（A 式炮座）"
 
 msgid "IDS_PZUA707_ART_BLACK_LOYANG"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0/mod.1 炮座）"
 
 msgid "IDS_PZUA708_ART_WH_ORK"
-msgstr "100 mm/65 Type98"
+msgstr "100 mm/65 Type98（A 式炮座）"
 
 msgid "IDS_PZUA709_C8_ART_STOCK"
-msgstr "130 mm/50 MK-18"
+msgstr "130 mm/50 Model 1936（МK-18 炮座）"
 
 msgid "IDS_PZUA801_D9_ART_STOCK"
-msgstr "127 mm/38 Mk30"
+msgstr "127 mm/38 Mk.12（Mk.30 mod.0 炮座）"
 
 msgid "IDS_PZUA802_ART_IZUMO_CN"
-msgstr "410 mm/50 10th Year Type"
+msgstr "410 mm/50 10th Year Type（三聯裝炮塔）"
 
 msgid "IDS_PZUA803_ART_WUJING"
-msgstr "380 mm/45 Mle 1935"
+msgstr "380 mm/45 Mle 1935（炮塔）"
 
 msgid "IDS_PZUA804_ART_DALIAN"
-msgstr "130 mm/60（BL-109 炮座）"
+msgstr "130 mm/60（BL-109A 炮座）"
 
 msgid "IDS_PZUA805_C9_ART_STOCK"
-msgstr "127 mm/54 Mk.18（炮塔）"
+msgstr "127 mm/54 Mk.42（雙聯裝炮座）"
 
 msgid "IDS_PZUA901_D10_ART_STOCK"
-msgstr "127 mm/38 Mk38"
+msgstr "127 mm/38 Mk.12（Mk.38 炮座）"
 
 msgid "IDS_PZUA902_C10_ART_STOCK"
-msgstr "127 mm/54 Mk.18（炮塔）"
+msgstr "127 mm/54 Mk.42（雙聯裝炮座）"
 
 msgid "IDS_PZUB701_TB_SANZANG"
-msgstr "BTD Destroyer"
+msgstr "道格拉斯 BTD 毀滅者"
 
 msgid "IDS_PZUD701_DB_SANZANG"
-msgstr "BTD Destroyer"
+msgstr "道格拉斯 BTD 毀滅者"
 
 msgid "IDS_PZUE001_C1_ENG_STOCK"
 msgstr "推進系統：2,500 匹馬力"
@@ -93860,7 +93944,7 @@ msgid "IDS_PZUS705_SUO_SILIWANGI"
 msgstr "GFCS VIII mod. 1"
 
 msgid "IDS_PZUS706_SUO_MARTEL_CN"
-msgstr "PCA n° 8 Mle 1"
+msgstr "PCA n° 8 Mle 1"
 
 msgid "IDS_PZUS707_SUO_FEN"
 msgstr "Mk8 mod. 1"
@@ -93887,7 +93971,7 @@ msgid "IDS_PZUS803_SUO_IZUMO_CN"
 msgstr "Type9 mod. 1"
 
 msgid "IDS_PZUS804_SUO_WUJING"
-msgstr "PCA n° 9 Mle 1"
+msgstr "PCA n° 9 Mle 1"
 
 msgid "IDS_PZUS805_SUO_DALIAN"
 msgstr "GFCS IX mod. 1"
@@ -95346,6 +95430,9 @@ msgstr "研發"
 msgid "IDS_RESEARCH_WITH_MODULES_COST_TTX"
 msgstr "前置配件："
 
+msgid "IDS_RESEARCH_WITH_SHIPS_COST_TTX"
+msgstr "前置艦艇："
+
 msgid "IDS_RESET"
 msgstr "重置"
 
@@ -95677,7 +95764,7 @@ msgid "IDS_REWARD_EVENTUM_5_TITLE"
 msgstr "超級艦艇代幣"
 
 msgid "IDS_REWARD_EVENTUM_6_TITLE"
-msgstr "星星代幣"
+msgstr "義大利代幣"
 
 msgid "IDS_REWARD_EVENTUM_7_TITLE"
 msgstr "蘇聯代幣"
@@ -96873,6 +96960,9 @@ msgstr "Sairus Guerrero"
 
 msgid "IDS_SALTPETER_COLON"
 msgstr "網站籌碼："
+
+msgid "IDS_SALVATORE_CAPITANO"
+msgstr "Salvatore Capitano"
 
 msgid "IDS_SANSONETTI"
 msgstr "Luigi Sansonetti"
@@ -99039,6 +99129,12 @@ msgstr "提高主炮射速，能讓您以較短的裝填時間進行連發射擊
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_EMERGENCY_SURFACING"
 msgstr "下潛能力已耗盡。潛水艦必須浮出水面。"
 
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_OIL_LEAK"
+msgstr "潛水艦會在水面上留下明顯痕跡。溢油部分會在潛水艦浮出水面後修復。"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_OIL_LEAK_PENDING"
+msgstr "在水下時會發生溢油。潛水艦會在水面上留下明顯痕跡。"
+
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_DESCRIPTION_WAVED"
 msgstr "艦艇被聲納音波命中。敵方潛水艦的魚雷將被引導至被高亮突顯的部位。"
 
@@ -99060,6 +99156,12 @@ msgstr "主炮"
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_MAIN_CALIBER_DEAD"
 msgstr "主炮"
 
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_OIL_LEAK"
+msgstr "溢油"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_OIL_LEAK_PENDING"
+msgstr "燃料系統受損"
+
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_PATH_CONTROL_CRIT"
 msgstr "操舵裝置"
 
@@ -99074,6 +99176,9 @@ msgstr "魚雷發射管"
 
 msgid "IDS_SHIP_PARAM_ACTIVE_STATE_WAVED"
 msgstr "聲納音波"
+
+msgid "IDS_SHIP_PARAM_ACTIVE_STATE_WILD_FIRE"
+msgstr "野火"
 
 msgid "IDS_SHIP_PARAM_AIMING_TIME"
 msgstr "瞄準時間"
@@ -99139,7 +99244,7 @@ msgid "IDS_SHIP_PARAM_AMMO_AP"
 msgstr "AP 彈"
 
 msgid "IDS_SHIP_PARAM_AMMO_AP_FULL_NAME"
-msgstr "穿甲 (AP) 彈"
+msgstr "穿甲（AP）彈"
 
 msgid "IDS_SHIP_PARAM_AMMO_BULLET_MASS"
 msgstr "砲彈重量"
@@ -99163,13 +99268,13 @@ msgid "IDS_SHIP_PARAM_AMMO_CS"
 msgstr "SAP 彈"
 
 msgid "IDS_SHIP_PARAM_AMMO_CS_FULL_NAME"
-msgstr "半穿甲 (SAP) 彈"
+msgstr "半穿甲（SAP）彈"
 
 msgid "IDS_SHIP_PARAM_AMMO_HE"
 msgstr "HE 彈"
 
 msgid "IDS_SHIP_PARAM_AMMO_HE_FULL_NAME"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_SHIP_PARAM_ARMOR"
 msgstr "裝甲"
@@ -99425,6 +99530,9 @@ msgstr "煙幕"
 
 msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_REPAIR_ZONE"
 msgstr "維修區"
+
+msgid "IDS_SHIP_PARAM_HEADER_INTERACTIVE_ZONE_WILD_FIRE_AREA"
+msgstr "野火"
 
 msgid "IDS_SHIP_PARAM_HEADER_WEATHER_GLOBAL_CYCLONE"
 msgstr "氣旋"
@@ -99685,13 +99793,13 @@ msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_AMOUNT"
 msgstr "攜彈量"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_BOMB_AP"
-msgstr "穿甲 (AP) 炸彈"
+msgstr "穿甲（AP）炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_BOMB_AP_SHORT"
 msgstr "AP 炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_BOMB_HE"
-msgstr "高爆 (HE) 炸彈"
+msgstr "高爆（HE）炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_BOMB_HE_SHORT"
 msgstr "HE 炸彈"
@@ -99721,25 +99829,25 @@ msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_NAME_TORPEDO"
 msgstr "魚雷類型"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_ROCKET_AP"
-msgstr "穿甲 (AP) 火箭"
+msgstr "穿甲（AP）火箭"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_ROCKET_AP_SHORT"
 msgstr "AP 火箭"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_ROCKET_HE"
-msgstr "高爆 (HE) 火箭"
+msgstr "高爆（HE）火箭"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_ROCKET_HE_SHORT"
 msgstr "HE 火箭"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_SKIP_AP"
-msgstr "穿甲 (AP) 炸彈"
+msgstr "穿甲（AP）炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_SKIP_AP_SHORT"
 msgstr "AP 炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_SKIP_HE"
-msgstr "高爆 (HE) 炸彈"
+msgstr "高爆（HE）炸彈"
 
 msgid "IDS_SHIP_PARAM_SQUADRON_AMMO_SKIP_HE_SHORT"
 msgstr "HE 炸彈"
@@ -100024,7 +100132,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_SURFACE"
 msgstr "於水面上"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_DEPTH_WORKING"
-msgstr "於操作深度"
+msgstr "於操作深度 [UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_BY_FIRE"
 msgstr "艦艇著火時的被偵測性"
@@ -100072,7 +100180,7 @@ msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_PERISCOPE"
 msgstr "於潛望鏡深度"
 
 msgid "IDS_SHIP_PARAM_VISIBILITY_DIST_FROM_DEPTH_WORKING"
-msgstr "於操作深度"
+msgstr "從操作深度 [UNUSED]"
 
 msgid "IDS_SHIP_PARAM_VISION_RANGE"
 msgstr "可偵測範圍"
@@ -100828,7 +100936,7 @@ msgid "IDS_SKILL_DESC_SUBMARINE_CONSUMABLES_RELOAD"
 msgstr " "
 
 msgid "IDS_SKILL_DESC_SUBMARINE_DANGER_ALERT"
-msgstr "潛水艦在潛望鏡深度、操作深度和最大深度時，若處於敵方啟用中之「水底搜索」或「監視雷達」消耗品的作用範圍內，將顯示被偵測標記。"
+msgstr "潛水艦在潛望鏡深度或最大深度時，若處於敵方啟用中之「水底搜索」或「監視雷達」消耗品的作用範圍內，將顯示被偵測標記。"
 
 msgid "IDS_SKILL_DESC_SUBMARINE_HOLD_SECTORS"
 msgstr " "
@@ -101223,9 +101331,6 @@ msgstr "發煙機已啟動"
 
 msgid "IDS_SMOOTHING"
 msgstr "反鋸齒：FXAA"
-
-msgid "IDS_SOFT_PARTICLES"
-msgstr "軟性粒子效果"
 
 msgid "IDS_SOLD_FOR"
 msgstr "出售："
@@ -103482,11 +103587,8 @@ msgstr "潛望鏡深度"
 msgid "IDS_SUBMARINE_DEPTH_STATE_SURFACE"
 msgstr "水面深度"
 
-msgid "IDS_SUBMARINE_DEPTH_STATE_UNMASKING"
-msgstr "[UNUSED]潛望鏡深度"
-
 msgid "IDS_SUBMARINE_DEPTH_STATE_WORKING"
-msgstr "操作深度"
+msgstr "操作深度 [UNUSED]"
 
 msgid "IDS_SUBMARINE_GOAL"
 msgstr "潛水艦角色"
@@ -103865,6 +103967,12 @@ msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BATTLE_RESULTS_6"
 msgstr "戰鬥結束！"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BATTLE_RESULTS_7"
+msgstr "戰鬥結束！"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BATTLE_RESULTS_8"
+msgstr "勝利！"
+
+msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BATTLE_RESULTS_9"
 msgstr "戰鬥結束！"
 
 msgid "IDS_SYS_MESSAGE_HEADER_MS_ACC_BIP_SESSION_EVENT"
@@ -105955,9 +106063,9 @@ msgstr "潛水艦魚雷"
 
 msgid "IDS_TIPS_ACOUSTIC_TORPEDOES_HOMING_DESCRIPTION"
 msgstr ""
-"潛水艦發射的魚雷，會受艦艇的航速和航向影響。魚雷會被引導至被高亮突顯的部位。\n"
+"潛水艦魚雷將根據您艦艇的航速和航向，被引導至被高亮突顯的部位。\n"
 "\n"
-"魚雷命中艦艇舷側時最有破壞力。\n"
+"魚雷命中艦艇舷側時最具破壞力。\n"
 "\n"
 "將您的艦艏轉向襲來的魚雷以降低被擊中的風險。"
 
@@ -106092,7 +106200,7 @@ msgstr ""
 "\n"
 "對標記地區空投 HE 炸彈。\n"
 "\n"
-"最能有效對付大型的敵方裝甲艦。"
+"對付大型敵方裝甲艦最為有效。"
 
 msgid "IDS_TIPS_AIR_DEFENSE"
 msgstr "對空防禦/副炮"
@@ -106128,7 +106236,7 @@ msgstr ""
 "只能命中敵方潛水艦。"
 
 msgid "IDS_TIPS_ARMAMENT_AP"
-msgstr "穿甲 (AP) 彈"
+msgstr "穿甲（AP）彈"
 
 msgid "IDS_TIPS_ARMAMENT_AP_DESCRIPTION"
 msgstr ""
@@ -106141,7 +106249,7 @@ msgstr ""
 "如果砲彈以銳角命中裝甲，裝甲會將砲彈彈開，造成跳彈。"
 
 msgid "IDS_TIPS_ARMAMENT_CS"
-msgstr "半穿甲 (SAP) 彈"
+msgstr "半穿甲（SAP）彈"
 
 msgid "IDS_TIPS_ARMAMENT_CS_DESCRIPTION"
 msgstr ""
@@ -106152,7 +106260,7 @@ msgstr ""
 "如果未擊穿或跳彈，則不會造成傷害。"
 
 msgid "IDS_TIPS_ARMAMENT_HE"
-msgstr "高爆 (HE) 彈"
+msgstr "高爆（HE）彈"
 
 msgid "IDS_TIPS_ARMAMENT_HE_DESCRIPTION"
 msgstr ""
@@ -106252,7 +106360,7 @@ msgstr ""
 "巡洋艦的職責包含跟敵方驅逐艦和巡洋艦對戰，同時提供火炮支援以及用防空火力來保護隊友。"
 
 msgid "IDS_TIPS_DEEP_TORPEDES"
-msgstr "深水 (DT) 魚雷"
+msgstr "深水（DT）魚雷"
 
 msgid "IDS_TIPS_DEEP_TORPEDES_DESCRIPTION"
 msgstr ""
@@ -106546,11 +106654,7 @@ msgstr "潛水艦魚雷"
 
 msgid "IDS_TIPS_SUBMARINE_ALTERNATIVE_TORPEDO_DESCRIPTION"
 msgstr ""
-"聲導魚雷 "
-"[CMD_AMMO_SLOT_2] 會被導向敵艦艦身上被高亮突顯的部位。\n"
-"\n"
-"近發引信魚雷 "
-"[CMD_AMMO_SLOT_3] 只能垂直導向目標。高亮突顯目標艦艇部位，將會降低這些魚雷的被偵測性。"
+"聲導魚雷 [CMD_AMMO_SLOT_2] 導向敵艦被高亮突顯的部位。"
 
 msgid "IDS_TIPS_SUBMARINE_ANTI_SUBMARINE_WARFARE"
 msgstr "深水炸彈"
@@ -106577,8 +106681,7 @@ msgid "IDS_TIPS_SUBMARINE_CONSUMABLE_HYDROPHONE_DESCRIPTION"
 msgstr ""
 "在水下時，高亮突顯可偵測範圍以外的地形和艦艇位置。\n"
 "\n"
-"\n"
-"在操作深度和最大深度偵察潛水艦。"
+"在最大深度偵察潛水艦。"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_AND_VISIBILITY"
 msgstr "潛水艦的隱蔽性"
@@ -106602,9 +106705,9 @@ msgstr "最大深度"
 
 msgid "IDS_TIPS_SUBMARINE_DEPTH_INVULNERABLE_DESCRIPTION"
 msgstr ""
-"處於最大深度的潛水艦，可完全從任何艦艇的偵察設備中隱藏。\n"
+"處於最大深度的潛水艦，只會被敵方潛水艦或「水底搜索」偵測到。\n"
 "\n"
-"潛水艦的能見度會降低。"
+"潛水艦在最大深度時能見度會降低。"
 
 msgid "IDS_TIPS_SUBMARINE_ENERGY_BURNING"
 msgstr "潛水艦下潛能力"
@@ -106650,10 +106753,7 @@ msgid "IDS_TIPS_SUBMARINE_PINGED_SECTOR"
 msgstr "部位被高亮突顯兩次"
 
 msgid "IDS_TIPS_SUBMARINE_PINGED_SECTOR_DESCRIPTION"
-msgstr ""
-"再次以聲納音波命中被高亮突顯的部位，將會提高聲導魚雷的機動性。\n"
-"\n"
-"近發引信魚雷可對艦身部位被高亮突顯兩次的目標艦艇造成更高的傷害。"
+msgstr "再次命中被高亮突顯的部位，將會提高聲導魚雷的機動性。"
 
 msgid "IDS_TIPS_SUBMARINE_TORPEDOES_MANEUVERABILITY"
 msgstr "於水下發射魚雷"
@@ -106690,7 +106790,7 @@ msgid "IDS_TIPS_TORPEDOES_DESCRIPTION"
 msgstr ""
 "可按下 [CMD_AMMO_SLOT_3] 來選擇魚雷武器。\n"
 "\n"
-"最能有效對付大型的敵方裝甲艦。機動性好的艦艇有很高的機率能躲開魚雷攻擊。"
+"對付大型敵方裝甲艦最為有效。機動性好的艦艇有很高的機率能躲開魚雷攻擊。"
 
 msgid "IDS_TIPS_TORPEDOES_MOVEMENT_DISTANCE"
 msgstr "魚雷射程"
@@ -107320,7 +107420,7 @@ msgid "IDS_TOOLTIP_GUARANTEED_VISIBILITY_SUBMARINE"
 msgstr ""
 "就算是在煙幕中、島嶼後方或是水下，也必定會被敵方艦艇偵測到的距離。\n"
 "\n"
-"處於最大深度的潛水艦，只會被敵方潛水艦偵測到。"
+"處於最大深度的潛水艦，只會被敵方潛水艦或「水底搜索」偵測到。"
 
 msgid "IDS_TOOLTIP_HANGARVOLUME"
 msgstr "甲板上的飛機"
@@ -107376,7 +107476,7 @@ msgid "IDS_TOOLTIP_MAX_BUOYANCY_SPEED"
 msgstr "潛水艦能達到的最高下潛與上浮速度"
 
 msgid "IDS_TOOLTIP_MAX_SPEED_UNDER_WATER"
-msgstr "潛水艦在操作深度和最大深度的最高前進速度。"
+msgstr "潛水艦在最大深度的最高前進速度。"
 
 msgid "IDS_TOOLTIP_MENU"
 msgstr "開啟選單"
@@ -107647,9 +107747,9 @@ msgstr "此工作將開放於 %(timeDate)s"
 
 msgid "IDS_TOOLTIP_WAVE_DURATION"
 msgstr ""
-"以聲納音波命中艦艇部位，將會提升已發射魚雷的戰鬥特性。\n"
+"以聲納音波命中目標，將高亮突顯其部位以利魚雷引導。\n"
 "\n"
-"再次命中被高亮突顯的部位，將延長音波效果的持續時間。這也將提升魚雷機動性或提高魚雷傷害（視魚雷類型而定）。"
+"再次命中被高亮突顯的部位，將延長音波效果的持續時間，並提高聲導魚雷的機動性。"
 
 msgid "IDS_TOOLTIP_WAVE_GUN"
 msgstr "震波式武裝"
@@ -108051,6 +108151,12 @@ msgstr "橫向圍板"
 
 msgid "IDS_TRANSSTERN"
 msgstr "尾端橫向圍板"
+
+msgid "IDS_TREE_RESEARCH_INFO_TOOLTIP_DESCRIPTION_1"
+msgstr "艦艇根據其國家、類型和階級分布在科技樹中。"
+
+msgid "IDS_TREE_RESEARCH_INFO_TOOLTIP_DESCRIPTION_2"
+msgstr "要獲得新艦艇，請使用該分支上一艘艦艇獲得的經驗來研發，再以銀幣購買。"
 
 msgid "IDS_TRILINEAR"
 msgstr "三線性"
@@ -109523,7 +109629,7 @@ msgid "IDS_WORKTIME"
 msgstr "啟用"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "《戰艦世界》(Hibiki繁中化1.0.0)"
+msgstr "《戰艦世界》(Hibiki繁中化1.1.0)"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
