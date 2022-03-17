@@ -74342,7 +74342,7 @@ msgid "IDS_PJAF206_RYUJO_TOP"
 msgstr "三菱 零式艦戰二一型"
 
 msgid "IDS_PJAF208_SHOKAKU_TOP"
-msgstr "川西 強風"
+msgstr "川西 紫電改"
 
 msgid "IDS_PJAF210_HAKURYU_TOP"
 msgstr "三菱 陸風"
@@ -80122,7 +80122,7 @@ msgid "IDS_PJUI703_CV7_F_STOCK"
 msgstr "三菱 零式艦戰五二型"
 
 msgid "IDS_PJUI704_CV7_F_TOP"
-msgstr "川西 強風"
+msgstr "川西 紫電改"
 
 msgid "IDS_PJUI705_FIGHTER_BLACK_KAGA"
 msgstr "三菱 零式艦戰五二型"
@@ -109629,7 +109629,7 @@ msgid "IDS_WORKTIME"
 msgstr "啟用"
 
 msgid "IDS_WORLD_OF_WARSHIPS"
-msgstr "《戰艦世界》(Hibiki繁中化2.0.0)"
+msgstr "《戰艦世界》(Hibiki繁中化2.0.1)"
 
 msgid "IDS_WOWS_PREMIUM_ACCOUNT_CR_VALUE"
 msgstr "+%(value)s %"
